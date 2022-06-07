@@ -9,104 +9,71 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rInp4S7.jpg" group-title="",iDAL Production FRANCE (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbtuKhUrh3e0pyodF_QUtew/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NcOgln.png" group-title="Radio",Lucas LEMPEREUR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NcOgln.png" group-title="Radio",Lucas LEMPEREUR (DM)
 plugin://plugin.video.dailymotion_com/?url=x7yrzoq&mode=playLiveVideo
 
-# https://www.twitch.tv/stationmillenium
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YMxfqUO.png" group-title="Radio",Station Millenium 102.5 FM (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=stationmillenium
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMxfqUO.png" group-title="Radio",Station Millenium 102.5 FM (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/stationmillenium
 
-# https://www.twitch.tv/lesnumeriques
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bRvPgHk.jpg" group-title="",lesnumeriques (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=lesnumeriques
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRvPgHk.jpg" group-title="",lesnumeriques (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lesnumeriques
 
-# https://www.twitch.tv/simpsonsvf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MVF9nQb.jpg" group-title="",simpsonsVF (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=simpsonsvf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVF9nQb.jpg" group-title="",simpsonsVF (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/simpsonsvf
 
-# https://www.twitch.tv/brooklyn___99
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mypSHw.jpg" group-title="",série Brooklyn 99 (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=brooklyn___99
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mypSHw.jpg" group-title="",série Brooklyn 99 (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/brooklyn___99
 
-# https://www.twitch.tv/samueletienne
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pHYvStp.jpg" group-title="",LaMatinéeEstTienne (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=samueletienne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHYvStp.jpg" group-title="",LaMatinéeEstTienne (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/samueletienne
 
-# https://www.twitch.tv/clarktvfr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPK9UV3.png" group-title="",clarktvfr (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=clarktvfr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPK9UV3.png" group-title="",clarktvfr (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/clarktvfr
 
-# https://www.twitch.tv/reptout
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HIq8pfc.jpg" group-title="",ReptOut (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=reptout
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIq8pfc.jpg" group-title="",ReptOut (STK)
+plugin://plugin.video.sendtokodi/?ttps://www.twitch.tv/reptout
 
-# https://www.twitch.tv/pulsradiocom
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCJgcVi.png" group-title="Radio",pulsradiocom (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=pulsradiocom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCJgcVi.png" group-title="Radio",pulsradiocom (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/pulsradiocom
 
-https://www.twitch.tv/pulslounge
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWV30A.png" group-title="Radio",pulslounge (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=pulslounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWV30A.png" group-title="Radio",pulslounge (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/pulslounge
 
-# https://www.twitch.tv/mxradio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8e9prSa.png" group-title="Radio",mxradio (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=mxradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8e9prSa.png" group-title="Radio",mxradio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/mxradio
 
-#https://www.twitch.tv/xmovelaradio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsPCtUv.png" group-title="Radio",xmovelaradio (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=xmovelaradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsPCtUv.png" group-title="Radio",xmovelaradio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/xmovelaradio
 
-# https://www.twitch.tv/hitpartyfr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFKjp0Y.png" group-title="Radio",hitpartyfr (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=hitpartyfr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFKjp0Y.png" group-title="Radio",hitpartyfr (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/hitpartyfr
 
-# https://www.twitch.tv/roadfmfr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pe9RrJ3.png" group-title="Radio",roadfmfr (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=roadfmfr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pe9RrJ3.png" group-title="Radio",roadfmfr (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/roadfmfr
 
-# https://www.twitch.tv/elscer
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKg19JK.png" group-title="",elscer - CINE-Gaming : TV 24/24 (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=elscer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKg19JK.png" group-title="",elscer - CINE-Gaming : TV 24/24 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/elscer
 
-# https://www.twitch.tv/adn67240
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55ySea8.jpg" group-title="",RADIOADN.CO (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=adn67240
+#EXTINF:-1 tvg-logo="https://i.imgur.com/55ySea8.jpg" group-title="",RADIOADN.CO (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/adn67240
 
-# https://www.twitch.tv/studiorpl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4XsfgOy.png" group-title="",RPL RADIO 99.0 FM (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=studiorpl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XsfgOy.png" group-title="",RPL RADIO 99.0 FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/studiorpl
 
-# https://www.twitch.tv/h24_music_clip
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5NtNDe.png" group-title="",h24_music_clip (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=h24_music_clip
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5NtNDe.png" group-title="",h24_music_clip  (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/h24_music_clip
 
-# https://www.twitch.tv/masterhiphouse
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKj9s5.jpg" group-title="",masterhiphouse (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=masterhiphouse
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKj9s5.jpg" group-title="",masterhiphouse (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/masterhiphouse
 
-# https://www.twitch.tv/f2radio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Tauae4.jpg" group-title="", F2 Radio  (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=f2radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Tauae4.jpg" group-title="", F2 Radio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/f2radio
 
-# https://www.twitch.tv/rvvmicroouvert
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="",Radio Valle Du Var (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=rvvmicroouvert
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3bgO6u.png" group-title="",Radio Valle Du Var (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rvvmicroouvert
 
-# https://www.twitch.tv/slivecentrefrance http://s-live.cf/s-live/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DH1OViA.png" group-title="Radio",S-Live (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=slivecentrefrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DH1OViA.png" group-title="Radio",S-Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/slivecentrefrance
 
 #EXTINF:-1 tvg-logo="" group-title="",20 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/20.php
@@ -366,8 +333,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCMkQQZsNdRVZ3N7Oj6jVnyg&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg/live
 
 # https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA
-EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT)
-plugin://plugin.video.youtube/play/?video_id=CIC87bQ7CVA
 # https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw
 #EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0XkRJqxFGeZTta1OUqq3fw&live=1
@@ -572,9 +537,9 @@ plugin://script.module.7of9-live/play/316/play.pvr
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#https://www.twitch.tv/cgtn_live_french
-#EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cgtn_live_french
+#EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cgtn_live_french
+
 
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
@@ -627,7 +592,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://dsh-m010.live-l
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar
 https://s2.tntendirect.com/d17/live/chunks.m3u8
-# update link : # https://www.dailymotion.com/video/x5gv5v0
+# https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (Pour VLC) (GEO)
@@ -802,9 +767,7 @@ http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
 http://95.211.153.98/live/france5/chunks.m3u8
 
 
-# https://www.france24.com/ar/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1
-EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic
-#https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
 # https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w
 #EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdTyuXgmJkG_O8_75eqej-w&live=1
@@ -813,9 +776,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdTyuXgmJkG_O
 # https://www.france24.com/en/live
 #EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English
-#https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 # https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg
 #EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg&live=1
@@ -913,7 +873,6 @@ plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
 
 # https://generations.fr//page/generations-tv
 #EXTINF:-1 tvg-id="generations.fr" tvg-name="GenerationsTV FR" tvg-logo="https://i.imgur.com/Kt4SioK.png" group-title="Musique",Generations TV
-https://edge8.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w1661378677.m3u8
 https://edge9.vedge.infomaniak.com/livecast/ik:generation-tv/playlist.m3u8
 
 # http://www.gongnetworks.com/gong.php
@@ -987,9 +946,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_CE5uL8tsIPs
 
 # https://www.ktotv.com/
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/kuImWCr.jpg" group-title="Religion",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/kuImWCr.jpg" group-title="Religion",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 # https://www.sivu-fibre.com/chaine32 https://www.youtube.com/channel/UChl0zP89T7yZyEwQkCfmmnQ
 #EXTINF:-1 tvg-id="LaChaîne32.fr" tvg-name="LaChaîne32 FR" tvg-logo="https://i.imgur.com/0YjqHHj.jpg" group-title="régionale",la chaîne 32 (YT) (c_id)
@@ -1047,16 +1004,13 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x85046c
 EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Musique",Lèeekô TV (OFFLINE)
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist_w1491857041.m3u8
 
-# https://www.lachainenormande.tv/
+# https://www.lachainenormande.tv/Direct.html
 #EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="La Chaine Normande FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Locale",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="La Chaine Normande FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Locale",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+https://lcn.live-kd.com/live/lcn/ngrp:lcn_Wifi/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="La Chaine Normande FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Locale",La Chaine Normande TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://lcn.live-kd.com/live/lcn/ngrp:lcn_Wifi/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIQkku1.jpg" group-title="",LesCroutonsTV (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=lescroutonstv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIQkku1.jpg" group-title="",LesCroutonsTV (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lescroutonstv
 
@@ -1264,8 +1218,8 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 # https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw
 #EXTINF:-1 tvg-id="Puissancetelevision.fr" tvg-logo="https://i.imgur.com/gu3ahVV.png" group-title="Actualités",Puissance Télévision (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCxSUslP_JMH3Bb50oXd1Nnw&live=1
-#EXTINF:-1 tvg-id="Puissancetelevision.fr" tvg-logo="https://i.imgur.com/gu3ahVV.png" group-title="Actualités",Puissance Télévision(STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw
+#EXTINF:-1 tvg-id="Puissancetelevision.fr" tvg-logo="https://i.imgur.com/gu3ahVV.png" group-title="Actualités",Puissance Télévision (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw/live
 
 # https://www.youtube.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51G14Rp.jpg" group-title="Anime",Pyjamasques Francais (YT) (c_id)
@@ -1311,24 +1265,19 @@ https://www.dailymotion.com/video/x69a2vh#tab_embed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VcxXtGC.png" group-title="Radio",Radio Vilette 45 France (OFFLINE)
 https://edge5.vedge.infomaniak.com/livecast/ik:villette45/manifest.m3u8
 
-# https://www.twitch.tv/rcity/
-#EXTINF:-1 tvg-id="radiocity.io" tvg-name="Radio City FR" tvg-logo="https://i.imgur.com/2qXOixz.png" group-title="Radio",RCity (TWITCH) (Non 24/7)
-plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
+#EXTINF:-1 tvg-id="radiocity.io" tvg-name="Radio City FR" tvg-logo="https://i.imgur.com/2qXOixz.png" group-title="Radio",RCity (Non 24/7) (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rcity/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=rec103_7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkoWxN7.jpg" group-title="",REC 103.7 FM CHAUVIGNY (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rec103_7
 
-# https://www.twitch.tv/recalbox facebook.com/recalbox.fr/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="Gaming",Recalbox.fr (TWITCH)
-plugin://plugin.video.twitch/?channel_id=115060112&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EvxSIx.jpg" group-title="Gaming",Recalbox.fr (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/recalbox
+
 
 # https://www.reveiltvsat.com/#reveiltv
 #EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
 https://edge3.vedge.infomaniak.com/livecast/ik:reveiltvdirect_1/manifest.m3u8?spark=135c348f-30cf-47b6-811d-bf49dc4344ac&token=
-#EXTINF:-1 tvg-id="reveiltvsat.fr" tvg-name="Reveil TV FR" tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="Religion",Reveil TV SAT
-https://edge3.vedge.infomaniak.com/livecast/ik:reveiltvdirect_1/chunklist_w906199892.m3u8?spark=135c348f-30cf-47b6-811d-bf49dc4344ac&token=
 
 #EXTINF:-1 tvg-logo="https://www.rjrradio.fr/sites/all/themes/rjr2015/img/logo2016.png" group-title="",rjrradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=160670081&amp;mode=play
@@ -1352,9 +1301,9 @@ plugin://script.module.7of9-live/play/601/play.pvr
 plugin://plugin.video.dailymotion_com/?url=x13p3qi&mode=playLiveVideo
 
 # https://francais.rt.com/en-direct
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
+EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
 http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
+EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
 https://rt-france-gd.secure2.footprint.net/1107_2500Kb.m3u8
 # https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA
 EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (YT) (c_id)
@@ -1418,11 +1367,11 @@ plugin://plugin.video.youtube/play/?channel_id=UC4ZNntU3CyEIH8RGH0n_5bw&live=1
 #EXTINF:-1 tvg-id="StudioQualita.fr" tvg-name="StudioQualita" tvg-logo="https://i.imgur.com/ivKSa8W.jpg" group-title="Actualité",StudioQualita (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw/live
 
-# https://www.twitch.tv/stylfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Vm4YQ1.jpg" group-title="",radio locale Styl'fm (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=stylfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Vm4YQ1.jpg" group-title="",radio locale Styl'fm (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/stylfm
 
-# update link : https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ #
+
+# https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ
 #EXTINF:-1 tvg-id="SudRadio.fr" tvg-name="Sud Radio FR" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="Radio",Sud Radio (DM)
 plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
 #EXTINF:-1 tvg-id="SudRadio.fr" tvg-name="Sud Radio FR" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="Radio",Sud Radio (TWITCH)
@@ -1471,9 +1420,10 @@ http://mv2.tvfrancophonie.org/live/Stream1/chunklist_w671289549_b776739.m3u8
 
 EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva FR" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="généraliste",Téva
 
-# https://www.twitch.tv/top80radio
-#EXTINF:-1 tvg-logo="https://www.top80radio.com/wp-content/uploads/2020/04/Top-80-radio-200x200-1.png" group-title="Radio",Top80Radio (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=top80radio
+
+#EXTINF:-1 tvg-logo="https://www.top80radio.com/wp-content/uploads/2020/04/Top-80-radio-200x200-1.png" group-title="Radio",Top80Radio  (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/top80radio
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pRajVwP.png" group-title="",Top Santé TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
@@ -1552,7 +1502,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphon
 
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" vg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
+#EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
@@ -1664,9 +1614,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqpMa9xCkOZyW
 EXTINF:-1 tvg-logo="https://i.imgur.com/QYzPiI5.jpg" group-title="",Unearth
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-# https://www.twitch.tv/valloiretv https://www.youtube.com/channel/UCQwwi5nkwfwWPCqGt1oItOQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=valloiretv
+#  https://www.youtube.com/channel/UCQwwi5nkwfwWPCqGt1oItOQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="régionale",Valloire TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/valloiretv
 
@@ -1708,11 +1656,9 @@ https://www.dailymotion.com/video/xuyx0h#tab_embed.m3u8
 
 # https://www.vosgestelevision.tv/Direct.html
 #EXTINF:-1 tvg-id="ViaVosges.fr" tvg-name="ViaVosges FR" tvg-logo="https://i.imgur.com/803evgT.png" group-title="régionale",ViaVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/manifest.m3u8
 #EXTINF:-1 tvg-id="ViaVosges.fr" tvg-name="ViaVosges FR" tvg-logo="https://i.imgur.com/803evgT.png" group-title="régionale",ViaVosges (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=https://viavosges.live-kd.com/live/vosgestv/livestream/manifest.mpd
-
-
+plugin://plugin.video.streamlink-tester/?action=play&url=https://vosgestv.live-kd.com/live/vosgestv/vosgestv/manifest.mpd
 
 # https://vl-media.fr/tv/
 #EXTINF:-1 tvg-id="vl-media.fr" tvg-name="vl-media FR" tvg-logo="https://i.imgur.com/FIobeJB.png" group-title="Radio",vl-media (DM)
@@ -1737,17 +1683,12 @@ https://s4.tntendirect.com/w9/live/chunks.m3u8
 plugin://script.module.7of9-live/play/503/play.pvr
 
 # https://www.weo.fr/direct/
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/dpv7bAU.png" group-title="régionale",Wéo (DM)
-plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/dpv7bAU.png" group-title="régionale",Wéo (Pour VLC)
-https://www.dailymotion.com/video/x62islg#tab_embed.m3u8
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/zD4NSNn.jpg" group-title="régionale", WéoPicardie (DM)
-plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/zD4NSNn.jpg" group-title="régionale", WéoPicardie (Pour VLC)
-https://www.dailymotion.com/video/x63085w#tab_embed.m3u8
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/dpv7bAU.png" group-title="régionale",Wéo
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=yellowradiostation
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Wéo FR" tvg-logo="https://i.imgur.com/zD4NSNn.jpg" group-title="régionale", WéoPicardie
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sp48b2t.png" group-title="",Yellow Tv (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/yellowradiostation
 
