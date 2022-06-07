@@ -1,0 +1,247 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULYA8zH.jpg" group-title="",★★★★★★★★★★Space / Astronomy★★★★★★★★★★
+0.0.0.0
+
+# https://www.youtube.com/c/afartv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQNTy4J.jpg" group-title="",afarTV 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaG0IHN1RMOZ4-U3wDXAkwA&live=8
+
+# https://www.youtube.com/c/ajasgtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5CkYDx.jpg" group-title="",AJASG TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHcaYQeZBMZjryx-W43uE-w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5CkYDx.jpg" group-title="",AJASG TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHcaYQeZBMZjryx-W43uE-w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5CkYDx.jpg" group-title="",AJASG TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHcaYQeZBMZjryx-W43uE-w&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hP5X39w.jpg" group-title="",AMSAT-DL AMSAT Deutschland (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCT3nNFprd2A4pP8XXDn3GGQ/live
+
+# https://www.youtube.com/channel/UCvsS7i2pduhY2VKYjistzXg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQWa0AM.jpg" group-title="",Anton Kapela 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvsS7i2pduhY2VKYjistzXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQWa0AM.jpg" group-title="",Anton Kapela 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvsS7i2pduhY2VKYjistzXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQWa0AM.jpg" group-title="",Anton Kapela 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvsS7i2pduhY2VKYjistzXg&live=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPLQ5X2.png" group-title="Radio",Astronomy FM Radio
+http://radio.astronomy.fm:8111/live
+
+# https://www.youtube.com/c/Ag%C3%AAnciaEspacialBrasileira
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztw81BA.jpg" group-title="",ASTRONOMY SPACE & UNIVERSE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4jrTqQX-ObxHyfLBWg41PA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylextev.jpg" group-title="",Chile Al Espacio (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5wI6z3yVPa6X7gQ0Bf_XzQ/live
+
+# https://www.youtube.com/c/CosmoSapiens
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymHqDw7.jpg" group-title="",CosmoSapiens 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3ZODI-xZfdPanPP6tKUg9g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymHqDw7.jpg" group-title="",CosmoSapiens 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3ZODI-xZfdPanPP6tKUg9g&live=1
+
+# https://www.youtube.com/channel/UCqUowrZdd95X_L7prqCd22Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRxLpnf.jpg" group-title="",Discovery channels 1 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCqUowrZdd95X_L7prqCd22Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRxLpnf.jpg" group-title="",Discovery channels 2 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCqUowrZdd95X_L7prqCd22Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRxLpnf.jpg" group-title="",Discovery channels 3 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCqUowrZdd95X_L7prqCd22Q&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRxLpnf.jpg" group-title="",Discovery channels 4 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCqUowrZdd95X_L7prqCd22Q&live=4
+
+# https://www.youtube.com/channel/UCvC1EyPwLs5mxV9ZnTr7rXw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXcfi5k.jpg" group-title="",Discovery channels 1 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvC1EyPwLs5mxV9ZnTr7rXw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXcfi5k.jpg" group-title="",Discovery channels 2 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvC1EyPwLs5mxV9ZnTr7rXw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXcfi5k.jpg" group-title="",Discovery channels 3 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvC1EyPwLs5mxV9ZnTr7rXw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXcfi5k.jpg" group-title="",Discovery channels 4 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvC1EyPwLs5mxV9ZnTr7rXw&live=4
+
+# https://www.esa.int/ESA_Multimedia/ESA_Web_TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZQYQ1l.png" group-title="",ESA Web TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://api.new.livestream.com/accounts/362/events/6350312/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z4wfc8L.jpg" group-title="",Factnomenal (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1pUFgoqKqy_sfzF0_rtQzQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CF7VFi.png" group-title="GATV",Space Coast Government Television (SCGTV)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+
+# https://www.youtube.com/channel/UC7e0ykP3mLq_CGDdOUQluCA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLJuWQU.jpg" group-title="",Global Video Company 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7e0ykP3mLq_CGDdOUQluCA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLJuWQU.jpg" group-title="",Global Video Company 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7e0ykP3mLq_CGDdOUQluCA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLJuWQU.jpg" group-title="",Global Video Company 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7e0ykP3mLq_CGDdOUQluCA&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UO0LkfT.jpg" group-title="",Giuseppe Petricca - Live Meteor Echoes from Scotland (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCP58zss-xlUy1URN52hS5Pw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFHhtaD.jpg" group-title="",Hubble (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJUtNZBqoY0aSdcpTRMUA2Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mt4jW1.jpg" group-title="",K4LED - Radio Astronomy Spectrograph from the K4LED Observatory - Jasper, GA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtawz3MnMBwjz9ShhSC0ygQ
+
+# https://www.youtube.com/c/LabPadre
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCwrSiT.jpg" group-title="",LabPadre 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFwMITSkc1Fms6PoJoh1OUQ&live=10
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIqitX9.jpg" group-title="",Matter (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCS5iRXHd5PqBud1Chh9FRFA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sbqgmS.jpg" group-title="",Matthew Shipley - Solar Monitoring (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCf92Atj0eNFKOBBdZfiIwsQ/live
+
+# https://www.youtube.com/c/astroasahi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wOgvkA.jpg" group-title="",Meteors & starry sky 24/7 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiN7OwV8g8dMm_E0xphBVig&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wOgvkA.jpg" group-title="",Meteors & starry sky 24/7 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiN7OwV8g8dMm_E0xphBVig&live=2
+
+# https://www.youtube.com/c/NASA https://www.youtube.com/user/NASAtelevision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROwQ7Df.jpg" group-title="",Nasa 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROwQ7Df.jpg" group-title="",Nasa 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
+# https://www.nasa.gov/multimedia/nasatv/#public
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF3hEwL.jpg" group-title="",Nasa TV 1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+# https://www.nasa.gov/multimedia/nasatv/#media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HW2URwq.jpg" group-title="",Nasa TV 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+# https://www.youtube.com/c/NASASpaceflightVideos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9eCJbK.jpg" group-title="",NASASpaceflight 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSUu1lih2RifWkKtDOJdsBA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9eCJbK.jpg" group-title="",NASASpaceflight 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSUu1lih2RifWkKtDOJdsBA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9eCJbK.jpg" group-title="",NASASpaceflight 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSUu1lih2RifWkKtDOJdsBA&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YRhKlio.jpg" group-title="",Raw Space (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2_vpnza621Sa0cf_xhqJ8Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Igs7mO.jpg" group-title="",Remarkably (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRtJSmptMd1JSV6CW_7HrSg/live
+
+#EXTINF:-1 tvg-logo="no-logo.png" group-title="",R.O.B (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1l0W7n26sSzR6U9cAWJZQw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1y5sRgH.jpg" group-title="",Sierra Remote Observatories (SRO) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2yQ25HHExoutPG5R88Al0w/live
+
+# https://www.youtube.com/c/spaceofficial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCKkWkM.jpg" group-title="",SPACE (Official) 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIR_LPmEQ9QHR0yB2lxgaxQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCKkWkM.jpg" group-title="",SPACE (Official) 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIR_LPmEQ9QHR0yB2lxgaxQ&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD31w2L.jpg" group-title="",Space 360 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAnPV_k9xP9HV24NTbpwGGA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajLj027.jpg" group-title="",Space LIVE (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoqa0EWFhKcgWj2SRWylUbQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVOU9Tc.jpg" group-title="",SpaceMAX Network (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQEUHl-43b4wi26i9KNi6bA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJR8BE2.jpg" group-title="",Space Mission Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8l-UGTsbA65TkcRAm41QSQ/live
+
+# https://www.youtube.com/c/SpaceRelaxMusicChannel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUAAaTd.jpg" group-title="",Space Relax Music Channel 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSFB7Xy5Fa1pVVKP_CajIrw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUAAaTd.jpg" group-title="",Space Relax Music Channel 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSFB7Xy5Fa1pVVKP_CajIrw&live=2
+
+# https://www.youtube.com/c/SpaceVideosHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U53Kd2j.jpg" group-title="",Space Videos 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCakgsb0w7QB0VHdnCc-OVEA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U53Kd2j.jpg" group-title="",Space Videos 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCakgsb0w7QB0VHdnCc-OVEA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U53Kd2j.jpg" group-title="",Space Videos 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCakgsb0w7QB0VHdnCc-OVEA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U53Kd2j.jpg" group-title="",Space Videos 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCakgsb0w7QB0VHdnCc-OVEA&live=4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZIW5YO.jpg" group-title="",SpaceX CEO (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjdgWkQb1SuNPw6W-MJnC6g/live
+
+# https://www.youtube.com/c/GolfOscarRomeo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ts8dO0.png" group-title="",STARLINK LIVE 24/7 - LAUNCHES REPLAY (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=jWXFCGCyWdc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0iScCy.jpg" group-title="",thebhp (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDyeuRnxf_hxEyH1B7aoDQQ/live
+
+# https://www.youtube.com/c/TheDarkCosmos1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/re8B4Rt.jpg" group-title="",The Dark Cosmos 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClVIqFHcD0Dvh6BB-bYq1rg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/re8B4Rt.jpg" group-title="",The Dark Cosmos 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClVIqFHcD0Dvh6BB-bYq1rg&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NphTTmx.jpg" group-title="",The Launch Pad (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGCndz0n0NHmLHfd64FRjIA/live
+
+# https://www.youtube.com/c/SteviePAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMwc0vh.jpg" group-title="",THEREALPAX 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IUCNj6DsIsOi-DHORB-0MGlGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMwc0vh.jpg" group-title="",THEREALPAX 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IUCNj6DsIsOi-DHORB-0MGlGQ&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8XGG6z.png" group-title="",What's News - Space & Science (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMv1mrz-j0iTVmHCFzMkZ_g/live
+
+# https://www.youtube.com/c/WorldCamTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThgpDE1.jpg" group-title="",WorldCam - Incredible Mars Images recently released from NASA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=a-2mt5FcekY
+
+###############################################################
+# https://www.spacetv.net/space-live-streams/
+# Live To Come
+# https://www.youtube.com/channel/UCCdhWitb48ft1HnNRwY-WvQ
+# https://www.youtube.com/c/PaulWrightEarthbound
+# https://www.youtube.com/c/NASALunar
+# https://www.youtube.com/c/GianMasiVirtualTelescope
+# https://www.youtube.com/c/SpaceX
+# https://www.youtube.com/c/SBPLAYDOHTOY
+###############################################################
