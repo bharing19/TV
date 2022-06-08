@@ -208,7 +208,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCPwOPM0PbkY0S1V_OqA-xjg&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPwOPM0PbkY0S1V_OqA-xjg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u8
 
 # https://www.canadian-museums.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddnQl1m.jpg" group-title="",Canadian Museums TV (YT) (c_id)
@@ -399,7 +399,10 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtRYyMsfy7A8Q
 
 # https://www.genesis360radiotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
-https://media.streambrothers.com:1936/8214/8214/playlist.m3u8
+https://tna5.bozztv.com/genesis360radio/index.m3u8|Referer=https://ssh101.com/
+#https://media.streambrothers.com:1936/8214/8214/playlist.m3u8
+
+# https://globalnews.ca/live/national/
 #EXTINF:-1 tvg-id="GlobalNewsBritishColumbia.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MFsRWIp.jpg" group-title="News",Global News British Columbia (720p)
 https://cutt.ly/VJPAxxX
 #EXTINF:-1 tvg-id="GlobalNewsCalgary.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="News",Global News Calgary (720p)
@@ -760,7 +763,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHqm6pHW77RGi
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Community",WCGTV Brandon
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
-
 
 # https://www.youtube.com/channel/UCjKq-J6gMrDCPOdZdXOUuVA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fBtAL.jpg" group-title="",Western Standard - Monday to Friday at 11:30AM (YT) (c_id)
