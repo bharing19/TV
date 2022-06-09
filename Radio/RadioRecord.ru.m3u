@@ -1,39 +1,15 @@
 #EXTM3U
 
-# https://www.youtube.com/channel/UCRKIdBctvF1TY9z62m-jazg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru Youtube Live★★★★★★★★★★
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Sw_irgLYdI/hq720.jpg" group-title="",90-X (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=upBAFS9QZX4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpIsJoj2W4w/hq720.jpg" group-title="",Chill House (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=PVxv1ymOmqE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/usu8JhVRXyQ/hq720.jpg" group-title="",Chill-Out (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Uq151pJiLpA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/faXMr7KOrh8/hq720.jpg" group-title="",Christmas (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=faXMr7KOrh8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CVjU8gG2poc/hq720.jpg" group-title="",Dance Radio (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=06wQ8Idm62s
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/26okfNPkWNY/hq720.jpg" group-title="",Deep (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Ink67fA1dWQ
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N9mrd-au700/hq720.jpg" group-title="",Drum'n'Bass (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=drdemkJpgao
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AEcYySogpgM/hq720.jpg" group-title="",Гоп FM (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=AEcYySogpgM
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M1Mduu66xNo/hq720.jpg" group-title="",Megamix (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=drdemkJpgao
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TJG_myVUr48/hq720.jpg" group-title="",Russian Mix (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=d5R1jqbyQKQ
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QG6lEaiDIBs/hq720.jpg" group-title="",Techno (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=VDJtQn2SrBI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zRfBffppYSw/hq720.jpg" group-title="",Trancemission (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=zRfBffppYSw
-
-##############
-
 # https://hls-01-radiorecord.hostingradio.ru/record-(CHANNELNAMEHERE)/playlist.m3u8  96/64/32
 # https://www.radiorecord.ru/stations
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
 0.0.0.0
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/reggae_image600_gray_outline.png" group-title="",Reggae
+https://radiorecord.hostingradio.ru/reggae96.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/summerlounge_image600_gray_outline.png" group-title="",Summer Lounge
+https://radiorecord.hostingradio.ru/summerlounge96.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/workout_image600_gray_outline.png" group-title="",Workout
+https://radiorecord.hostingradio.ru/workout96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/uk-garage_image600_gray_outline.png" group-title="",UK Garage
 https://radiorecord.hostingradio.ru/ukgarage96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/phonk_image600_gray_outline.png" group-title="",Phonk
