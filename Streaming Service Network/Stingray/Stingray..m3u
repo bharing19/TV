@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" ,★★★★★★★★★★Stingray★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyGBtfv.jpg" ,★★★★★★★★★★Stingray★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/5MehnrNHgpbp4cMOXiiiwCoVlZbNGf6eExGiUinJ.png" group-title="GalxyTV",Stingray Qello Concerts
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1936
