@@ -1,0 +1,339 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" ,★★★★★★★★★★Stingray★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/5MehnrNHgpbp4cMOXiiiwCoVlZbNGf6eExGiUinJ.png" group-title="GalxyTV",Stingray Qello Concerts
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1936
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/39RIuJV94hx6qLAVve3pgQYYqJmj3lbUXn1xpiWK.png" group-title="GalxyTV",Stingray Cmusic
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1937
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/TolbD4QDeujexlnDpeFHTJtKz4QVPAO8tGSzRCwe.png" group-title="GalxyTV",Stingray dJazz
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1939
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/BHlttYbyHEtm70XQBL1km4h9tLWluwpvVwoqOXMV.png" group-title="GalxyTV",Stingray Karaoke
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1940
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/dJlsiUO19b0sIFQTkCBnSze3PkEsolHavuiuceJy.png" group-title="GalxyTV",Stingray Natur Escape
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1941
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/XdQ06cEmXkqnWuFnBXyfRXxq7qQDID4AJtfKkQIW.png" group-title="GalxyTV",Stingray Classic Rock
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1942
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/9yBs3Z77mDZlFdwA73wGkjcDvdlJZwr2ZT0HA7E6.png" group-title="GalxyTV",Stingray Rock Alternative
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1943
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/r2VkA9clGo5DkHzDBp8cwgSKDqrYwcgZyvo2o6tY.png" group-title="GalxyTV",Stingray Pop Adult
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1944
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/wWSdxvNkRto897anmx260L03wZAtQBICS78SZfRX.png" group-title="GalxyTV",Stingray Hit List
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1945
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/9IEVg6ltNLGuXWDybiaEw0WBeUXX1WLIggmgbtgo.png" group-title="GalxyTV",Stingray Hot Country 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1946
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/y2uaR9d9ESdV1iBu0e8aWP8Egj0xXYx67nZktFhe.png" group-title="GalxyTV",Stingray Everything 80s
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1948
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/6WdEf2NyiyQeTt8zW0aBxf3mG4Cc0DwWBqIZ4ZG8.png" group-title="GalxyTV",Stingray Urban Hits
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1949
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/UBCMxTglB9mJj7goaVJNh07JPtPTt0cycduj58zF.png" group-title="GalxyTV",Stingray Soul Storm
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1950
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/4ZxI7M6M5KlpcIrzrcAHbmCw8aOg1E0fTBDjjtmr.png" group-title="GalxyTV",Stingray Greatest Hits
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1951
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/nKaBl4FaLVWBDDoHnVLbmzS09x1Gmc25dMOTcTmh.png" group-title="GalxyTV",Stingray Today’s Latin Pop
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1952
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/fdLnjFVHgmMyumBlGnt4p7UTtPGOt9sSPlreRzoS.png" group-title="GalxyTV",Stingray Flashback 70s
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2372
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/xOLjwUCRC3LpYpcS6bPwAVwYoAmqRMYjcIpKL9od.png" group-title="GalxyTV",Stingray Classica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2373
+
+# https://www.stingray.com/radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swuH4c2.jpg" ,★★★★★★★★★★Stingray Radio Stations (GEO CANADA)★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★Alberta★★★★★
+0.0.0.0
+
+# https://player.boom941.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8KHJY4.png" group-title="",Stingray Radio - CKBAFM – Boom 94.1 FM : Athabasca | AB
+https://newcap.leanstream.co/CKBAFM-MP3
+
+# https://player.realcountrysouthwest.ca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYPHdd7.png" group-title="",Stingray Radio - CJPRFM – Real Country 94.9 FM : Blairmore | AB
+https://newcap.leanstream.co/CJPRFM-MP3
+
+# https://player.hot1013fm.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mtnBQkn.png" group-title="",Stingray Radio - CJEGFM - Hot 101.3 FM : Bonnyville | AB
+https://newcap.leanstream.co/CJEGFM-MP3
+
+# https://player.realcountrybrooks.ca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/us63Is9.png" group-title="",Stingray Radio - CIBQFM - Real Country 105.7 FM : Brooks | AB
+https://newcap.leanstream.co/CIBQFM-MP3
+
+# https://player.boom1011.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBBye7u.png" group-title="",Stingray Radio - CIXFFM – Boom 94.1 FM : Brooks | AB
+https://newcap.leanstream.co/CIXFFM-MP3
+
+# https://player.ampcalgary.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upB0co5.png" group-title="",Stingray Radio - CKMPFM – Amp 90.3 FM  : Calgary | AB
+https://newcap.leanstream.co/CKMPFM-MP3
+
+# https://player.xl103calgary.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctf1BQG.png" group-title="",Stingray Radio - CFXLFM – xl103 103.1 FM : Calgary | AB
+https://newcap.leanstream.co/CFXLFM-MP3
+
+# https://player.newcountry981.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJGWxgM.png" group-title="",Stingray Radio - CFCWFM – New Country 98.1 FM : Camrose | AB
+https://newcap.leanstream.co/CFCWFM-MP3
+
+# https://player.boom953.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4m8AmVu.png" group-title="",Stingray Radio - CJXKFM – boom 95.3 FM : Cold Lake | AB
+https://newcap.leanstream.co/CJXKFM-MP3
+
+# https://player.realcountry910.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3osu2LG.jpg" group-title="",Stingray Radio - CKDQAM – Real Country 910 AM : Drumheller | AB
+https://newcap.leanstream.co/CKDQAM-MP3
+
+# https://player.boom995.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9hvWr.png" group-title="",Stingray Radio - CHOOFM – boom 99.5 FM : Drumheller | AB
+https://newcap.leanstream.co/CHOOFM-MP3
+
+# https://player.cfcw.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzwdeB3.png" group-title="",Stingray Radio - CFCWAM – CFCW 840 AM : Edmonton | AB
+https://newcap.leanstream.co/CFCWAM-MP3
+
+# https://player.k97.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwCfWm8.png" group-title="",Stingray Radio - CIRKFM – K-97 97.3 FM : Edmonton | AB
+https://newcap.leanstream.co/CIRKFM-MP3
+
+# https://player.963thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgmua0o.png" group-title="",Stingray Radio - CKRAFM – The Breeze 96.3 FM : Edmonton | AB
+https://newcap.leanstream.co/CKRAFM-MP3
+
+# https://player.realcountrywest.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TTV0hN.png" group-title="",Stingray Radio - CFXEFM – Real Country West 94.3 FM : Edson | AB
+https://newcap.leanstream.co/CFXEFM-MP3
+
+# https://player.realcountryhighprairie.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UalJ7bm.png" group-title="",Stingray Radio - CKVHFM – Real Country 93.5 FM : High Prairie | AB
+https://newcap.leanstream.co/CKVHFM-MP3
+
+# https://player.boom1049.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zq01e4h.png" group-title="",Stingray Radio - CFHIFM – boom 104.9 FM  : Hinton | AB
+https://newcap.leanstream.co/CFHIFM-MP3
+
+# https://player.boom1035.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iLW3Pt.png" group-title="",Stingray Radio - CILBFM – boom 103.5 FM : Lac La Biche | AB
+https://newcap.leanstream.co/CILBFM-MP3
+
+# https://player.realcountrylloydminster.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hx2MPyx.png" group-title="",Stingray Radio - CKSAFM – Real Country 95.9 FM : Lloydminster | AB
+https://newcap.leanstream.co/CKSAFM-MP3
+
+# https://player.zed989.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLyRVSs.png" group-title="",Stingray Radio - CIZZFM – Zed 98.9 FM : Red Deer | AB
+https://newcap.leanstream.co/CIZZFM-MP3
+
+# https://player.realcountryreddeer.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kP5c6en.png" group-title="",Stingray Radio - CKGYFM – Real Country 95.5 FM : Red Deer | AB
+https://newcap.leanstream.co/CKGYFM-MP3
+
+# https://player.boom927.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6plubIC.png" group-title="",Stingray Radio - CHSLFM – boom 92.7 FM : Slave Lake | AB
+https://newcap.leanstream.co/CHSLFM-MP3
+
+# https://player.realcountrystpaul.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7nWnLc.png" group-title="",Stingray Radio - CHSPFM – Real Country 97.7 FM : St. Paul | AB
+https://newcap.leanstream.co/CHSPFM-MP3
+
+# https://player.realcountrystettler.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyRCmv0.png" group-title="",Stingray Radio - CKSQFM – Real Country 93.3 FM : Stettler | AB
+https://newcap.leanstream.co/CKSQFM-MP3
+
+# https://player.hot937.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuMarat.png" group-title="",Stingray Radio - CKWYFM – HOT 93.7 FM : Wainwright | AB
+https://newcap.leanstream.co/CKWYFM-MP3
+
+# https://player.1019boom.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uikVIn.png" group-title="",Stingray Radio - CKKYFM – boom 101.9 FM : Wainwright | AB
+https://newcap.leanstream.co/CKKYFM-MP3
+
+# https://player.realcountry979.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nfno9q8.png" group-title="",Stingray Radio - CKWBFM – Real Country 97.9 FM : Westlock | AB
+https://newcap.leanstream.co/CKWBFM-MP3
+
+# https://player.w1440.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLAG5Mq.png" group-title="",Stingray Radio - CKJRAM – W1440 1440AM : Wetaskiwin | AB
+https://newcap.leanstream.co/CKJRAM-MP3
+
+# https://player.boom967.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0kE6Jd.png" group-title="",Stingray Radio - CFXWFM – boom 96.7 FM : Whitecourt | AB
+https://newcap.leanstream.co/CFXWFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★British Columbia★★★★★
+0.0.0.0
+
+# https://player.newcountry1031.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhmF2wF.png" group-title="",Stingray Radio - CJKCFM – New Country 103.1 FM : Kamloops | BC
+https://newcap.leanstream.co/CJKCFM-MP3
+
+# https://player.radionl.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzgT1Dc.png" group-title="",Stingray Radio - CHNLAM – Radio NL 610 AM : Kamloops | BC
+https://newcap.leanstream.co/CHNLAM-MP3
+
+# https://player.k975.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75iSYJB.png" group-title="",Stingray Radio - CKRVFM – K 97.5 FM : Kamloops | BC
+https://newcap.leanstream.co/CKRVFM-MP3
+
+# https://player.k963.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdRrtWC.png" group-title="",Stingray Radio - CKKOFM – K 96.3 FM : Kelowna | BC
+https://newcap.leanstream.co/CKKOFM-MP3
+
+# https://player.country1007.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01aeehr.png" group-title="",Stingray Radio - CIGVFM – Country 100.7 FM : Penticton | BC
+https://newcap.leanstream.co/CIGVFM-MP3
+
+# https://player.z953.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOnRm76.png" group-title="",Stingray Radio - CKZZFM – Z 95.3 FM : Vancouver | BC
+https://newcap.leanstream.co/CKZZFM-MP3
+
+# https://player.1043thebreeze.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zOIW9z.png" group-title="",Stingray Radio - CHLGFM – The Breeze 104.3 FM : Vancouver | BC
+https://newcap.leanstream.co/CHLGFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★New Brunswick★★★★★
+0.0.0.0
+
+# https://player.rewind931.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2K1NBw.png" group-title="",Stingray Radio - CIHIFM – rewind 93.1 FM : Fredericton | NB
+https://newcap.leanstream.co/CIHIFM-MP3
+
+# https://player.newcountry923.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcBbzKI.png" group-title="",Stingray Radio - CFRKFM – New Country 92.3 FM : Fredericton | NB
+https://newcap.leanstream.co/CFRKFM-MP3
+
+# https://player.rewind959.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E8zdsI5.png" group-title="",Stingray Radio - CHHIFM – rewind 95.9 Fm : Miramichi | NB
+https://newcap.leanstream.co/CHHIFM-MP3
+
+# https://player.q103fm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CazE8qP.png" group-title="",Stingray Radio - CJMOFM – Q 103.1 Fm : Moncton | NB
+https://newcap.leanstream.co/CJMOFM-MP3
+
+# https://player.newcountry969.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4epJHgM.png" group-title="",Stingray Radio - CJXLFM – New Country 96.9 FM : Moncton | NB
+https://newcap.leanstream.co/CJXLFM-MP3
+
+# https://player.q889.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sz4dSS8.png" group-title="",Stingray Radio - CHNIFM – Q 88.9 FM : Saint John | NB
+https://newcap.leanstream.co/CHNIFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★Newfoundland and Labrador★★★★★
+0.0.0.0
+
+# https://player.newcountry1039.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8JK5jM.png" group-title="",Stingray Radio - CHVOFM – New Country 103.9 FM : Carbonear | NL
+https://newcap.leanstream.co/CHVOFM-MP3
+
+# https://player.newcountry971.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neWw9X4.png" group-title="",Stingray Radio - CKLNFM – New Country 97.1 FM : Clarenville | NL
+https://newcap.leanstream.co/CKLNFM-MP3
+
+# https://player.bigland.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9B67JIO.png" group-title="",Stingray Radio - CFLNFM – Big Land Labrador's 97.9 FM : Corner Brook | NL
+https://newcap.leanstream.co/CFLNFM-MP3
+
+# https://player.k-rock1039.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQuCDb6.png" group-title="",Stingray Radio - CKXXFM – K-Rock 103.9 FM : Corner Brook | NL
+https://newcap.leanstream.co/CKXXFM-MP3
+
+# https://player.vocm.com/CFCBAM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zLtegU4.png" group-title="",Stingray Radio - CFCBAM – CFCB 570 AM : Corner Brook | NL
+https://newcap.leanstream.co/CFCBAM-MP3
+
+# https://player.987krock.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8u9Tih.png" group-title="",Stingray Radio - CKXDFM – K-Rock 98.7 FM : Gander | NL
+https://newcap.leanstream.co/CKXDFM-MP3
+
+# https://player.krocknl.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXFF6Ig.png" group-title="",Stingray Radio - CKXGFM – K-Rock 102.3 FM : Grand Falls-Windsor | NL
+https://newcap.leanstream.co/CKXGFM-MP3
+
+# https://player.hot991.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8GUsKI.png" group-title="",Stingray Radio - CKIXFM – HOT 99.1 FM : St John's | NL
+https://newcap.leanstream.co/CKIXFM-MP3
+
+# https://player.vocm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFinzmR.png" group-title="",Stingray Radio - VOCMAM – Local News Now 590 AM : St John's | NL
+https://newcap.leanstream.co/VOCMAM-MP3
+
+# https://player.k-rock975.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7i9nmx.png" group-title="",Stingray Radio - VOCMFM – K-Rock 97.5 FM : St John's | NL
+https://newcap.leanstream.co/VOCMFM-MP3
+
+# https://player.newcountry930.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYEpeX3.png" group-title="",Stingray Radio - CJYQAM – New Country 930 AM : St John's | NL
+https://newcap.leanstream.co/CJYQAM-MP3
+
+# https://player.k-rock1039.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pA5HPd.png" group-title="",Stingray Radio - CKXXFM – K-Rock 103.9 FM : Stephenville | NL
+https://newcap.leanstream.co/CKXXFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★Nova Scotia★★★★★
+0.0.0.0
+
+# https://player.965thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YRWAIm.png" group-title="",Stingray Radio - CKULFM – The Breeze 96.5 FM : Halifax | NS
+https://newcap.leanstream.co/CKULFM-MP3
+
+# https://player.q104.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqZFj85.png" group-title="",Stingray Radio - CFRQFM – Q 104.3 FM : Halifax | NS
+https://newcap.leanstream.co/CFRQFM-MP3
+
+# https://player.rewind893.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOfDMy1.png" group-title="",Stingray Radio - CIJKFM – rewind 89.3 FM : New Minas | NS
+https://newcap.leanstream.co/CIJKFM-MP3
+
+# https://player.hot1019.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMm8ONy.png" group-title="",Stingray Radio - CHRKFM – HOT 101.9 FM : Sydney | NS
+https://newcap.leanstream.co/CHRKFM-MP3
+
+# https://player.newcountry1035.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p71sOsw.png" group-title="",Stingray Radio - CKCHFM – New Country 103.5 FM : Sydney | NS
+https://newcap.leanstream.co/CKCHFM-MP3
+
+# https://player.941thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KoOwEyF.png" group-title="",Stingray Radio - CKECFM – The Breeze 94.1 FM : New Glasgow | NS
+https://newcap.leanstream.co/CKECFM-MP3
+
+# https://player.q979.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DmnMwK.png" group-title="",Stingray Radio - CKEZFM – Q 97.9 FM : New Glasgow | NS
+https://newcap.leanstream.co/CKEZFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★Ontario★★★★★
+0.0.0.0
+
+# https://player.live885.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSShijD.png" group-title="",Stingray Radio - CILVFM – Live 88.5 FM : Ottawa | ON
+https://newcap.leanstream.co/CILVFM-MP3
+
+# https://player.hot899.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6Va1DQ.png" group-title="",Stingray Radio - CIHTFM – Hot 89.9 FM : Ottawa | ON
+https://newcap.leanstream.co/CIHTFM-MP3
+
+# https://player.hot935.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKxb75Z.png" group-title="",Stingray Radio - CIGMFM – Hot 93.5 FM : Sudbury | ON
+https://newcap.leanstream.co/CIGMFM-MP3
+
+# https://player.rewind1039.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hb2WTWq.png" group-title="",Stingray Radio - CHNOFM – rewind 103.9 FM : Sudbury | ON
+https://newcap.leanstream.co/CHNOFM-MP3
+
+# https://player.boom973.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCFeHG1.png" group-title="",Stingray Radio - CHBMFM – boom 97.3 FM : Toronto | ON
+https://newcap.leanstream.co/CHBMFM-MP3
+
+# https://player.935todayradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mgih0T8.png" group-title="",Stingray Radio - CFXJFM – Today Radio 93.5 Fm : Toronto | ON
+https://newcap.leanstream.co/CFXJFM-MP3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YXxIo4.jpg" ,★★★★★Prince Edward Island★★★★★
+0.0.0.0
+
+# https://player.ocean100.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d77g1T8.png" group-title="",Stingray Radio - CHTNFM – Ocean 100.3 FM : Charlottetown | PE
+https://newcap.leanstream.co/CHTNFM-MP3
+
+# https://player.hot1055fm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfer1Xx.png" group-title="",Stingray Radio - CKQKFM – Hot 105.5 FM : Charlottetown | PE
+https://newcap.leanstream.co/CKQKFM-MP3
