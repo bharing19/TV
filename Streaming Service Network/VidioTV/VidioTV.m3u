@@ -67,6 +67,10 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/l
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6784-arirang
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V2cfHUXwwUfP0cn45KwkNW4Wb3g=/135x135/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/64309899/seatoday-7c7b1e.jpg" group-title="VidioTV",SEA Today News (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7687-sea-today
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Sp7URsWhQTrDn0f8Y7dqsYOzxO0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/0f916f.png" group-title="VidioTV",News Asia (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6411-news-asia
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v2hKEW5iTjTTFxePZlhfs1_DwiI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/78163f.png" group-title="VidioTV",ABC Australia (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7150-abc-australia
 
 # https://www.vidio.com/categories/148
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nn-X-gMMbs3CSvs4b_c09Za-GEA=/filters:quality(70)/vidio-media-production/uploads/image/source/81/704656.png" ,★★★★★★★★★★Vidio Radio★★★★★★★★★★
@@ -186,10 +190,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/l
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6504-fashion-tv-midnight-secrets
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-st4hraUbJ7qBwCE39Teh0rFF8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6747/b60a5a.png" group-title="VidioTV",ZING (SLT) *
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6747-zing
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Sp7URsWhQTrDn0f8Y7dqsYOzxO0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/0f916f.png" group-title="VidioTV",News Asia (SLT) *
-plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6411-news-asia
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v2hKEW5iTjTTFxePZlhfs1_DwiI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/78163f.png" group-title="VidioTV",ABC Australia (SLT) *
-plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7150-abc-australia
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" group-title="VidioTV",Zoomoo (SLT) *
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6533-zoomoo
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="VidioTV",Hip Hip Horee! (SLT) *
