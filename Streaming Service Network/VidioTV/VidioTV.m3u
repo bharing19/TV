@@ -1,0 +1,204 @@
+#EXTM3U
+
+# https://www.vidio.com/live https://www.vidio.com/categories/276
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nn-X-gMMbs3CSvs4b_c09Za-GEA=/filters:quality(70)/vidio-media-production/uploads/image/source/81/704656.png" ,★★★★★★★★★★Vidio TV★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="VidioTV",SCTV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/204-sctv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="VidioTV",indosiar (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yGlFmFsYW5DCAnJlJ2amKRsIMgY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="VidioTV",O Channel TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/206-ochannel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="VidioTV",TRANS TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/733-trans-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="VidioTV",TVRI  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6441-tvri
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="VidioTV",Tran 7 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/734-trans7
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="VidioTV",ANTV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/782-antv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="VidioTV",NET TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/875-net-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="VidioTV",RTV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/1561-rtv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="VidioTV",Metro TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/777-metro-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="VidioTV",Kompas TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/874-kompas-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QApSZNfu--dYEwsB-Duh8ooNPwo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="VidioTV",TVOne (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/783-tvone
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VINj_3q2aKJhsC7_YVdZWmWbjYY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/4221bc.png" group-title="VidioTV",BritaSatu (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6165-beritasatu
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vOv_y7LMPnSEX0KlJSnADdHndFI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" group-title="VidioTV",AJWA TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7464-ajwa-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/olD7PZpen1O6AN3LOsKqNhfc5kU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6166/48a191.png" group-title="VidioTV",OShop (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6166-oshop
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png" group-title="VidioTV",Jaktv (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/5415-jaktv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="VidioTV",Nusantara TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7432-nusantara-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="VidioTV",DAAI TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6482-daai-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg" group-title="VidioTV",RANS Channel (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8241-rans-channel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jp" group-title="VidioTV",Magna TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7230-magna-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="VidioTV",MUSICA (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7619-musica
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png" group-title="VidioTV",NHK WORLD JAPAN (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7968-nhk-world-japan
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png" group-title="VidioTV",Aljazeera (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6410-aljazeera
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png" group-title="VidioTV",DW English (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/5075-dw-english
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mRMAbs0J1ALPfyniEi1L89cAqAA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg" group-title="VidioTV",TV Tempo (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7946-tv-tempo
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VidioTV",Mentari TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8237-mentari-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V8coy7aPt64qaux8h7zde2RXKQs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" group-title="VidioTV",TV Edukasi (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6838-tv-edukasi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png" group-title="VidioTV",Al Quran Al Kareem TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6852-al-quran-al-kareem-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n39JFranf5fBu5vMktAMRTennFo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6853/de1a7c.png" group-title="VidioTV",Reformed 21 TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6853-reformed-21-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZK3MJggjRhLH9fHevY-qg-HNvho=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png" group-title="VidioTV",U-Channel TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6898-u-channel-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MNYbKDnGeYVvZxT2ei4s4Vzk4G0=/135x135/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/96597441/ProfileArirang1-b9ec7f712cf753c9.png" group-title="VidioTV",Arirang (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6784-arirang
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V2cfHUXwwUfP0cn45KwkNW4Wb3g=/135x135/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/64309899/seatoday-7c7b1e.jpg" group-title="VidioTV",SEA Today News (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7687-sea-today
+
+# https://www.vidio.com/categories/148
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nn-X-gMMbs3CSvs4b_c09Za-GEA=/filters:quality(70)/vidio-media-production/uploads/image/source/81/704656.png" ,★★★★★★★★★★Vidio Radio★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5tzvmrQdbA-SXIFqZKos38Nipi0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg" group-title="VidioRadio",Gen FM Jakarta (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7443-gen-fm-jakarta
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/93kB65Q8SF3S0FStf7ktN6M7flQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="VidioRadio",Prambors (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7004-prambors-on-air
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NPkM5YqQkq503ZayV0nkVvqbOw0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="VidioRadio",i-Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7057-i-radio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="VidioRadio",Elshinta 90 FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7166-elshinta-90-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="VidioRadio",Ardan Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7184-ardan-radio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="VidioRadio",Hard Rock FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7053-hard-rock-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="VidioRadio",Dahlia FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7242-dahlia-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="VidioRadio",Delta FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7092-delta-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRs-gJKLOZprtR2dw0lO-qN_mlk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8024/indika-radio-329af1.jpg" group-title="VidioRadio",Indika 91.6 FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8024-indika-91-60-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="VidioRadio",MGT Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7188-mgtradio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Asqq8zinNlcP3iv4vzyqggBKOTg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg" group-title="VidioRadio",Kis FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7445-kis-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w7CWGIIwMOO_bPneLD72zVTIQmw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-fm-26ec95.jpg" group-title="VidioRadio",Trax (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7055-trax
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XDTM3hocLooxyrQqBc9nypTbNfs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-fm-7ece34.jpg" group-title="VidioRadio",Cosmopolitan Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7056-cosmopolitan-radio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/91QfIyfRjUu0J47RkjvKS-mEZyk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" group-title="VidioRadio",Jak FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7449-jak-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LitEXxnoBCWSW30AOid09ISm3lg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="VidioRadio",Brava Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7054-brava-radio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="VidioRadio",Radio Cakra (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7297-radio-cakra
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="VidioRadio",Bahana FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7091-bahana-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="VidioRadio",Paramuda FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7685-paramuda-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z6B548JflIkzMHD3wLEAqI_PmIc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg" group-title="VidioRadio",Mustang FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7447-mustang-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sRxNoord2ta_n9tBIqjiNRIj7dY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7792/jiz-fm-ded2a5.jpg" group-title="VidioRadio",Jiz FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7792-jiz-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="VidioRadio",SWARAGAMA FM Jogja ! (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7248-swaragama-fm-jogja
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Yt8GqA5gxaFe-Q504oVwnIfccTQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="VidioRadio",Female FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7130-female-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RFt89zrHdKxYH8fcSCfIHpwna3g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" group-title="VidioRadio",Gen FM Surabaya (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7446-gen-fm-surabaya
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zg_OFqRPiE9ahUm0Gbe3sEpF4X4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8638/nagaswara-radiotemen-e4d295.jpg" group-title="VidioRadio",NAGASWARA RADIOTEMEN (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8638-nagaswara-radiotemen
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j5iL8kqeHixvC72L6Orlk61f5Mc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg" group-title="VidioRadio",Most FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7450-most-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F8VToo3k3vyX-fjzIFphMh9izow=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7448/hot-fm-778737.jpg" group-title="VidioRadio",Hot FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7448-hot-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mWKsYcW1t6axKfZhBeydNRLYoPk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg" group-title="VidioRadio",Rama FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7684-rama-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="VidioRadio",GAJAHMADA (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7284-gajahmada
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xjEaP8UM1tlal5tY2NOcdyyiJv0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="VidioRadio",SWARA SEMARANG (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7283-swara-semarang
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GB6NrbADuqqB-9eAQCNcy6IVd-s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="VidioRadio",Geronimo (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7216-geronimo
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jPSwS6rN9I1X9BqghRJTWN9Ta7k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="VidioRadio",Imelda FM (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7281-imelda-fm
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dLo75Dmfm5-P51eUWBxOiz7PNHs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="VidioRadio",Elmitra (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7170-elmitra
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KgJ6b4lRGVt24lH4j7qS98CKL4U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="VidioRadio",Sushi Radio (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7218-sushi-radio
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9YyEdrmwSbk99DX70-U1A1dEJWw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="VidioRadio",ELGANGGA (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7169-elgangga
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nn-X-gMMbs3CSvs4b_c09Za-GEA=/filters:quality(70)/vidio-media-production/uploads/image/source/81/704656.png" ,Promo Ended / Login Required / Premium
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="VidioTV",Bein 1 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6299-bein-1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png" group-title="VidioTV",Bein 3 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6317-bein-3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="VidioTV",CTV 1 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6685-champions-tv-1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RffI74NcLraiML4UGbxl5aOzU38=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/1439f9.png" group-title="VidioTV",Liverpool TV (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7916-liverpool-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="VidioTV",CTV 3 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6786-champions-tv-3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="VidioTV",CTV 2 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6686-champions-tv-2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PWtH-uTVwurOiWGqpgGhC5_Uwp4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8624/780f10.png" group-title="VidioTV",CTV Xtra (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8624-champions-tv-xtra
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iPxOdRXjFUTk-3ZAq4rIoM5509c=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png" group-title="VidioTV",NBA TV (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6717-nba-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png" group-title="VidioTV",CTV 4 (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7953-champions-tv-4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png" group-title="VidioTV",Zee Bioskop (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6399-zee-bioskop
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="VidioTV",TVN (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6362-tvn
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CmKXvd_u7UnWNo-_y6d09lBQ-mc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8556/061791.jpg" group-title="VidioTV",Pet TV (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8556-pet-tv
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FRiSruySSEQi173Odqq_n9pdEHU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8558/15f712.jpg" group-title="VidioTV",Citra Culinary&Travel (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8558-citra-culinary-travel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png" group-title="VidioTV",Rock Entertainment (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8120-rock-entertainment
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O3QdrjuDl_t6xIH-LLyWcf4JxMA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/6d2b73.jpg" group-title="VidioTV",Rock Extreme (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/8121-rock-extreme
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1ASddItneuCcle-ekFegZrPA-mo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6684/61417f.png" group-title="VidioTV",Citra Bioskop (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6684-citra-bioskop
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vrmDRqwZOsoYOuyV_hfOtFs8bJo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="VidioTV",Citra Drama (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6401-citra-drama
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dfxtzulRmK4-cAUvo30s9VoSwbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png" group-title="VidioTV",Citra Dangdut (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6587-citra-dangdut
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png" group-title="VidioTV",FashionTV L'Original (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6507-fashiontv-l-original
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P5NhMEunwYyNqtqtuR7vYbnPC-0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6511/4dd1c5.png" group-title="VidioTV",Fashion TV - Global (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6511-fashion-tv-global
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png" group-title="VidioTV",Fashion TV Midnight Secrets (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6504-fashion-tv-midnight-secrets
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-st4hraUbJ7qBwCE39Teh0rFF8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6747/b60a5a.png" group-title="VidioTV",ZING (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6747-zing
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Sp7URsWhQTrDn0f8Y7dqsYOzxO0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/0f916f.png" group-title="VidioTV",News Asia (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6411-news-asia
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v2hKEW5iTjTTFxePZlhfs1_DwiI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/78163f.png" group-title="VidioTV",ABC Australia (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7150-abc-australia
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" group-title="VidioTV",Zoomoo (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6533-zoomoo
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="VidioTV",Hip Hip Horee! (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/7052-hip-hip-horee
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="VidioTV",Horee (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6397-horee
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s6WSgBPwJHnY4vughTA-IkeRG40=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="VidioTV",Citra Muslim (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6678-citra-muslim
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8MpF99SxibXDr-5L9-YawRBP500=/135x135/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/26094842/vidiopremier-828325.jpg" group-title="VidioTV",Da Vinci (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6549-da-vinci
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8MpF99SxibXDr-5L9-YawRBP500=/135x135/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/26094842/vidiopremier-828325.jpg" group-title="VidioTV",Euro News (SLT) *
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.vidio.com/live/6412-euro-news
