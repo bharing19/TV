@@ -196,9 +196,6 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZEKNdL.jpg" group-title="News",GB News - UK
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1gI2GM.jpg" group-title="News",Global News National - Canada
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43KzVyU.jpg" group-title="News",Goa365 - India
 https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
 https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks.m3u8
