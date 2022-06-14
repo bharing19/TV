@@ -7,11 +7,17 @@
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Action_Sports_4U.jpg" group-title="Movie Networks",Action Sports 4U
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_Airy_Fitness_1920x1080.jpg" group-title="Lifestyle TV Networks",Airy Fitness & Health
+https://hls.airy.tv/stream/resolution/5000/1920x1080/40/airy.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/03/Network_Aljazeera_1280x720.jpg" group-title="News & Weather Networks",Al Jazeera
 https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/AppleSauce_Network_1280x720.jpg" group-title="Movie Networks",Apple Sauce TV
 https://rebroadcast.mytvtogo.net/applesaucetv/applesaucetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_APTV_Live_1920x1080-520x293.jpg" group-title="Music Networks",APTV Live
+https://hls.airy.tv/stream/resolution/5000/1920x1080/49/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_AmericanClassicTV_1280x720.jpg" group-title="Classic TV Networks",American Classic
 https://rebroadcast.mytvtogo.net/AmericanClassicTV/AmericanClassicTV/playlist.m3u8
@@ -29,13 +35,13 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbeachtveastcoast/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BlackWidowTV_1280x720.jpg" group-title="Classic TV Networks",Black Widow TV
-https://rebroadcast.mytvtogo.net/blackwidowtv/blackwidowtv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/blackwidowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Bluegrass_4U.jpg" group-title="Music TV Networks",Bluegrass Music 4U
 https://broadcast.mytvtogo.net/blugrassmusic/blugrassmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BlushRomanceTV_1280x720.jpg" group-title="Movie Networks",Blush Romance TV
-https://rebroadcast.mytvtogo.net/blushtv/blushtv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/blushtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Logo-bespoketv_MYTVTG_1280x720-e1584836261169.jpg" group-title="Movie Networks",bspoketv
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbespoketv/playlist.m3u8
@@ -61,17 +67,20 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/playlist.m3u
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicArtsShowcase.jpg" group-title="Music TV Networks",Classic Arts Showcase
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicTV4U_1280x720.jpg" group-title="Classic TV Networks",Classic TV 4U
+https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/05/Network_ContemporaryChristianMusic_4U.jpg" group-title="Music TV Networks",Contemporary Christian Music 4U
 https://broadcast.mytvtogo.net/contemporarychristian/contemporarychristian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2021/03/CNA_News_Network_1280x720-196x126.jpg" group-title="News & Weather Networks",CNA News
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcnanews/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_ComfyTV_1920x1080.jpg" group-title="Movie Networks",Comfy TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/28/airy.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Cooking4U_1280x720.jpg" group-title="Lifestyle TV Networks",Cooking 4U
 https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicTV4U_1280x720.jpg" group-title="Classic TV Networks",Classic TV 4U
-https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_CornerStone_1280x720.jpg" group-title="Faith Based TV Networks",CornerStone TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcornerstonetv/playlist.m3u8
@@ -83,20 +92,22 @@ https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastdaystar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" group-title="Movie Networks",Documentaries 4U
-https://rebroadcast.mytvtogo.net/documentaries4u/documentaries4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/documentaries4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Downtown_Beats-196x126.jpg" group-title="Music TV Networks",Downtown Beats
-https://rebroadcast.mytvtogo.net/downtownbeats/downtownbeats/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/downtownbeats/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_DrDiaries_1920x1080.jpg" group-title="Movie Networks",Dr. Diaries TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/41/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_EnergyTV_1280x720.jpg" group-title="Lifestyle TV Networks",Energy Network
-https://rebroadcast.mytvtogo.net/energytv/energytv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/energytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Exercise_4U.jpg" group-title="Lifestyle TV Networks",Exercise 4U
-https://rebroadcast.mytvtogo.net/exercise4u/exercise4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/exercise4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Faith_USA_1280x720.jpg" group-title="Faith Based TV Networks",Faith USA
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfaithusa/playlist.m3u8
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfaithusa/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_FamilyTV4U_1280x720.jpg" group-title="Movie Networks",Family TV 4U
 https://broadcast.mytvtogo.net/familytv4u/familytv4u/playlist.m3u8
@@ -104,62 +115,86 @@ https://broadcast.mytvtogo.net/familytv4u/familytv4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_Fashion_TV_Paris_1280x720.jpg" group-title="Lifestyle TV Networks",Fashion TV Paris
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_FranchiseTV_1920x1080.jpg" group-title="Movie Networks",Franchise TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/58/airy.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Georgia_Hollywood_Review_TV_1920x1080.jpg" group-title="Movie Networks",Georgia Hollywood Review TV
+https://rebroadcast.mytvtogo.net/mytvtogo/georgiahollywoodreviewtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoingToWar.jpg" group-title="Movie Networks",Going To War
-https://rebroadcast.mytvtogo.net/letsgotowar/letsgotowar/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/letsgotowar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Golf_Kingdom_1920x1080-520x293.jpg" group-title="Sports Networks"Golf Kingdom
+https://rebroadcast.mytvtogo.net/mytvtogo/golfkingdom/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/1280x720_GoneFishing.jpg" group-title="Lifestyle TV Networks",Gone Fishing
-https://rebroadcast.mytvtogo.net/gonefishing/gonefishing/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/gonefishing/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_GoneFishingOffshore_1280x720.jpg" group-title="Lifestyle TV Networks",Gone Fishing Offshore
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/1280x720_GoneHunting.jpg" group-title="Lifestyle TV Networks",Gone Hunting
-https://rebroadcast.mytvtogo.net/gonehunting/gonehunting/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/gonehunting/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoodLife45-196x126.jpg" group-title="Faith Based TV Networks",Good Life 45
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastgoodlife45/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/GospelMusic4U_1280x720.jpg" group-title="Music TV Networks",Gospel Music 4U
-https://rebroadcast.mytvtogo.net/gospelmusic4u/gospelmusic4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/gospelmusic4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720.jpg" group-title="Lifestyle TV Networks",HD Fashion & Lifestyle
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcasthdfashionlifestyle/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="Movie Networks",Horrified TV
-https://rebroadcast.mytvtogo.net/horrifiedtv/horrifiedtv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/horrifiedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/04/Network_Human_Wellness_1280x720.jpg" group-title="Lifestyle TV Networks",Human Wellness
-https://rebroadcast.mytvtogo.net/healthanwellness/healthanwellness/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/healthanwellness/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_ImpactTV.jpg" group-title="Faith Based TV Networks",Impact
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastimpacttv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_iCowboy_1920x1080.jpg" group-title="Movie Networks",iCowboy TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/27/airy.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_iHolyfield_1920x1080.jpg" group-title="Movie Networks",iHolyfield TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/26/airy.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_iSciFi_1920x1080.jpg" group-title="Movie Networks",iSci-Fi TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/30/airy.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/09/Logo-KLNM-Smaller.jpg" group-title="Movie Networks",KLNM TV
+https://rebroadcast.mytvtogo.net/mytvtogo/klmntv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_LetsBuildTogether_1280x720.jpg" group-title="Lifestyle TV Networks",Let’s Build Together
-https://rebroadcast.mytvtogo.net/letsbuildtv/letsbuildtv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/letsbuildtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_LetsGoToTheMovies_1280x769.jpg" group-title="Movie Networks",Let’s Go To The Movies
-https://rebroadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/itsatthemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_LetsTalkAboutIt.jpg" group-title="Movie Networks",Let’s Talk About It
-https://rebroadcast.mytvtogo.net/letstalkaboutit/letstalkaboutit/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/letstalkaboutit/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_LivingOutdoors.jpg" group-title="Lifestyle TV Networks",Living Outdoors
-https://rebroadcast.mytvtogo.net/livingoutdoors/livingoutdoors/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/livingoutdoors/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_Models_Inc_1280x720.jpg" group-title="Lifestyle TV Networks",Models Inc.
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmodelsinc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/MoLaughter_Network_1280x720.jpg" group-title="Movie Networks",Mo Laughter
-https://rebroadcast.mytvtogo.net/molaughtertv/molaughtertv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/molaughtertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-e1543430006694.jpg" group-title="Movie Networks",Movee 4U
 https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_MovieGiants_1920x1080.jpg" group-title="Movie Networks",Movie Giants (aka Giants Steps TV)
+https://hls.airy.tv/stream/resolution/5000/1920x1080/30/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/07/LatinMusic_4U_Spanish.jpg" group-title="Music TV Networks",Musica Latina Para Ti
 https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_My30A-TV_1280x720.jpg" group-title="Lifestyle TV Networks",My 30-A TV
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmy30atvLifestyle30a/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/30atvmusicchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyBeachTV_1280x720.jpg" group-title="Lifestyle TV Networks",My Beach TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmybeachtv30a/playlist.m3u8
@@ -168,13 +203,16 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmybeachtv30a/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmusicjam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork.jpg" group-title="Lifestyle TV Networks",My Life 4U
-https://rebroadcast.mytvtogo.net/mylifetv/mylifetv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/mylifetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyMusicChannel_1280x720-196x126.jpg" group-title="Music TV Networks",My Music Channel
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmymusicchannel30a/playlist.m3u8
+EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyMusicChannel_1280x720-196x126.jpg" group-title="Music TV Networks",My Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/30atvmusicchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyPitchNewsNetwork_1280x720.jpg" group-title="Lifestyle TV Networks",My Pitch News
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastpitchnews30a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Nashville_Country_TV_1920x1080-520x293.jpg" group-title="Music Networks",Nashville Country TV
+https://rebroadcast.mytvtogo.net/mytvtogo/NashvilleCountryTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/12/Network_NASA_TV_1280x720.jpg" group-title="News & Weather Networks",NASA TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnasa/playlist.m3u8
@@ -195,19 +233,22 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnothingscripted30a/playlist
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastoannews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PCEN-2.jpg" group-title="Movie Networks",Planet Cannabis Entertainment
-https://rebroadcast.mytvtogo.net/planetcannabis/planetcannabis/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/planetcannabis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PCMN.jpg" group-title="Music TV Networks",Planet Cannabis Music
-https://rebroadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/pcenmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/01/Network_PCSN-1.jpg" group-title="Lifestyle TV Networks",Planet Cannabis Shopping Network
-https://rebroadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/shopping4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PreachTheWordWorldwide.jpg" group-title="Faith Based TV Networks",Preach The Word Worldwide
-https://rebroadcast.mytvtogo.net/ptwwntv/ptwwntv/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/ptwwntv/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_PromiseTV.jpg" group-title="Faith Based TV Networks",Promise TV
 https://broadcast.mytvtogo.net/promisetv/promisetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_RealFamilyTV_1920x1080.jpg" group-title="Movie Networks",Real Family TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/42/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_RightNowTV-1.jpg" group-title="Movie Networks",Right Now TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
@@ -216,7 +257,7 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsafetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Shopping_4U.jpg" group-title="Lifestyle TV Networks",Shopping 4U
-https://rebroadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/shopping4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SciFi4U.jpg" group-title="Movie Networks",Sci-Fi 4U
 https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
@@ -227,11 +268,20 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsidewalks30a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/StreetMusic_4U_1280x720.jpg" group-title="Music TV Networks",Street Music 4U
 https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/The_Beach_Show_1920x1080-520x293.jpg" group-title="Lifestyle TV Networks",The Beach Show
+https://rebroadcast.mytvtogo.net/mytvtogo/thebeachshow/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_ToonKrazyTV_1280x720-520x293.jpg" group-title="Children’s TV Networks",Toon Krazy TV
-https://rebroadcast.mytvtogo.net/toonkrazy/toonkrazy/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/toonkrazy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Travel_4U_1280x720.jpg" group-title="Lifestyle TV Networks",Travel 4U
-https://rebroadcast.mytvtogo.net/travel4u/travel4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/travel4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Troptions_Television_Network_1920x1080.jpg" group-title="Movie Networks",Troptions Television Network
+https://hls.airy.tv/stream/resolution/5000/1920x1080/11/airy.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_VeteranSuccess_1920x1080.jpg" group-title="Movie Networks",Veteran’s Success TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/44/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/01/Network_Weather_4U.jpg" group-title="News & Weather Networks",Weather 4U
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastweather4u/playlist.m3u8
@@ -239,9 +289,14 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastweather4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" group-title="Movie Networks",Westerns 4U
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_WinniesWorld_1920x1080.jpg" group-title="Children TV Networks"Winnie’s World TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/20/airy.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_WLPC.jpg" group-title="Faith Based TV Networks ",WLPC Detroit
 https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2022/05/Network_YouthSuccess_1920x1080.jpg" group-title="Children TV Networks"Youth Success TV
+https://hls.airy.tv/stream/resolution/5000/1920x1080/43/airy.m3u8
 
 
 ######################################################
@@ -295,10 +350,6 @@ https://nimble.dashstreams.net/onestudio/blessing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_KartoonFunTime.jpg" group-title="Children’s TV Networks",Kartoon Fun Time
 https://nimble.dashstreams.net/onestudio/kartoonfuntime/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/kartoonfuntime/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/09/Logo-KLNM-Smaller.jpg" group-title="Movie Networks",KLNM TV
-https://nimble.dashstreams.net/onestudio/jerrymiller/playlist.m3u8
-https://nimble.dashstreams.net/onestudio/jerrymiller/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Logo-Life-TV-1280.720.png" group-title="Faith Based TV Networks",Life TV
 https://nimble.dashstreams.net/onestudio/lifetv/playlist.m3u8
