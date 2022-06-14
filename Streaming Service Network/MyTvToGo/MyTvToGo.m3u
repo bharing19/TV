@@ -20,7 +20,7 @@ https://rebroadcast.mytvtogo.net/applesaucetv/applesaucetv/playlist.m3u8
 https://hls.airy.tv/stream/resolution/5000/1920x1080/49/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/09/Network_AmericanClassicTV_1280x720.jpg" group-title="Classic TV Networks",American Classic
-https://rebroadcast.mytvtogo.net/AmericanClassicTV/AmericanClassicTV/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/AmericanClassicTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" group-title="Movie Networks",American Horrors
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastamericanhorrors/playlist.m3u8
