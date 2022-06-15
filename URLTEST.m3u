@@ -67,6 +67,12 @@ https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv21.stream/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",CVTV Channel 23
 https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv23.stream/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbUOslP.jpg" group-title="",CNBC (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br4AcLn.jpg" group-title="Sports",Pac-12 Networks International (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCx0IoH70qVp11Qkv1pa0phQ/live
+
 
 ## USA Education Channel
 
@@ -569,6 +575,21 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2a1x5-U84V1v
 plugin://plugin.video.youtube/play/?channel_id=UCOwcct1FjXWzlvmQxaR4Y8Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyea3mh.jpg" group-title="",Kozoom TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOwcct1FjXWzlvmQxaR4Y8Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53OF581.jpg" group-title="Shop",SilverHouseHD (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgjlRQjsdNIxqtuB4mGABsA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMHMSMb.jpg" group-title="News",Elite TV (English and Manipuri News) - India(STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2NTE0wVBPHMYvPpH5twcgw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLcyXeF.jpg" group-title="",Higher Education TV Channel - PK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtOTp4lI5tXCW64DT3rEj7w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UPHueg.jpg" group-title="News",Astro AWANI - Malaysia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5dYmq91e5_g54krpO06NJw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ixJg4m.jpg" group-title="",atv (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iqm9pHy.jpg" group-title="",Totally Handy (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0oK8s58FCWQUePi32hWhdw&live=1
