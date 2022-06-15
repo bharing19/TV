@@ -6,6 +6,12 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SwkvCed.jpg" group-title="",Martinique la 1ère (STK)
+plugin://plugin.video.sendtokodi/?http://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVgA3bI.jpg" group-title="",Hot Wheels Français (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-hyDfujz0SIpqsQIoaGueA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rInp4S7.jpg" group-title="",iDAL Production FRANCE (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbtuKhUrh3e0pyodF_QUtew/live
 
