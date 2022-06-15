@@ -36,6 +36,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc43
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FY1mPFb.jpg" group-title="Kids",Barney (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCTn45orVsFOsNZHxAJcZK5g/live
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb00b4b6455d0007493b0b/colorLogoPNG.png" group-title="Kids",BBC Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -361,6 +364,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUAL--p3qAa27
 plugin://plugin.video.youtube/play/?channel_id=UCngkVoq8aayyK6qX9JJitRg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mG74D1O.jpg" group-title="Kids",Peter Rabbit (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngkVoq8aayyK6qX9JJitRg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArPFT7R.jpg" group-title="Kids",Pixar Cars 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_VtrptObkqqp9tp3jycINA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArPFT7R.jpg" group-title="Kids",Pixar Cars 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_VtrptObkqqp9tp3jycINA&live=1
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619b893895e225000729e67a/colorLogoPNG.png" group-title="Kids",Pluto TV Gaming Heroes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b893895e225000729e67a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
