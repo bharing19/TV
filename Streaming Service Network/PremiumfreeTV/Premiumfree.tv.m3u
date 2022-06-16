@@ -1,0 +1,41 @@
+#EXTM3U
+
+# https://video.premiumfree.tv/
+#EXTINF:-1 tvg-logo="https://video.premiumfree.tv/themes/custom/axp/premium_free/logo.png" ,★★★★★★★★★★Premiumfree.tv★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/logo/366x206/blocbuster_.jpg" group-title="Premiumfree.tv",Afriwood Blockbuster
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/series_.jpg" group-title="Premiumfree.tv",Afriwood Series
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/bongotv.jpg" group-title="Premiumfree.tv",Bongo TV
+https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/logo/366x206/cinema_hausa.jpg" group-title="Premiumfree.tv",Cinema Hausa
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/axp/linear_channel/logo/366x206/diva.jpg" group-title="Premiumfree.tv",Diva
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/img-20220615-wa0022.jpg" group-title="Premiumfree.tv",ETVN
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/fightnite.jpg" group-title="Premiumfree.tv",Fight Night
+https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/logo/366x206/fresh.jpg" group-title="Premiumfree.tv",Fresh
+https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/gospel.jpg" group-title="Premiumfree.tv",Gospel
+https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/axp/linear_channel/logo/366x206/kiddiwinks.jpg" group-title="Premiumfree.tv",Kiddiwinks
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/logo/366x206/lifetv.jpg" group-title="Premiumfree.tv",Life TV
+https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/limelight_.jpg" group-title="Premiumfree.tv",Limelight
+https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/logo/366x206/lol.jpg" group-title="Premiumfree.tv",LOL
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/pulse.jpg" group-title="Premiumfree.tv",Pulse
+https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/romanza.jpg" group-title="Premiumfree.tv",Romanza
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/rpm.jpg" group-title="Premiumfree.tv",RPM
+https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/sports.jpg" group-title="Premiumfree.tv",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/trueafrican.jpg" group-title="Premiumfree.tv",True African
+https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
