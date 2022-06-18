@@ -27,6 +27,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbDgBFAketcO2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkLtheL.jpg" group-title="Music",Arizona Vibes (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUViGnP6IeTWxqcOWQyqkTg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7IjWY3.jpg" group-title="Music",ARTICONF - Soundchain - Blockchain Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPvfXuOgmtrq8psLQb9yFVA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvGdoUC.jpg" group-title="Music",AsfaltRecords (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCa1UYrU2QHwfNihohSoMyAw/live
 
@@ -90,6 +93,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnfmB-zAnhvM1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kek9f0e.jpg" group-title="Music",Defected Records (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnOxaDXBiBXg9Nn9hKWu6aw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/We8elHp.jpg" group-title="Music",Dennis Martensson (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUX4AEiXsi6PHJ7Lu3VfHJg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aUr61p.jpg" group-title="Music",Digital Society Recordings (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKD47437F_kIe-XF3gtSJmw/live
 
@@ -144,6 +150,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMg7TTDtUXq2y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCHIl7D.jpg" group-title="Music",Fear N Loathing (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGOHFpsA_rZ3zk2VdQCU2qQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWHWpw9.jpg" group-title="Music",FG 93.8 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXFc8iPk364fZXB6upXczZA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tsd3tZe.jpg" group-title="Music",Fimbul Radio (Live Viking Music 24/7) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ/live
 
@@ -195,6 +204,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIitwYtRrd2JG
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TDpLkGu.png" group-title="Music",Max Oazo - Workout Music (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeI_Ji5Wc1YQvG2dCHZJINw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYRwMW0.jpg" group-title="Music",Metal Machine Garage (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAr9ddgH2c0LTLrFNnJoHMw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ffmBLG.jpg" group-title="Music",Moow Records (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtNQ8haXrVTkVdQ-DYvh1Xw/live
 
@@ -227,6 +239,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnhHe0_bk_1_0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOquhVh.jpg" group-title="Music",Rtv Music (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPa06Nj.jpg" group-title="Music",Şerbet FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsFVB5EFAO4rRdahs7M4BAg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MW2VzkQ.jpg" group-title="Music",Shuffle Radio (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLKWQY37ITxK3LSsrbsv05A/live
@@ -767,6 +782,18 @@ plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=3
 plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 5 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=5
+
+# https://www.youtube.com/c/karnaval
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puWivmI.jpg" group-title="",Karnaval 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh1zT2Pgi5YmR4TV0rvDkpA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puWivmI.jpg" group-title="",Karnaval 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh1zT2Pgi5YmR4TV0rvDkpA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puWivmI.jpg" group-title="",Karnaval 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh1zT2Pgi5YmR4TV0rvDkpA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puWivmI.jpg" group-title="",Karnaval 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh1zT2Pgi5YmR4TV0rvDkpA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puWivmI.jpg" group-title="",Karnaval 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh1zT2Pgi5YmR4TV0rvDkpA&live=5
 
 # https://www.youtube.com/c/KitspysDreamland
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSk1rZv.jpg" group-title="Music",Kitspy's Dreamland 1 (YT) (c_id)
