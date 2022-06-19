@@ -1,0 +1,227 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws3djfQ.jpg" ,★★★★★★★★★★Austria★★★★★★★★★★
+0.0.0.0
+
+# https://www.antennevorarlberg.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCuPGNE.png" group-title="Radio",Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+
+# https://www.dorftv.at/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZuzDqY.jpg" group-title="Regional",Dorf TV (576p)
+https://stream.openplayout.org/hls/dorftv/live.m3u8
+
+# https://fcgwels.at/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqnYQpt.jpg" group-title="Religious",Freie Christengemeinde Wels (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnErQtOCaJBPEurXJqDAzQg/live
+
+# https://fs1.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAuIrri.png" group-title="Regional",FS1 Salzburg
+https://stream.fs1.tv/hls/webstream.m3u8
+
+# https://oe3.orf.at/player/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGWBp9l.png" group-title="Radio",Hitradio Ö3
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+
+# https://k19.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z88MCzl.jpg" group-title="Sports",K19
+https://1853185335.rsc.cdn77.org/K19/tv/playlist.m3u8
+
+# https://www.kronehit.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWJlfQV.jpg" group-title="Music",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+# https://www.krone.at/videos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVuPgoc.png" group-title="News",Krone TV
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+
+# https://www.k-tv.org/live-stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/57w2Vny.png" group-title="Religious",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/57w2Vny.png" group-title="Religious",K-TV (OPT-2)
+https://vod.k-tv.org:8443/ktvhls.m3u8
+
+# https://www.kitzbueheler-alpen.com/de/stjo/tv.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZQCNAc.png" group-title="Local",Kitzalps Info-TV
+https://57a1a332778cd.streamlock.net/kitzalps-live/_definst_/smil:livestream.smil/chunklist_w1051222669_b3000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZQCNAc.png" group-title="Local",Kitzalps Info-TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UComk-iMLS8GeuZ4Cu9z0O4g/live
+
+# https://www.laendletv.com/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elb13Xf.png" group-title="Regional",Ländle TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://streaming7.huberwebmedia.at/player_landletv.php
+
+# https://www.m4tv.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75KM1mm.jpg" group-title="Local",M4TV
+https://streaming.m4tv.at/live/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75KM1mm.jpg" group-title="Local",M4TV (OPT-2)
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+
+# http://www.melodie.tv/cms/index.php/stream https://www.youtube.com/channel/UC6jLHRD6GpYr101tWdBqWMQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMVPP7h.jpg" group-title="Shopping;Music",Melodie Express (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=89L7f6-0SqU
+
+# https://www.oe24.at/video
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghC6SUL.jpg" group-title="News",OE24.TV
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghC6SUL.jpg" group-title="News",OE24.TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
+
+# https://www.okto.tv/de/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JPeMlBu.png" group-title="Local",Okto TV
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+# https://www.r-9.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5XFRnR.jpg" group-title="Regional",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+
+# https://www.redbull.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9cw7UT.png" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9cw7UT.png" group-title="Sports",Red Bull TV - Special Event (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/redbull
+
+# https://www.rts-salzburg.at/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrBEF81.png" group-title="Local",RTS Salzburg (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgaD3vLWMHrsvwptlgVxXCg/live
+
+# https://www.rtvdigital.at/livestream https://regionaltv.at/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rQn03k.png" group-title="Regional",RTV
+https://streamtest.rtv-ooe.at/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvqxfCP.jpg" group-title="Local",Salzburg AG (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCW2Pxe1HORVJf1DoplPVYbw/live
+
+# http://schaumedia.at/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uaC2rC4.jpg" group-title="Regional",SchauTV
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+
+# https://www.swamiji.tv/stream/eu/eu-Vienna
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpJ6Lwd.png" group-title="Religious",Swamiji TV (EU)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+# https://swamiji.tv/stream/us/eu-Vienna
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpJ6Lwd.png" group-title="Religious",Swamiji TV (US)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+# https://swamiji.tv/stream/au/eu-Vienna
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpJ6Lwd.png" group-title="Religious",Swamiji TV (AU)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+
+# https://www.tiroltoday.at/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inF5UPt.png" group-title="Regional",Tirol TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+
+# https://www.viyana.tv/canli-izle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Kkp6vG.png" group-title="General",Viyana TV (Turkish)
+https://player.girdapajans.com/player/m3u8/c4a2a06923e38e1f49df3135705db49e/c4a2a06923e38e1f49df3135705db49e.m3u8
+
+# https://www.w24.at/Livestream 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqWBB44.png" group-title="Regional",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+# https://yuplanet.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGAhFEC.jpg" group-title="",Yu Planet
+https://freestreams.ott.solutions:8443/YuPlanet/asojnd2jsjae/playlist.m3u8
+
+##GEO##
+
+# https://tvthek.orf.at/live https://tv.orf.at/
+# https://licensing.bitmovin.com/licensing
+# .mpd DMR https://drm.ors.at/acquire-license/widevine?BrandGuid= ....
+
+# https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKlE0D7.png" group-title="",ORF 1 (GEO)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+
+# https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxgKCJg.png" group-title="",ORF 2 (GEO)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+
+# https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/36P8KAC.png" group-title="",ORF 3 (GEO)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+
+# https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTnlTCS.png" group-title="",ORF Sport+ (GEO)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMivDjz.png" group-title="",Upper Austria (GEO)
+http://89.187.168.245:8080/live/sUPPERchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="",Uppera Balkan (GEO)
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+
+##OFFLINE##
+
+# http://www.gotv.at/stream/ https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+# https://nstream17.gotv.at:1443/live/gotvlive_576p/manifest.mpd https://nstream17.gotv.at:1443/live/gotvlive_360p/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO2l13I.jpg" group-title="Music",GoTV (SLT) (OFFLINE)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO2l13I.jpg" group-title="Music",GoTV Audio (SLT) (OFFLINE)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://nstream17.gotv.at:1443/live/gotvlive_audio/manifest.mpd
+
+# https://www.p3tv.at/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4FY0y2w.png" group-title="Local",P3tv (OFFLINE)
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+
+# https://teins.at/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg9wjGI.jpg" group-title="",Teins TV (OFFLINE)
+https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+
+##No Live##
+
+# https://www.youtube.com/c/kanal3tv
+# https://www.lt1.at/
+# https://www.servustv.com/
+# http://www.reise-tv.com/index.php/mid,1101,TV_Channels
+# https://www.muehlviertel.tv/
+# https://gipsytv.com/
+# https://www.arf.at/
+# https://www.wntv.at/
+
+##Missing##
+
+# www.linzlandtv.at/LLTV_Live Flash Player
+EXTINF:-1 tvg-logo="https://i.imgur.com/WP1cBXR.png" group-title="",LinzLandTV (LLTV)
+
+# https://www.kt1.at/live/
+EXTINF:-1 tvg-logo="https://i.imgur.com/ChnJgOR.png" group-title="",KT1
+
+# https://www.atv.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/atv/apple-touch-icon-144x144-precomposed.png" group-title="",ATV
+
+# https://www.atv.at/livestream-atv2
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/atv/apple-touch-icon-144x144-precomposed.png" group-title="",ATV 2
+
+# https://www.puls4.com/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/puls4/apple-touch-icon-144x144-precomposed.png" group-title="",Puls4 
+
+# https://www.puls24.at/live
+EXTINF:-1 tvg-logo="https://www.puls24.at/assets/apple-touch-icon-v2.png" group-title="",Puls24
+
+# https://www.prosieben.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/prosieben/apple-touch-icon-144x144-precomposed.png" group-title="",ProSieben
+
+# https://www.sat1.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/sat1/apple-touch-icon-144x144-precomposed.png" group-title="",Sat1
+
+# https://www.kabeleins.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/kabeleins/apple-touch-icon-144x144-precomposed.png" group-title="",Kabel Eins
+
+# https://www.kabeleinsdoku.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/kabeleinsdoku/apple-touch-icon-144x144-precomposed.png" group-title="",Kabel Eins DOKU
+
+# https://www.sixx.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/sixx/apple-touch-icon-144x144-precomposed.png" group-title="",Sixx
+
+# https://www.prosiebenmaxx.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/prosiebenmaxx/apple-touch-icon-144x144-precomposed.png" group-title="",ProSieben Maxx
+
+# https://www.sat1gold.at/livestream
+EXTINF:-1 tvg-logo="https://s.p7s1.io/xfiles/sat1gold/apple-touch-icon-144x144-precomposed.png" group-title="",Sat1 Gold
+
+##
+# https://www.youtube.com/channel/UC9xLSF0SZDbVa70iTpghQBw
+# https://www.youtube.com/channel/UCgL2EJAYMsU9ifTuiZ9wUFA
+# https://www.youtube.com/channel/UCxIhdwWmA8Adg-hE1oqd5WA
+# https://www.youtube.com/c/ADMIRALaut
+# https://www.youtube.com/c/bolaoTV
+# https://www.youtube.com/c/RedBullBike
