@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner ENG★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (TWITCH) (C_N)
@@ -577,6 +577,140 @@ https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner ES★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rFeRRn.jpg" group-title="Kids",Baby Alive Español Latino - Canal Oficial 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=https://www.youtube.com/channel/UC8ilKvUpaeizs_af0Q4vE6A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rFeRRn.jpg" group-title="Kids",Baby Alive Español Latino - Canal Oficial 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=https://www.youtube.com/channel/UC8ilKvUpaeizs_af0Q4vE6A&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFfqYSw.jpg" group-title="Kids",BabyBus - Canciones Infantiles & Cuentos (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCy_rxpSt8DMagOUFA9Q-t1A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E365wsF.jpg" group-title="Kids",BabyFirst Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCW0fLAGU31dyY7PDgjCs0pQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUgXs6j.jpg" group-title="Kids",Barbie Latinoamérica (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5Ice380QDQ4q26uzDx-ACg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPqUGjH.jpg" group-title="Kids",Biper y sus Amigos (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYslmQ8uJYORVagKOtejwAQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mI9Mc4E.jpg" group-title="Kids",Boom Buddies Español - Canciones Infantiles (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYueUut3fm27z-J35d6wAXg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zakMwR.jpg" group-title="Kids",Búho Hophop (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZYfPmxQ40raeM6gPcuXMmA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/637mrvw.jpg" group-title="Kids",Cats Family en Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtRFxUt6HGRDHRDl-HrBgsg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFH6fVx.png" group-title="Kids",Cloudserver Kids90
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T5zfxEg.jpg" group-title="Kids",Dave and Ava - Canciones Infantiles (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3xdYJcb7ny8Weoo53vS9LA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIIwKgm.jpg" group-title="Kids",DreamWorksTV Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2soTqlSw9fcgvf9_tZUaZA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGPTwAV.jpg" group-title="Kids",Dreiko Tv
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORDXE4g.jpg" group-title="Kids",El Reino Infantil (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCK1i2UviaXLUNrZlAFpw_jA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVysF0M.jpg" group-title="Kids",Farmees Español - Canciones Infantiles (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6hKFu_Di-pASp0W__7ZKUw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUyuAj7.jpg" group-title="Kids",Fisher-Price Latino (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNk9yiR3wUKXNvEyWL5cv5A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZ2sBuG.jpg" group-title="Kids",HeyKids.es - Canciones Para Niños (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoERKXqq6oMyoRlw5L2tQBQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azudiwk.jpg" group-title="Kids",Hot Wheels Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCk84IJWV7kMsEQggLNDwxhg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waamGzO.jpg" group-title="Kids",Kid-E-Cats Español Latino (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCexsDy4gCmwaE_-b2WjsXpg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKrWk3O.jpg" group-title="Kids",Kids TV Español Latino - Canciones Infantiles (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDz5RUlZ7rstZcJvOeN4IBA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2i7Y1.jpg" group-title="Kids",La Brujita Tatty - dibujos animados 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZE5p7Ht5kYdCDW7COKso3w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2i7Y1.jpg" group-title="Kids",La Brujita Tatty - dibujos animados 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZE5p7Ht5kYdCDW7COKso3w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2i7Y1.jpg" group-title="Kids",La Brujita Tatty - dibujos animados 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZE5p7Ht5kYdCDW7COKso3w&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2i7Y1.jpg" group-title="Kids",La Brujita Tatty - dibujos animados 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZE5p7Ht5kYdCDW7COKso3w&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2i7Y1.jpg" group-title="Kids",La Brujita Tatty - dibujos animados 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZE5p7Ht5kYdCDW7COKso3w&live=5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mflZMcm.jpg" group-title="Kids",My Little Pony en Español Latino - Canal Oficial (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCavwStVQoAroamzC1lPQmyg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsMSsXq.jpg" group-title="Kids",Oddbods Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzYqgnjnhnN78k_8h6s3vxg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCxaMbd.jpg" group-title="Kids",Pakapaka (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfI8BbR.jpg" group-title="Kids",Peppa Pig Español Latino - Canal Oficial (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrreHSUa5rnuCVDeO8dX4eA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXVon2X.jpg" group-title="Kids",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4PAhKy.jpg" group-title="Kids",PJ Masks Español - Canal Oficial (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCls_EBAwd14tA-yRVQmH0Ww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Kids",Planetatv Kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjJ2FsL.jpg" group-title="Kids",POCOYÓ en ESPAÑOL - Canal Oficial 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnB5W_ZJgiDFnklejRGADxw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjJ2FsL.jpg" group-title="Kids",POCOYÓ en ESPAÑOL - Canal Oficial 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnB5W_ZJgiDFnklejRGADxw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjJ2FsL.jpg" group-title="Kids",POCOYÓ en ESPAÑOL - Canal Oficial 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnB5W_ZJgiDFnklejRGADxw&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzQKM9r.jpg" group-title="Kids",POCOYÓ en ESPAÑOL LATINO - Canal Oficial (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsgF-BQ-ZotYbLA6QeJuRVw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HedQU2D.jpg" group-title="Kids",Pollito Amarillo 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkzkglU6r7h1xCDzob_LoXw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HedQU2D.jpg" group-title="Kids",Pollito Amarillo 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkzkglU6r7h1xCDzob_LoXw&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyaHDgh.jpg" group-title="Kids",Pororo El Pequeño Pingüino l Pororo Spanish (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCs6LE0RGmBjF3zSMmcOSKlw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4QeOxz.jpg" group-title="Kids",Power Rangers para Niños - Canal Oficial (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHr2zD4qgWz8yXkzIun5aAg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvK2k8f.jpg" group-title="Kids",Robocar POLI TV español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMNF9U_qNJm8_Cbs65fSFPA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Kids",SEO TV Kids
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0E8hlAn.jpg" group-title="Kids",Talking Tom & Friends Español (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8jhmIE.jpg" group-title="Kids",TV para niños 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8jhmIE.jpg" group-title="Kids",TV para niños 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8jhmIE.jpg" group-title="Kids",TV para niños 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ytf3DtC.png" group-title="Kids",Xabarín TV
+https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner Gaming★★★★★★★★★★
 0.0.0.0
