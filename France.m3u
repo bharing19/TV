@@ -6,11 +6,93 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
+
+
+# https://www.youtube.com/c/RelaxanteMusique
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGFs69q.jpg" group-title="Music",Musique Relaxante - Méditation : Dormir et Berceuse 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB85mqzwxW1ochHxPbTEsjw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGFs69q.jpg" group-title="Music",Musique Relaxante - Méditation : Dormir et Berceuse 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB85mqzwxW1ochHxPbTEsjw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGFs69q.jpg" group-title="Music",Musique Relaxante - Méditation : Dormir et Berceuse 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB85mqzwxW1ochHxPbTEsjw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGFs69q.jpg" group-title="Music",Musique Relaxante - Méditation : Dormir et Berceuse 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB85mqzwxW1ochHxPbTEsjw&live=4
+
+# https://www.youtube.com/channel/UCnCHLdBj0Fmue--3wm7WuRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dasREWS.jpg" group-title="Music",Chanson Romantique 13 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnCHLdBj0Fmue--3wm7WuRA&live=13
+
+# https://www.youtube.com/channel/UCLeKU6nSrRaOifDwCKUsECg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urlonL4.jpg" group-title="Music",Musique Français Collection 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeKU6nSrRaOifDwCKUsECg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urlonL4.jpg" group-title="Music",Musique Français Collection 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeKU6nSrRaOifDwCKUsECg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urlonL4.jpg" group-title="Music",Musique Français Collection 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeKU6nSrRaOifDwCKUsECg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urlonL4.jpg" group-title="Music",Musique Français Collection 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeKU6nSrRaOifDwCKUsECg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urlonL4.jpg" group-title="Music",Musique Français Collection 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLeKU6nSrRaOifDwCKUsECg&live=5
+
+# https://www.youtube.com/channel/UCwIJCWVmNiCrAXv_FoDhRYQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 13 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRARONh.jpg" group-title="Music",Musique Pour Toi 14 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwIJCWVmNiCrAXv_FoDhRYQ&live=14
+
+
+##########
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwkvCed.jpg" group-title="",Martinique la 1ère (STK)
 plugin://plugin.video.sendtokodi/?http://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVgA3bI.jpg" group-title="",Hot Wheels Français (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-hyDfujz0SIpqsQIoaGueA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rInp4S7.jpg" group-title="",iDAL Production FRANCE (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbtuKhUrh3e0pyodF_QUtew/live
@@ -912,6 +994,9 @@ https://srv.webtvmanager.fr:3715/stream/play.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCl0KdGiwyqLJCdu5XMIz_TQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uedae9h.jpg" group-title="Anime",HeyKids Français (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCl0KdGiwyqLJCdu5XMIz_TQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVgA3bI.jpg" group-title="",Hot Wheels Français (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-hyDfujz0SIpqsQIoaGueA/live
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/BvNmSKM.jpg" group-title="France",Humanity 
 https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
