@@ -16,6 +16,10 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec C
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
 
+# https://gsc-culture.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0QFfDW.jpg" group-title="",Groove station canada Tv (GSC TV) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi82jQda34Gm2vHWK6h5alA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (YT) (c_id) (Non 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCMDYCpjxZa0wCfctGEFOM6Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (STK) (Non 24/7)
