@@ -494,6 +494,33 @@ https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/31/USBB3600001R6_20211117T100454.png" group-title="Kids",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
 
+# https://www.toongoggles.com/?section=channelsepg
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/toon-goggles-icon-rectangle-diagonal-w-small-tg_0.jpg" group-title="Kids",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/eddies-wonderland-2021_d.jpg" group-title="Kids",Eddie's Wonderland
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=294&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/366x206/omnomtv.jpg" group-title="Kids",Om Nom TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/366x206/grw_updated.jpg" group-title="Kids",Guiness World Records
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=567&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/mytoonz_logo.jpg" group-title="Kids",My Toonz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=510&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/366x206/tg-en-espanol-rectangle-logo-option4.jpg" group-title="Kids",TG En Espanol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/gross-out-1920-x-1080-.jpg" group-title="Kids",Gross Out TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=41&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/sparkle-power-1920-x-1080.jpg" group-title="Kids",Sparkle Power
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=35&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/366x206/tg-movies-1920-x-1080_1.jpg" group-title="Kids",TG Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=286&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/366x206/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=264&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/tgjr_1.jpg" group-title="Kids",TG Junior
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/366x206/zoomoo_toongoogles1.jpg" group-title="Kids",Zoo Moo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=40&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids",TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
