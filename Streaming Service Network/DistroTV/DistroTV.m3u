@@ -365,7 +365,7 @@ https://dai.google.com/linear/hls/event/z5hXv__5S4uwrtOBjAahlQ/master.m3u8
 https://dai.google.com/linear/hls/event/ORKkL0_LSnSG0XZpIAQv0Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classica/logo_20200709_233131.png" group-title="DistroTV: Music",Stingray Classica
 https://dai.google.com/linear/hls/event/yxQJZMf2SBmO-N9E7_nOOA/master.m3u8
-#EXTINF:-1 ttvg-logo="https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20200709_233552.png" group-title="DistroTV: Music",Stingray DJAZZ
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20200709_233552.png" group-title="DistroTV: Music",Stingray DJAZZ
 https://dai.google.com/linear/hls/event/7mp_xJmYSrun0m6xBYpO2w/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20200720_201959.png" group-title="DistroTV: Music",Stingray Hot Country
 https://dai.google.com/linear/hls/event/rP8VnTJJStufguHLHosJdw/master.m3u8
