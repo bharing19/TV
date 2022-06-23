@@ -12,6 +12,13 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kphh7HC.jpg" group-title="",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JOlN4t.png" group-title="",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LH9UkCp.png" group-title="",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC3ndD2cB161KQjeMbUXNbQg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (STK)
@@ -34,8 +41,19 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11Rp3Ye.png" group-title="Music",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AbVl1y7.jpg" group-title="",Retro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TupQPaX.png" group-title="",Classic Rerun
+https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
+
+# https://www.getafteritmedia.com/retro-live-feed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROqRQ4s.png" group-title="",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5RdpD6.png" group-title="",EPlus TV 6 Jackson
+https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
+
+# http://www.classicartsshowcase.org/watch-classic-arts-showcase/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0RxIAD.png" group-title="Music",Classic Arts Showcase
+https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5m7OZ8W.jpg" group-title="",Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
@@ -786,6 +804,14 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="",N+ Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+# https://hmongtvnetwork.com/watch-in-hd/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aA2C7lc.png" group-title="",Hmong TV
+https://video1.getstreamhosting.com:1936/8506/8506/playlist.m3u8
+
+# http://ventanatv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frGE0yU.png" group-title="",Ventana TV
+http://digital.sit-mexico.com:1935/live/delagarza/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="",N+ Noticiero Televisa
 https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_6.m3u8
