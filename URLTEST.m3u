@@ -21,6 +21,39 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3ndD2cB161KQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BO1rPI2.png" group-title="",Z Living 
 https://jr7yv948la4v-hls-live.5centscdn.com/Zliving/6b426a3f98b990e8bdc988d07336e413.sdp/playlist.m3u8|Referer=https://www.zliving.com/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwHxTJD.png" group-title="",Military Home Life
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1482
+
+# https://www.wsfltv.com/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppPS9TO.png" group-title="Music",Retro Music TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11Rp3Ye.png" group-title="Music",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbVl1y7.jpg" group-title="",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5m7OZ8W.jpg" group-title="",Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+
+# https://www.ntd.com/live.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD East (US)
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD West (US)
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
+https://5f12bfd029e37.streamlock.net/live/Stream1/playlist.m3u8
+
+
 # https://video.podtv.live/?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAbUt5C.png" group-title="",POD TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=517
@@ -40,6 +73,66 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/kmbytv
 # https://kkdjtv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQijM2n.png" group-title="Music",KKDJ TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/kkdjtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgVZ0mrM3liHNhRYC5Mchgg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCq9e_hCv2jvgck8WowW1NXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDDHvAu-pNOgdzgHha96Qnw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIYVU7fPs_n6gJIBso3ryeg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIYVU7fPs_n6gJIBso3ryeg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClfc1_I5AVnnRAvIRpwLXBQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClfc1_I5AVnnRAvIRpwLXBQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPq-p0HbZfG4ADIlvqGJIZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPq-p0HbZfG4ADIlvqGJIZA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaVp5oNNuIZVU7qqhSX0LGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrNnk0wFBnCS1awGjq_ijGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkaNo2FUEWips2z4BkOHl6Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC-yHapH6mW1ceZ_5PDUf1_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-yHapH6mW1ceZ_5PDUf1_g/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ts26Bb8.jpg" group-title="",Things You Might - Dog TV Live 24/7 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkl5u6yticD0ZV9kqAaA7PQ/live
@@ -302,34 +395,7 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 
 
-# https://www.wsfltv.com/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
-https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppPS9TO.png" group-title="Music",Retro Music TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/11Rp3Ye.png" group-title="Music",Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AbVl1y7.jpg" group-title="",Retro TV
-https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5m7OZ8W.jpg" group-title="",Rev'n
-https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
-
-# https://www.ntd.com/live.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD East (US)
-https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD West (US)
-https://ntd02.akamaized.net/NTD-West/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD UK
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
-https://5f12bfd029e37.streamlock.net/live/Stream1/playlist.m3u8
 
 #######
 
@@ -488,66 +554,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3o_gaqvLoPSR
 plugin://plugin.video.youtube/play/?channel_id=UCJUAqHnkDX15IvFoXIGTm2A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hm3eEsi.jpg" group-title="",Travel Channel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJUAqHnkDX15IvFoXIGTm2A/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCgVZ0mrM3liHNhRYC5Mchgg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCq9e_hCv2jvgck8WowW1NXg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDDHvAu-pNOgdzgHha96Qnw/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCIYVU7fPs_n6gJIBso3ryeg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIYVU7fPs_n6gJIBso3ryeg/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UClfc1_I5AVnnRAvIRpwLXBQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClfc1_I5AVnnRAvIRpwLXBQ/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCPq-p0HbZfG4ADIlvqGJIZA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPq-p0HbZfG4ADIlvqGJIZA/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCaVp5oNNuIZVU7qqhSX0LGQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCrNnk0wFBnCS1awGjq_ijGQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCkaNo2FUEWips2z4BkOHl6Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (YT) (c_id) (Not 24/7)
-plugin://plugin.video.youtube/play/?channel_id=UC-yHapH6mW1ceZ_5PDUf1_g&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (STK) (Not 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-yHapH6mW1ceZ_5PDUf1_g/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nnYtc0Q.jpg" group-title="Sport",The BRSCC (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCu8lvaSxDVWB5sLu-ovw1Ig&live=1
