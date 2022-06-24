@@ -71,6 +71,18 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
 https://5f12bfd029e37.streamlock.net/live/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIHvNMs.png" group-title="Nosey",Divorce Court
+https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lkQixBn.png" group-title="Nosey",Jerry Springer
+https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpAu8nH.png" group-title="Nosey",Judge Dad/Judge Mom
+https://9e8a585dae4840d18cfe5989851b5e73.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60833a79de49a00d0ab83a5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwFFlgn.png" group-title="Nosey",Judge Karen's Court
+https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UFFR4c.png" group-title="Nosey",Maury
+https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fOioNox.png" group-title="Nosey",Steve Wilkos
+https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
 
 # https://video.podtv.live/?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAbUt5C.png" group-title="",POD TV
