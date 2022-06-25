@@ -1,0 +1,80 @@
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_FR1.xml.gz"
+
+# https://www.tntendirect.com/
+#EXTINF:-1 tvg-logo="https://www.tntendirect.com/apple-touch-icon.png" ,★★★★★★★★★★TNT En Direct★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://www.tntendirect.com/images/channel/6ter.png" group-title="Généraliste",6ter
+https://s13.tntendirect.com/6ter/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://www.tntendirect.com/images/channel/arte.png"group-title="Documentaires",Arte (OPT-3)
+https://s13.tntendirect.com/arte/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://www.tntendirect.com/images/channel/bfm-tv.png" group-title="Actualités",BFM TV 
+https://s13.tntendirect.com/bmftv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://www.tntendirect.com/images/channel/c8.png" group-title="Généraliste",C8
+https://s13.tntendirect.com/d8/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://www.tntendirect.com/images/channel/cherie-25.png" group-title="Thématique",Cherie 25
+https://s13.tntendirect.com/cherie25/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="Généraliste",CStar
+https://s13.tntendirect.com/d17/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://www.tntendirect.com/images/channel/france-2.png" group-title="Généraliste",France 2
+https://s13.tntendirect.com/france2/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://www.tntendirect.com/images/channel/france-3.png" group-title="Généraliste",France 3 
+https://s13.tntendirect.com/france3/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://www.tntendirect.com/images/channel/france-4.png" group-title="Généraliste",France 4 
+https://s13.tntendirect.com/france4/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://www.tntendirect.com/images/channel/france-5.png" group-title="Généraliste",France 5 
+https://s13.tntendirect.com/france5/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="L&apos;Equipe.fr" tvg-logo="https://www.tntendirect.com/images/channel/equipe-21.png" group-title="Sport",L'Equipe 21
+https://s13.tntendirect.com/lequipe21/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://www.tntendirect.com/images/channel/m6.png" group-title="Généraliste",M6 (OPT-2)
+https://s13.tntendirect.com/m6/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NRJ.12.fr" tvg-logo="https://www.tntendirect.com/images/channel/nrj-12.png" group-title="Musique",NRJ12
+https://s13.tntendirect.com/nrj12/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-logo="https://www.tntendirect.com/images/channel/rmc-decouverte.png" group-title="",RMC DECOUVERTE
+https://s13.tntendirect.com/rmcdecouverte/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="Généraliste",TF1 (OPT-2)
+https://s13.tntendirect.com/tf1/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TF1.Séries.Films.fr" tvg-logo="https://www.tntendirect.com/images/channel/tf1-series-films.png" group-title="Thématique",TF1 Series & films
+https://s13.tntendirect.com/hd1/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="Généraliste",TFX 
+https://s13.tntendirect.com/nt1/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://www.tntendirect.com/images/channel/tmc.png" group-title="Généraliste",TMC
+https://s13.tntendirect.com/tmc/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://www.tntendirect.com/images/channel/w9.png" group-title="Généraliste",W9
+https://s13.tntendirect.com/w9/live/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
