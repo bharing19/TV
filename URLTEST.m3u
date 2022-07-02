@@ -154,9 +154,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMbh7xH.jpg" group-title="Sports",WWPTV Video (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQh_ZC2J0WHbwZfe5soMWHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCkaNo2FUEWips2z4BkOHl6Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (YT) (c_id) (Not 24/7)
