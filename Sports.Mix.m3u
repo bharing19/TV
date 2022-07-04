@@ -87,6 +87,9 @@ https://dai.google.com/linear/hls/event/4_LqkDfsQ3imKcucLvoObQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzA99im.png" group-title="Sports",Choppertown
 https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZJJOuh.png" group-title="Sports",Chukker
+https://the-chukker-channel-tv-vivalive.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSG3RRv.png" group-title="Sports",Combat Go
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
 
@@ -374,6 +377,9 @@ https://dai.google.com/linear/hls/event/UlQSLwjRTlmNYjmvSXFlNQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXVRjnJ.png" group-title="Sports",Pursuit Up
 https://pursuitup-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61ae800d49eaab77182a4cd3_pursuitup-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUbLL9m.png" group-title="Sports",PXSports
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/H01FJT9PTXD3QJXK06B4/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651889&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kxcgwnr.png" group-title="Sports",Race Central
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_076/SD/playlist.m3u8
