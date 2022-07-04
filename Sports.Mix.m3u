@@ -46,7 +46,7 @@ https://dai.google.com/linear/hls/event/g_FkxbISTtW2WEKHKz1jUw/master.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="Sports",Betis TV
-https://betistv-live.flumotion.com/-7ThootdCPvYR6GtkmY91Q/1656883655/betistv/live_all/playlist.m3u8
+https://betistv-live.flumotion.com/dLyIPv6oMSk37S5dgACQgA/1656973605/betistv/live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbjn17x.png" group-title="Sports",Billiard TV
 https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
@@ -117,7 +117,7 @@ https://elevensports-samsunguk-de.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqHTNDJ.png" group-title="Sports",English Football Channel
 https://englishfootballchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61e99ecb2426857b5e0de8e4_englishfootballchannel-live/master.m3u8?channel=ve_ef&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=10997838286581888&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-wrestling-legends-network&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61e99ecb2426857b5e0de8e4&ads.channel_title=EPG-English_Football_Channel&ads.channel_contenttype=Shows&ads.channel_name=EPG-English_Football_Channel&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=english-football-channel&ads.content_provider=english-football-channel&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kgCtdqz.png" group-title="Sports",ESCAPE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBA6Qwq.jpg" group-title="Sports",ESCAPE TV
 https://escape-vivalive.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LLPMuTs.jpg" group-title="Sports",Exercise 4U
