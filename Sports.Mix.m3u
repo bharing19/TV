@@ -1,0 +1,559 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98feBnp.jpg" ,★★★★★★★★★★Sports & Outdoor Mix★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMqFxAt.jpg" group-title="Sports",24 Hour Fitness (YT Feed)
+https://cutt.ly/1K1vfqf
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="Sports",Abu Dhabi Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="Sports",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png" group-title="Sports",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-4-ae.png" group-title="Sports",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="Sports",Adventure Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9MzuPH.jpg" group-title="Sports",Adventure Sports TV
+https://dai.google.com/linear/hls/event/KP9pZkHDTmOM9I3KseqrRw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Sports" ,ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sApoLOg.jpg" group-title="Sports",Atmosphere Sports
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-atmosphere-atmospheresport-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9q0gLe.png" group-title="Sports",Auto Allstars
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2744
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hlBPCj.png" group-title="Sports",BeIN Xtra
+https://dai.google.com/linear/hls/event/g_FkxbISTtW2WEKHKz1jUw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8PpFdD.png" group-title="Sports",Bek Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="Sports",Betis TV
+https://betistv-live.flumotion.com/-7ThootdCPvYR6GtkmY91Q/1656883655/betistv/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbjn17x.png" group-title="Sports",Billiard TV
+https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQYwnsF.png" group-title="Sports",Black Belt TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ues61op.png" group-title="Sports",Boxing Spotlight
+https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_121/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWI1OSZ.png" group-title="Sports",Boxing TV
+https://boxingtv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_621e64f3ef7c64732c107802_boxingtv-live-1/BOXINGTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2B5ks5.png" group-title="Sports",BritBash
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/QTCIZM1A7YM20K2LMM1U/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651302&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uujegFD.png" group-title="Sports",CampusLore Sports
+https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7ljrVd.png" group-title="Sports",Carbon TV
+https://carbontv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_624b66255dd88a518b0062e2_carbontv-live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCGjJUK.png" group-title="Sports",CBS Sports HQ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIRmobr.jpg" group-title="Sports",ChampCar Endurance Series (YT Feed) (Not 24/7)
+https://cutt.ly/hK9rdeh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBsan9G.png" group-title="Sports",Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGgdDoL.png" group-title="Sports",Channel Fight Masterclass
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1869
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQvvu9b.png" group-title="Sports",Chive TV
+https://dai.google.com/linear/hls/event/4_LqkDfsQ3imKcucLvoObQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzA99im.png" group-title="Sports",Choppertown
+https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSG3RRv.png" group-title="Sports",Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UopGKG.png" group-title="Sports",Cornhole TV
+https://cornholetv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61800581932d7536c64c60b0_cornholetv-live-1/CORNHOLETV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9NOnCi.jpg" group-title="Sports",Darcizzle Offshore
+https://rebroadcast.mytvtogo.net/mytvtogo/darcizzleOffshore/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0eZSYU.jpg" group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQGoVal.png" group-title="Sports",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FmrR2Hy.png" group-title="Sports",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sport",Eleven Sports
+https://elevensports-samsunguk-de.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqHTNDJ.png" group-title="Sports",English Football Channel
+https://englishfootballchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61e99ecb2426857b5e0de8e4_englishfootballchannel-live/master.m3u8?channel=ve_ef&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=10997838286581888&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-wrestling-legends-network&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61e99ecb2426857b5e0de8e4&ads.channel_title=EPG-English_Football_Channel&ads.channel_contenttype=Shows&ads.channel_name=EPG-English_Football_Channel&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=english-football-channel&ads.content_provider=english-football-channel&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgCtdqz.png" group-title="Sports",ESCAPE TV
+https://escape-vivalive.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLPMuTs.jpg" group-title="Sports",Exercise 4U
+https://rebroadcast.mytvtogo.net/mytvtogo/exercise4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZVRxXP.png" group-title="Sports",Extreme Plus
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=729
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlSRtgw.png" group-title="Sports",FITE 24/7
+https://ed7ded3f297b46df98c69334c7822c61.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FITE247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHjTo9N.png" group-title="Sports",Fight Network
+https://dai.google.com/linear/hls/event/Rg-aOO3MSzKD-R7gZHPzFw/stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyDCRJ7.jpg" group-title="Sports",Fight Night
+https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Du3ySyR.png" group-title="Sports",Fighting Spirit TV
+https://dai.google.com/linear/hls/event/1an25xSeQuGB_J2IdoZ8Dg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m13j53j.png" group-title="Sports",FloSports
+https://dai.google.com/linear/hls/event/VoZhF0i4SJ2t5_GdpIPCJA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h2shUxG.png" group-title="Sports",FloSports High Impact
+https://dai.google.com/linear/hls/event/-RDDK5cMTX2_sGoD9bgCZA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/244Ufqo.jpg" group-title="Sports",FOX Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Gd2mkj.png" group-title="Sports",FTF
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XC0HRf.jpg" group-title="Sports",Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KzXSVnl.png" group-title="Sports",Fuel TV
+https://4003d115895b4bebad408bacb8e95a7a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FuelTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qbogeh9.jpg" group-title="Sports",Fuel The Fire TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2119
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VhEDco.png" group-title="Sports",GlewedTV Yoga & Fitness
+https://dai.google.com/linear/hls/event/ZfRDBl7PQxy3VjWN0c03VA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJJrPMz.png" group-title="Sports",GOLFPASS
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yP2oKp0.jpg" group-title="Sports",Golf Kingdom
+https://rebroadcast.mytvtogo.net/mytvtogo/golfkingdom/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z04UDzd.jpg" group-title="Sports",Golf New TV 
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHKaN7L.jpg" group-title="Sports",Gone Fishing
+https://rebroadcast.mytvtogo.net/mytvtogo/gonefishing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3KPub.jpg" group-title="Sports",Gone Fishing Offshore
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRuQ1uc.jpg" group-title="Sports",Gone Hunting
+https://rebroadcast.mytvtogo.net/mytvtogo/gonehunting/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urBuUpd.jpg" group-title="Sports",GTWorld (YT Feed) (Not 24/7)
+https://cutt.ly/WK1fVMv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVXAnZB.jpg" group-title="Sports",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WP5zcD.png" group-title="Sports",Havoc
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1434
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wz2R6dy.png" group-title="Sports",HBCU Go
+https://hbcugo-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618aa7f659d94a0965310bc3_hbcugo-live-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7S9r0Wx.jpg" group-title="Sports",Hipica TV
+http://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8d0np8r.png" group-title="Sports",Horizon Sports
+https://horizonsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d095934e486f077c20b4_horizonsports-live-1/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNILikf.png" group-title="Sports",Horse & Country
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFKDUzU.png" group-title="Sports",HorseTV
+http://n1.klowdtv.net/live3/horsetv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLYedHN.png" group-title="Sports",Impact Wrestling
+https://dai.google.com/linear/hls/event/Ehegb0G-R-WAEo9HL4Nhfw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frQYQNp.png" group-title="",Indy Wrestling US (Twitch Feed)
+https://cutt.ly/SK0TQN2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7OhEwj.png" group-title="Sports",Insight TV
+https://insight-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A5R8NWV.png" group-title="Sports",Jai Alai TV
+https://jaialaitv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_627c04db1dd4f56bb73f170c_jaialaitv-live/JAIALAITV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzV44ls.png" group-title="Sports",KOZZOM TV
+https://kozoom-tv-vivalive.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports",KBP Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qxpyepr.png" group-title="Sports",Kick Sport TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1433
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9Zrcrx.png" group-title="Sports",Las Vegas Review-Journal News
+https://lasvegasreviewjournalnews-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_62338ea9a562103b402b7535_lasvegasreviewjournalnews-live/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfWdd2g.png" group-title="Sports",Las Vegas Review-Journal Sports
+https://lasvegasreviewjournalsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6238f750dfd6b754a05f8ca2_lasvegasreviewjournalsports-li/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvoH9ZK.jpg" group-title="Sports",Living Outdoors
+https://rebroadcast.mytvtogo.net/mytvtogo/livingoutdoors/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3kZLff.png" group-title="Sports",LSN
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNrNTAv.png" group-title="Sports",Maryland Racing
+https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hIStWI1.png" group-title="Sports",MavTV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5aebWv.png" group-title="Sports",MavTV Select
+https://b285f2adcb1742e99aac4c945ed399aa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_MavTVSelect/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z04UDzd.jpg" group-title="Sports",MMA Junkie
+https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk58YIG.png" group-title="Sports",MMA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1330
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XAfD1yc.jpg" group-title="Sports",Monster Jam (YT Feed)
+https://cutt.ly/yK1dGPq
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oxg6P6I.png" group-title="Sports",MotoAmerica
+https://dai.google.com/linear/hls/event/HCkYA2wESb6G9YpN6SyD0A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHPlJKc.png" group-title="Sports",MotorRacing
+https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d0c11c6c6042f12c5d32_motorracingchannel-live-1/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTmg0LA.png" group-title="Sports",Motorvision
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2020
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yShdV5M.png" group-title="Sports",NBA TV
+https://cutt.ly/rK2317q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kApc15c.png" group-title="Sports",NHRA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1324
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Sports",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9NIH0U.png" group-title="Sports",OTB
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcFIFqn.jpg" group-title="Sports",Outdoors
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6xltbQ.png" group-title="Sports",Outdoor America
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-HeroGo/159.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxoYU0j.png" group-title="Sports",Outdoor Sports Channel
+https://osc-plus-vivalive.evrideo.tv/7209b0e6-3e61-43dc-8574-2a091d5c8e60_1000016065_HLS/master.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcMR7XP.png" group-title="Sports",Outside TV
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zogL0CA.png" group-title="Sports",Pac-12 Insider
+https://pac12-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br4AcLn.jpg" group-title="Sports",Pac-12 Networks International (YT Feed)
+https://cutt.ly/KK1cWx1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="Sports",Players TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHZ3noO.png" group-title="Sports",Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxvaVny.png" group-title="Sports",Pluto TV Backcountry
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOcx8e8.png" group-title="Sports",Pluto TV Bellator MMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33hZa9L.png" group-title="Sports",Pluto TV Boxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufPoArU.png" group-title="Sports",Pluto TV Combate World
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUxwEMx.png" group-title="Sports",Pluto TV Fifth Gear
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfB3h46.png" group-title="Sports",Pluto TV Fight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrieMmv.png" group-title="Sports",Pluto TV Fishing
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9ut3zH.png" group-title="Sports",Pluto TV FOX Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IO4he53.png" group-title="Sports",Pluto TV Glory Kickboxing
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6GkaLl.png" group-title="Sports",Pluto TV MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YnXKvpQ.png" group-title="Sports",Pluto TV MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hb9Cbaz.png" group-title="Sports",Pluto TV Motor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDtG13Y.png" group-title="Sports",Pluto TV NFL Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSNAvZ8.png" group-title="Sports",Pluto TV PBR RidePass
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3vOoHj.png" group-title="Sports",Pluto TV PGA TOUR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jGTw8n.png" group-title="Sports",Pluto TV Pro Wrestling
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7FgMfsg.png" group-title="Sports",Pluto TV Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMvqU5i.png" group-title="Sport",Pluto TV Wipeout
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxo6zOu.png" group-title="Sports",PokerGo
+https://pokergo-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_62854674d0665a65675a69c2_pokergo-live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKA7357.png" group-title="Sports",Poker Night TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=EydRifLqHtKzUAYBkymy
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6U5xGU.png" group-title="Sports",PowerNation
+https://4e89128190694409aeeeaf4469fd6953.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_RTMTVChannel/playlist.m3u8?ads.wurl_channel%3D177%26ads.wurl_name%3DRTMTVChannel%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CNABy1.jpg" group-title="Sports",Pro Football Focus
+https://dai.google.com/linear/hls/event/UlQSLwjRTlmNYjmvSXFlNQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXVRjnJ.png" group-title="Sports",Pursuit Up
+https://pursuitup-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61ae800d49eaab77182a4cd3_pursuitup-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxcgwnr.png" group-title="Sports",Race Central
+https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_076/SD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ls2IpDi.png" group-title="Sports",Racing America
+https://racingamerica-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618c2445b566cb629602b602_racingamerica-live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQIRhGJ.jpg" group-title="Sports",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtdzTQS.png" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dNplRh.png" group-title="Sports",Right Now TV
+https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYe1B9R.png" group-title="Sports",RPM
+https://rpm-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_620e6fa9954624127e336b72_rpm-live-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Q68vxh.png" group-title="Sports",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-HeroGo/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W5HXiq1.png" group-title="Sports",Slopes TV
+https://slopestv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61fae92b4b32a1751956b493_slopestv-live-1/index-slopestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Sports",Snowy Mountains Television
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdID3fj.png" group-title="Sports",Spartan TV
+https://spartantv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618c22cb691f690b620235d2_spartantv-live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmX4z4v.jpg" group-title="Sports",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sAZT9IZ.png" group-title="Sports",SportsGrid
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0maVIm.jpg" group-title="Sports",Sportskool TV
+https://dai.google.com/linear/hls/event/zFTmvCd0RSel2GpV4QkykA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x2qkjJ.png" group-title="Sports",SportTalk
+https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BY3iOJ.png" group-title="Sports",Sports.TV Docs
+https://sportstvdocs-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61f2e272751e494e35577243_sportstvdocs-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/taROHeA.png" group-title="Sports",Sports.TV Top Flicks
+https://sportstvtopflicks-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61f2e63950c30778e86a7a94_sportstvtopflicks-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhwbldD.png" group-title="Sports",Sports TV by Binge
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/KNG3HDKDYWXRQ92KPEJ9/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655070&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",Sporty Stuff TV
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INIHT4l.jpg" group-title="Sports",Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUJ1wzE.jpg" group-title="Sports",Strongman Champions Network
+https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=6246250e9bdc57543f1cfa25&ads.content_title=EPG-Strongmans_Champion_Network&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=strongmans-champions-network&ads.us_privacy=&lastUpdatedAt=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4U5TMQ.png" group-title="Sports",Strongman Champions League
+https://dai.google.com/linear/hls/event/09xphPXPS4qRlr_PAIrkVA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDJkaP7.png" group-title="Sports",SURF NOW TV
+https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nAIH1of.png" group-title="Sports",Swerve Sports
+https://swervesports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_619e4801ab997c09e7683876_swervesports-live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTb1Up2.png" group-title="Sports",T2
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGrJ5TI.png" group-title="",Talent Sport Max
+https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_016/SD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dERCYYk.png" group-title="Sports",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8tdxvE.png" group-title="Sports",Territory Wrestling (Twitch Feed)
+https://cutt.ly/ZK1ajBB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2nSbcUg.png" group-title="Sports",The American Athlete
+https://theamericanathlete-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61dc71e16b9eac4381623502_theamericanathlete-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33rM1XF.png" group-title="Sports",The Grappling Network
+https://thegrapplingnetwork-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6256e18fe99c7c1e0c455562_thegrapplingnetwork-live/236.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1SOLZxc.png" group-title="Sports",The Rugby Network
+https://therugbynetwork-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_62ab86e6fed44a24f446eff3_therugbynetwork-live/TRN_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6nX1Y7.png" group-title="Sports",Thrill One Network
+https://dai.google.com/linear/hls/event/thukf25WQaKSsbcZD5dpIw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJrspo3.png" group-title="Sports",Thrill One Sport
+https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1GvySR8.jpg" group-title="Sports",TMZ Sports
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTTH9NM.jpg" group-title="Sports",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCJvgAg.png" group-title="Sports",Turnpike Sports
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/86YJIRGEEWF08TTAIB33/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655066&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7Z1doQ.jpg" group-title="Sports",TVS Boxing Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/perjpDp.jpg" group-title="Sports",TVS Classic Sports
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihAxxma.jpg" group-title="Sports",TVS Sports Bureau
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0sJGoX.jpg" group-title="Sports",TVS Sports Network
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYygh3d.jpg" group-title="Sports",TVS Women's Sports Network
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ibGAs0S.png" group-title="Sports",Unbeaten
+https://dai.google.com/linear/hls/event/-yZtQFCsR4GY0UDdtsAZDw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bre6Evd.jpg" group-title="Sports",United Fight Alliance
+https://dai.google.com/linear/hls/event/_Bdiue-cTbidArncLX2eOA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhghIgK.png" group-title="Sports",Unreel
+https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia10/live_139/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPgz6V8.png" group-title="Sports News",USA TODAY Sportswire
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EydRifLqHtKzUAYBkymy&channelId=60df3e18541143002f3b8609
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WC59HsT.png" group-title="Sports",VE Sports News
+https://vesportsnews-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_62507273dcf1f81f61126603_vesportsnews-live-1/1e1e3d00-4a21-49f5-8ace-5f45a1fa1d82.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OplwmHx.png" group-title="Sports",Volty TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1444
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dnzGQO.png" group-title="Sports",Waypoint TV
+https://waypointtv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6206e1982792ee148f0722ba_waypointtv-live-1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pf5h42j.png" group-title="Sports",Whistle TV
+https://whistletv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_62057e433fbb7e757762cfe2_whistletv-live-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQcNJKH.png" group-title="Sports",Wired2Fish
+https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4ougsx.png" group-title="Sports",World Chase Tag (Twitch Feed)
+https://www.shorturl.at/choAL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBcwSws.jpg" group-title="Sports",World of Free Sports TV
+https://dai.google.com/linear/hls/event/7mLww9frTiyiDDPOwjBBsQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YQAOET.png" group-title="Sports",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVNzdvE.jpg" group-title="Sports",World Surf League (YT Feed)
+http://tinyurl.com/bdxzdft2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTie7PT.png" group-title="Sports",Wrestling Legends Network (WLN)
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/WLIOFD5KEV3URJ7GOPU6/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655084&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rYH2Oo.png" group-title="Sports",Wrestling Spotlight
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/EQKG7OSSKY8YYEIAFVC1/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651305&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTdcl7o.jpg" group-title="Sports",VSiN
+https://sg1.rcncdn.com/v1/master/16e9277d8d88a943c7cf93cb0e6ad4b8a5729648/streamguys/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMbh7xH.jpg" group-title="Sports",WWPTV Video (YT Feed)
+https://cutt.ly/TK26vaB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igEFJQL.png" group-title="Sports",XFC TV
+https://content.uplynk.com/channel/9164ea45449b4e7797da0246cf80f563.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgCtdqz.png" group-title="Sports",Yoga Fit
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/9DZQR64X1EUZHDD4UBBN/hls3/now_-1m_15s/m.m3u8?ads.vast_id=652772&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
