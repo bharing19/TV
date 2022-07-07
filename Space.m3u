@@ -193,6 +193,11 @@ plugin://plugin.video.youtube/play/?channel_id=UCSFB7Xy5Fa1pVVKP_CajIrw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUAAaTd.jpg" group-title="",Space Relax Music Channel 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCSFB7Xy5Fa1pVVKP_CajIrw&live=2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZGeKf8.jpg" group-title="",SpaceToday (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJPPhwP.jpg" group-title="",SpaceToday 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqswZBBNkoW9AiiYuVV-6xA/live
+
 # https://www.youtube.com/c/SpaceVideosHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U53Kd2j.jpg" group-title="",Space Videos 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCakgsb0w7QB0VHdnCc-OVEA&live=1
@@ -228,6 +233,28 @@ plugin://plugin.video.youtube/play/?channel_id=IUCNj6DsIsOi-DHORB-0MGlGQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZMwc0vh.jpg" group-title="",THEREALPAX 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=IUCNj6DsIsOi-DHORB-0MGlGQ&live=2
 
+# https://www.youtube.com/c/SBPLAYDOHTOY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df8UECK.jpg" group-title="",The Universe & Space 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKv3UT62zZgBWeZ4j8gpkjg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df8UECK.jpg" group-title="",The Universe & Space 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKv3UT62zZgBWeZ4j8gpkjg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df8UECK.jpg" group-title="",The Universe & Space 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKv3UT62zZgBWeZ4j8gpkjg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df8UECK.jpg" group-title="",The Universe & Space 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKv3UT62zZgBWeZ4j8gpkjg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df8UECK.jpg" group-title="",The Universe & Space 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKv3UT62zZgBWeZ4j8gpkjg&live=5
+
+# https://www.youtube.com/channel/UCeJlwc2UA1Tjicj53-2bBhA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEEmQxO.jpg" group-title="",Universe Explore 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeJlwc2UA1Tjicj53-2bBhA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEEmQxO.jpg" group-title="",Universe Explore 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeJlwc2UA1Tjicj53-2bBhA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEEmQxO.jpg" group-title="",Universe Explore 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeJlwc2UA1Tjicj53-2bBhA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEEmQxO.jpg" group-title="",Universe Explore 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeJlwc2UA1Tjicj53-2bBhA&live=4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8XGG6z.png" group-title="",What's News - Space & Science (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMv1mrz-j0iTVmHCFzMkZ_g/live
 
@@ -243,5 +270,4 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=a-2mt5FcekY
 # https://www.youtube.com/c/NASALunar
 # https://www.youtube.com/c/GianMasiVirtualTelescope
 # https://www.youtube.com/c/SpaceX
-# https://www.youtube.com/c/SBPLAYDOHTOY
 ###############################################################
