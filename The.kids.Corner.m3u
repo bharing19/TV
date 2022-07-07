@@ -147,8 +147,10 @@ plugin://plugin.video.youtube/play/?channel_id=UC0OpkQP5u0oUI0ejUzzEZYQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qplXFJt.jpg" group-title="Kids",Fire City Wheels (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0OpkQP5u0oUI0ejUzzEZYQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/umyEio1.jpg" group-title="Kids",Fireman Sam (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umyEio1.jpg" group-title="Kids",Fireman Sam
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8iuFLD.jpg" group-title="Kids",Fireman Sam (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAJetkuJ2zz92WOJCrQvfkw/live
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -404,6 +406,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7UD8F6WC7GGm
 plugin://plugin.video.youtube/play/?channel_id=UCr-rCvgg21KqfrnGopaQeGw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bb8h5uR.jpg" group-title="Kids",Robocar POLI TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVS9X0h.jpg" group-title="Kids",RoboFuse - Car City Universe (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9MRdB1ruN8GMnf6YbvrZ-Q/live
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="Kids",Ryan and Friends
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
