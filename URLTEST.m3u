@@ -12,6 +12,23 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YgpR09.jpg" group-title="",5-Minute DECOR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDTeCWl-l9_6HPwG5ryckkQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2ODFb3.jpg" group-title="",5-Minute Crafts LIKE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzTWHWnJ6VIcbkpqyv7_FaQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fasah2D.jpg" group-title="",5-Minute Recipes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkqaQoGJ2rAHhWk7gzsb9Aw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hyzf1Ej.jpg" group-title="",5-Minute Crafts (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qcbbi0q.jpg" group-title="",5-Minute Crafts Tech (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXFeIOYbhWHrXCIqerycvNQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yo9FpJm.jpg" group-title="",5-Minute Crafts VS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC56_hOqEtBqHwnVNBzOWj-A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qH1q0Cd.jpg" group-title="",5-Minute Crafts SHORTS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWrgDnQgY5t2IhjpdKu-jg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCB9aDQ.jpg" group-title="",5-Minute Crafts TOP (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQPgdCvUt5gG2M3koC5TY3w/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kphh7HC.jpg" group-title="",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JOlN4t.png" group-title="",Now 80's
