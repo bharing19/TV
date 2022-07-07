@@ -29,6 +29,37 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWrgDnQgY5t2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCB9aDQ.jpg" group-title="",5-Minute Crafts TOP (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQPgdCvUt5gG2M3koC5TY3w/live
 
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/0nszivI.png" group-title="News",CNN GO
+https://cutt.ly/1LuF5CM
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/CK7FqgH.png" group-title="News",CNN Intl
+https://cutt.ly/DLuGq1n
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://i.imgur.com/a3iz9gh.png" group-title="",HLN
+https://cutt.ly/CLuGeFB
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://i.imgur.com/FX6o7a6.png" group-title="Entertainment",Adult Swim (East)
+https://cutt.ly/cLuGts1
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://i.imgur.com/FX6o7a6.png" group-title="Entertainment",Adult Swim (West)
+https://cutt.ly/mLuGymA
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Entertainment",TBS (East)
+https://cutt.ly/wLuGu7j
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://i.imgur.com/e3ik7KK.png" group-title="Entertainment",TBS (west)
+https://cutt.ly/OLuGo4E
+#EXTINF:-1  tvg-id="TCMTurnerClassicMoviesEast.us" tvg-logo="https://i.imgur.com/W3ViPrY.jpg" group-title="Movies",TCM (Turner Classic Movies) (East)
+https://cutt.ly/aLuGskr
+#EXTINF:-1  tvg-id="TCMTurnerClassicMoviesWest.us" tvg-logo="https://i.imgur.com/W3ViPrY.jpg" group-title="Movies",TCM (Turner Classic Movies) (West)
+https://cutt.ly/0LuGhxN
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/8dfe7Q9.png" group-title="Entertainment",TNT (East)
+https://cutt.ly/sLuGkxT
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://i.imgur.com/8dfe7Q9.png" group-title="Entertainment",TNT (West)
+https://cutt.ly/VLuGlVq
+#EXTINF:-1 tvg-id="TruTVEast.us" tvg-logo="https://i.imgur.com/ELqNsky.png" group-title="Entertainment",TruTV (East)
+https://cutt.ly/ILuGxW3
+#EXTINF:-1 tvg-id="TruTVWest.us" tvg-logo="https://i.imgur.com/ELqNsky.png" group-title="Entertainment",TruTV (West)
+https://cutt.ly/1LuGvmZ
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" group-title="Kids",Cartoon Network East
+https://cutt.ly/mLuGmcC
+#EXTINF:-1 tvg-id="CartonnNetworkWest.us" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" group-title="Kids",Cartoon Network West
+https://cutt.ly/iLuGW9L
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kphh7HC.jpg" group-title="",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JOlN4t.png" group-title="",Now 80's
