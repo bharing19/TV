@@ -392,10 +392,17 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQERipe.png" group-title="Sport",FTF Canada (YT) (c_id) (Not 24/7)
+# https://www.youtube.com/user/FootballCanada1884
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUhPdYh.jpg" group-title="Sports",Football Canada 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCad0ehTxWQ8wdZOb1SjFEug&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUhPdYh.jpg" group-title="Sports",Football Canada 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCad0ehTxWQ8wdZOb1SjFEug&live=2
+
+# https://www.youtube.com/c/FTFCanada
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9yBWePJ.jpg" group-title="Sports",FTF Canada 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCtRYyMsfy7A8QnQKAJz7P9A&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQERipe.png" group-title="Sport",FTF Canada (STK) (Not 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtRYyMsfy7A8QnQKAJz7P9A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9yBWePJ.jpg" group-title="Sports",FTF Canada 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCtRYyMsfy7A8QnQKAJz7P9A&live=1
 
 # https://www.genesis360radiotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
