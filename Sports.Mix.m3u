@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqFxAt.jpg" group-title="Sports",24 Hour Fitness (YT Feed)
 https://cutt.ly/1K1vfqf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9rflvWQ.jpg" group-title="Sports",A Spor (YT Feed)
+https://cutt.ly/gLdo4io
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="Sports",Abu Dhabi Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
@@ -27,7 +30,10 @@ https://dai.google.com/linear/hls/event/KP9pZkHDTmOM9I3KseqrRw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Sports" ,ATG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3F3cfQ.jpg" group-title="Sports",América Sports (YT Feed)
+https://cutt.ly/LLdpqD3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Sports",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sApoLOg.jpg" group-title="Sports",Atmosphere Sports
@@ -101,6 +107,9 @@ https://rebroadcast.mytvtogo.net/mytvtogo/darcizzleOffshore/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0eZSYU.jpg" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JXGNG3v.jpg" group-title="Sports",Doordarshan Sports (YT Feed)
+https://cutt.ly/ZLdoMN8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kQGoVal.png" group-title="Sports",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
@@ -200,6 +209,9 @@ https://hbcugo-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7S9r0Wx.jpg" group-title="Sports",Hipica TV
 http://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvgMErS.jpg" group-title="Sports",Hipódromo de Palermo (YT Feed)
+https://cutt.ly/ALdaf1H
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8d0np8r.png" group-title="Sports",Horizon Sports
 https://horizonsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d095934e486f077c20b4_horizonsports-live-1/c.m3u8
@@ -401,6 +413,9 @@ https://rpm-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Q68vxh.png" group-title="Sports",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-HeroGo/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OR4UTLU.jpg" group-title="Sports",Sky Sport (YT Feed)
+https://cutt.ly/wLdpLrG
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5HXiq1.png" group-title="Sports",Slopes TV
 https://slopestv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_61fae92b4b32a1751956b493_slopestv-live-1/index-slopestv.m3u8
