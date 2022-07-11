@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner ENG★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=acmeclassics
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/acmeclassics
 
@@ -69,36 +68,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zo3ONr.jpg" group-title="Kids",Cartoons 4U
 https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqlnqxV.png" group-title="Kids",Cartoon Blast (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cartoonblast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqlnqxV.png" group-title="Kids",Cartoon Blast (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonblast
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nQUjQVJ.jpg" group-title="Kids",Cartoon Chaos (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cartoonchaos
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQUjQVJ.jpg" group-title="Kids",Cartoon Chaos (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonchaos
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NrWusdS.png" group-title="Kids",Cartoon Dystopia (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cartoondystopia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrWusdS.png" group-title="Kids",Cartoon Dystopia (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoondystopia
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR2XGKi.jpg" group-title="Kids",Cartoon Network Asia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vNuyV4x.png" group-title="Kids",Cartoon Power Hour (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=pdcagbfhiceoiladq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNuyV4x.png" group-title="Kids",Cartoon Power Hour (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/pdcagbfhiceoiladq
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvtM7RU.png" group-title="Kids",Cartoon Revolution 2 (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cartoonrevolution2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZvtM7RU.png" group-title="Kids",Cartoon Revolution 2 (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonrevolution2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4WJpMd.png" group-title="Kids",Cartoon Rewind (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=cartoonrewind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4WJpMd.png" group-title="Kids",Cartoon Rewind (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonrewind
 
@@ -422,8 +409,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCAmia3u27mHY-Y6c-lwakAQ&live=2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" group-title="Kids",Rainbow Squad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkYcTWV.png" group-title="Kids",Random Cartoons (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=randomcartoons
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkYcTWV.png" group-title="Kids",Random Cartoons (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/randomcartoons
 
@@ -594,18 +579,12 @@ https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Kids",TVS Pinball Network (480p)
 https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mLAturx.png" group-title="Kids",vcr_toons1 (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=vcr_toons1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLAturx.png" group-title="Kids",vcr_toons1 (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_toons1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FXMbROQ.png" group-title="Kids",vcr_toons2 (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=vcr_toons2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FXMbROQ.png" group-title="Kids",vcr_toons2 (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_toons2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6B7aeB.png" group-title="Kids",VigilantScout (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=vigilantscout
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6B7aeB.png" group-title="Kids",VigilantScout (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vigilantscout
 
