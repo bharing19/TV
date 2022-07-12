@@ -283,12 +283,11 @@ https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/in
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
 # https://www.youtube.com/channel/UC670qPRftLGmm29kZYSDCig
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLShJ0pBiLjkEtFBGjLfaX7T0o8s7DkQD6Cs2VRI=s88-c-k-c0x00ffffff-no-rj" group-title="News",News Update (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbiZUDQ.jpg" group-title="News",News Update (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC670qPRftLGmm29kZYSDCig/live
 
-# https://www.twitch.tv/newsweather
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPhxqHy.png" group-title="News",NewsWeather - 24/7 International (TWITCH)
-plugin://plugin.video.twitch/?channel_id=549245702&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPhxqHy.png" group-title="News",NewsWeather - 24/7 International (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/newsweather
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World - Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -325,13 +324,13 @@ https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBJUP4O.png" group-title="News",RSBN - USA
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2F7cTw.jpg" group-title="News",RT America - Russia
+EXTINF:-1 tvg-logo="https://i.imgur.com/r2F7cTw.jpg" group-title="News",RT America - Russia
 https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eF6FLVV.jpg" group-title="News",RT News - Russia
+EXTINF:-1 tvg-logo="https://i.imgur.com/eF6FLVV.jpg" group-title="News",RT News - Russia
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLYHIz1.jpg" group-title="News",RT UK - Russia
+EXTINF:-1 tvg-logo="https://i.imgur.com/nLYHIz1.jpg" group-title="News",RT UK - Russia
 https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lrdjaNo.jpg" group-title="News",SANSAD TV - India (STK)
@@ -355,8 +354,6 @@ https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
 http://a3.smashmalta.com:82/live/smash/smash/29.ts
 
 # https://www.twitch.tv/startvtanzania
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="News",StarTv Tanzania (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=startvtanzania
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="News",StarTv Tanzania (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/startvtanzania
 
@@ -404,8 +401,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgp4A6I8LCWrh
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/twit
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title="News"Twit TV (STK) (OPT-2)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwY9B5_8QDGP8niZhBtTh8w/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title="News",Twit (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=twit
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="News",TYT Network - USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -532,17 +527,17 @@ https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3y5nBP.jpg" group-title="News",Al Yaum Tv - United Arab Emirate
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqKmZjz.jpg" group-title="News",Alghad TV (STK) - Egypt
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH4UNKBHSNwstan99YDoCVg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rqoD4zq.jpg" group-title="News",adn40Mx (STK) - Mexico
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8pUVriI.png" group-title="News",Afghanistan International - UK
 https://hls.afintl.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B28rqvx.png" group-title="News",Asharq News (STK) - Saudi Arabia
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRJUVYt9gjg8MnlGacySUdg/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdpM0Q2.png" group-title="News",Akit TV - Turkey
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqKmZjz.jpg" group-title="News",Alghad TV (STK) - Egypt
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH4UNKBHSNwstan99YDoCVg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R70q2P3.png" group-title="News",Amar Ujala - India
 http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
@@ -559,11 +554,17 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwBK7Cdk0wq8r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ryZXGV7.jpg" group-title="News",ARY News (STK) - Pakistan
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B28rqvx.png" group-title="News",Asharq News (STK) - Saudi Arabia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRJUVYt9gjg8MnlGacySUdg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlkZVDp.png" group-title="News",Asianet News - India
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRFH4dn.gif" group-title="News",ATnews (STK) - Greece
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCU4MBshdveMl6mYPFUilAyg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1tq9eOn.jpg" group-title="News",ATN News (STK) - Bangladesh
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKlhfq1ILoAFav7iw5iCnfA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLHVPTf.png" group-title="Gen;News",ATV - Hungary
 https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
@@ -657,6 +658,12 @@ https://sb.err.ee/live/etv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnlEXi3.png" group-title="News",El Toro TV - Spain
 https://fake-live-eltorotv.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrMNQqQ.jpg" group-title="News",Elite TV (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2NTE0wVBPHMYvPpH5twcgw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbPhNvH.jpg" group-title="News",Ekattor TV (STK) - Bangladesh
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLxa2e3.jpg" group-title="News",Expressen TV - Sweden
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
@@ -770,6 +777,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnAFKvDuqBGkI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkTgxUY.png" group-title="News",KRT Kirkuk - kurdistan
 https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVWSuT4.jpg" group-title="News",Kurdistan24 (STK) - Kurdistan
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3RHl2mbrQbHeXdY15NmXZw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EFLy9Yb.png" group-title="News",Kurir TV - Serbia
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
 
@@ -791,8 +801,20 @@ https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxfGh6U.png" group-title="News",M24 TV - Morocco
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeQwuDH.jpg" group-title="News",Málaga 24h TV Noticias (STK) - Spain
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMWImnPAur6JhXDK63dpAg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99z0jwc.jpg" group-title="News",Manorama News (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gfM63X.jpg" group-title="News",Málaga 24h TV Noticias (STK) - Spain
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMWImnPAur6JhXDK63dpAg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07546Ua.jpg" group-title="News",Mathrubhumi News (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sih1CNI.jpg" group-title="News",MediaoneTV (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-f7r46JhYv78q5pGrO6ivA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1SfFy9.png" group-title="News",Meganoticias (STK) - Chile
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
@@ -805,6 +827,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFxHplbcoJK9m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWWPWaB.png" group-title="News",Moskva 24 (STK) - Russia
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzG7NFZ.jpg" group-title="News",N+ Edo Mex (STK) - Mexico
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5EiuyP.jpg" group-title="News",Nabaa TV - Lebanon
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
@@ -868,6 +893,9 @@ https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHrjz8U.jpg" group-title="News",News 24 - Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnvvXUb.jpg" group-title="News",NEWS24 (STK) - Bangladesh
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPREnbhKQP-hsVfsfKP-mCw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEiEj5H.jpg" group-title="News",News24 (STK) - Japan 
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 
@@ -883,10 +911,16 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7w4okl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7aUgv6.jpg" group-title="News",OE24.TV (STK) - Austria
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG71fEj.jpg" group-title="News",OTV (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIqHKFj.jpg" group-title="News",Palitra News - Georgia
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlUGW6L.jpg" group-title="News",Palitra News - Georgia (SLT) (Giniko)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=320
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kU5z9a.jpg" group-title="News",Prag News (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/pragnews_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vAu3Uo.png" group-title="News",Pro TV - Romania
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/fWCZmLtPnkchrDUleISFOQ==,1646116846/channels/cme-ro-voyo-news/playlist-live_lq.m3u8|Referer=https://media.cms.protvplus.ro/
