@@ -3,17 +3,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/04/13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/07/17
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
-plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
-plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
 
 # https://gsc-culture.com/
@@ -102,8 +96,6 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 
 # https://www.twitch.tv/djmixradio https://djmix.ca/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=djmixradio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/djmixradio
 
@@ -264,6 +256,10 @@ https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/chunks.m3u8
 
+# http://tcftv.ca/endirect/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjLyEDf.png" group-title="Communautaire",TCFTV
+http://66.11.33.44:8081/live/TCF/playlist.m3u8
+
 #  http://tcmontrealnetwork.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (480p)
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
@@ -313,6 +309,10 @@ plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="Communautaire",TVC9 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
 
+# https://www.twitch.tv/tvctklive/ https://www.tvctk.com/en_direct.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="Communautaire",tvctk (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
+
 # https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
@@ -322,58 +322,39 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2v
 #EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="Yoopa CA" tvg-logo="https://i.imgur.com/mZmU170.png" group-title="Anime",Yoopa (TT1)
 plugin://plugin.video.tvone1112/play/2109/play.pvr
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
-https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 # https://www.twitch.tv/fm93quebec
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 (TWITCH) (C_N) (non 24/7)
-plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/fm93quebec
 
 # https://www.twitch.tv/dupontlematin
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 Dupont Le Matin (TWITCH) (C_N) (non 24/7)
-plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 Dupont Le Matin (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/dupontlematin
 
-# https://www.twitch.tv/tvctklive/ https://www.tvctk.com/en_direct.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH) (C_N) (non 24/7)
-plugin://plugin.video.twitch/?mode=play&channel_name=tvctklive
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (STK) (non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
-
 # https://www.twitch.tv/quebecreveille
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (TWITCH) (C_N) (non 24/7)
-plugin://plugin.video.twitch/?mode=play&channel_name=quebecreveille
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/quebecreveille
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH) (non 24/7)
+EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH) (non 24/7)
 plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
 
 # https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="Podcast",RadioTalbot (TWITCH) (Mardi @ Jeudi . 20h00)
-plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="Podcast",RadioTalbot (STK) (Mardi @ Jeudi . 20h00)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/radiotalbot
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="Humour",SousEcoute (TWITCH)
-plugin://plugin.video.twitch/?mode=play&channel_name=sousecoute
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="Humour",SousEcoute (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sousecoute
 
 # https://www.twitch.tv/lestudioquebecois
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (TWITCH) (C_N) (non 24/7)
-plugin://plugin.video.twitch/?mode=play&channel_name=lestudioquebecois
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (STK) (non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lestudioquebecois
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="Radio",AfterPT Jonquière (TWITCH)
+EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="Radio",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="Radio",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
+EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="Radio",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red](OFFLINE)[/COLOR]★★★★★★★★★★
@@ -390,22 +371,22 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOw
 http://unifi.fleetinfo.info:1935/CTRB/myStream/playlist.m3u8
 
 # https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=kdei8o0LcJg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=_6_7wGYj2E4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH) (OFFLINE)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ https://tq5tv.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uV5APKr.png" group-title="généraliste",TQ5 (YT) (UPD) (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/uV5APKr.png" group-title="généraliste",TQ5 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ak1hE3SnR4o
 
 # https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
@@ -498,5 +479,16 @@ https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/med_720p/med_720p.m3u
 EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa HD (OFFLINE)
 https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p.m3u8
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
+https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zeste (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8
+
+####
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
