@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 22/05/18
+#EXTINF:-1 ,update 22/07/18
 0.0.0.0
 
 
@@ -380,6 +380,11 @@ plugin://plugin.video.youtube/play/?channel_id=UC3cR_DttIClGcE5StsIbyXA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 
+# https://www.613tv.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlXzioc.png" group-title="",DiversityInTheCapital (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/diversityinthecapital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra8kO5v.jpg" group-title="Radio",WBTR.ca BlastTheRadio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/blasttheradio
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4H8upO.jpg" group-title="",ET Canada (YT) (c_id) (Not24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCKY5PiEq8Tl9r7f3qittXng&live=1
