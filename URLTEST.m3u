@@ -14,6 +14,8 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YgpR09.jpg" group-title="",5-Minute DECOR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDTeCWl-l9_6HPwG5ryckkQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88lyyM8.jpg" group-title="",5-Minute Crafts FAMILY (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC63mNFJR8EAb8wAIJwoCmTA/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2ODFb3.jpg" group-title="",5-Minute Crafts LIKE (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzTWHWnJ6VIcbkpqyv7_FaQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fasah2D.jpg" group-title="",5-Minute Recipes (STK)
