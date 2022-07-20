@@ -210,6 +210,9 @@ https://cogecomedia.leanstream.co/cogecomedia/CKOIFM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XZj2VCX.png" group-title="Cogeco Média Radio"Radio QC,CHOI-FM RadioX 98.1 FM Quebec
 https://lb0-stream.radiox981.ca/choi.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xvG1zDt.png" group-title="Radio QC",Pirate Live : Le média libre de Jeff Fillion
+https://listen.radioking.com/radio/497272/stream/554380
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olKi6nw.png" group-title="Cogeco Média Radio"Radio QC,CHXX-FM Lavibe 100.9 FM Quebec
 https://stream.lavibe.fm/chxx.aac
 
