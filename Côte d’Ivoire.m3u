@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDdvIUp.png" group-title="",★★★★★★★★★★Côte d’Ivoire★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=O4JnxkVmROE
 
+# https://www.7info.ci/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1TsA3br.jpg" group-title="",7info (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYHo8lQ0-FpkNPyul54t5Sg/live
+
 # https://a12television.com/index.php
 #EXTINF:-1 tvg-id="A12Television.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/9jS9LUw.jpg" group-title="",A12 Television
 https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
@@ -36,7 +40,6 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7mfhwo
 
 #EXTINF:-1 tvg-id="CIE-MIA.ci" tvg-country="CI" tvg-language="French"  tvg-logo="https://i.imgur.com/zQqJctY.jpg" group-title="",CIE-MIA COTE D'IVOIRE (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCqk0k4EKJuUkuUUJasa0d-Q&live=1
-# https://www.youtube.com/channel/UCqk0k4EKJuUkuUUJasa0d-Q
 #EXTINF:-1 tvg-id="CIE-MIA.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/zQqJctY.jpg" group-title="",CIE-MIA COTE D'IVOIRE (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqk0k4EKJuUkuUUJasa0d-Q/live
 
@@ -114,6 +117,5 @@ http://207.180.246.101:1935/live/smil:myStream.smil/chunklist_w274234037_b978000
 
 
 # https://www.aplusivoire.ci/live GEO
-# https://www.7info.ci/
 # https://www.facebook.com/tvalbayane/
 # IvoireTv music https://www.youtube.com/channel/UCRIdBk9om8sDozNEVJeCbTg
