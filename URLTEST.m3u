@@ -100,6 +100,15 @@ plugin://plugin.video.youtube/play/?channel_id=UCfJsOa7m1zKMS9T2dvIljfQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIeV32X.jpg" group-title="",The FBI Files (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwxod2w5NT4qMWfMgZivCYQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOqAaIE.jpg" group-title="",The New Detectives (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwLtUyoh8cm3eXfM3FXRR_g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HApDLs.jpg" group-title="",Hidden True Crime (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBp03toXz-WZ6gSt7YtSdEg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC3ndD2cB161KQjeMbUXNbQg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (STK)
