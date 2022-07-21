@@ -207,6 +207,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeI_Ji5Wc1YQv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYRwMW0.jpg" group-title="Music",Metal Machine Garage (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAr9ddgH2c0LTLrFNnJoHMw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCQA13L.jpg" group-title="Music",MilleVoci (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvNUOLmbDjO9AZzdHlsPqfA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ffmBLG.jpg" group-title="Music",Moow Records (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtNQ8haXrVTkVdQ-DYvh1Xw/live
 
@@ -224,6 +227,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmt12UKW571U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9qVSBY.jpg" group-title="Music",proteh (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCR2D48i5MCMYwVKbgYIAftQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/maaV9AA.jpg" group-title="Music",RadioPapizza (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCntDYIvupdHAUxNJ98MR8Tw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtZGKzh.jpg" group-title="Music",rare phonk (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg/live
