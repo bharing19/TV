@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner ENG★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner ENG★★★★★★★★★★
 0.0.0.0
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/acmeclassics
@@ -626,7 +625,7 @@ https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner ES★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner ES★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rFeRRn.jpg" group-title="Kids",Baby Alive Español Latino - Canal Oficial 1 (YT) (c_id)
@@ -759,6 +758,37 @@ plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytf3DtC.png" group-title="Kids",Xabarín TV
 https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner IT★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/admYkxf.jpg" group-title="Kids",Baby Alive Italiano - Canale Ufficiale (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBQRfBKlFR9Cz49R4j9uskw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3yCeX7.jpg" group-title="Kids",Barbie Italiano (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEn7y3Ivt7m3ioZYnEo8OCg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdjHJ0z.jpg" group-title="Kids",DC Kids Italiano (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClorPuke38isjc0dsJXicHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqxZH9q.jpg" group-title="Kids",HeyKids - Canzoni Per Bimbi (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCv1eHXj4h8gRX8DYfFz0Jxg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMzFUsi.jpg" group-title="Kids",Om Nom Italiano (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCODGp9nMIuF7rW3mW76a8sQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hrulPGz.jpg" group-title="Kids",Peppa Pig Italiano - Canale Ufficiale (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCS1SHyxP0UhAg84AKamy3jA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KB4BQYV.jpg" group-title="Kids",PJ Masks Super Pigiamini - Canale Ufficiale (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCd5bEFlK6AwebK3At50uDUA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPYhoT1.jpg" group-title="Kids",POCOYO ITALIANO - Canale Ufficiale (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwQ-5RSINDVfzfxyTtQPSww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebfc080.jpg" group-title="Kids",WB Kids Italiano (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSMrqS8IssKKIILuz48IGSA/live
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner Gaming★★★★★★★★★★
 0.0.0.0
