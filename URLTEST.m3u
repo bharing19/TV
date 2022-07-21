@@ -12,6 +12,13 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YgpR09.jpg" group-title="",5-Minute DECOR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDTeCWl-l9_6HPwG5ryckkQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88lyyM8.jpg" group-title="",5-Minute Crafts FAMILY (STK)
@@ -105,6 +112,13 @@ https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/61839
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5RdpD6.png" group-title="",EPlus TV 6 Jackson
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z4h8lhX.jpg" group-title="",This TV : LA
+https://myiptvplayer.xyz/btv/la.php?channel=THISTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z4h8lhX.jpg" group-title="",KGODT3 - This TV : CA
+https://myiptvplayer.xyz/btv/ca.php?channel=KGODT3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTx3CTo.png" group-title="",MeTV : LA
+https://myiptvplayer.xyz/btv/la.php?channel=METV
 
 # http://www.classicartsshowcase.org/watch-classic-arts-showcase/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P0RxIAD.png" group-title="Music",Classic Arts Showcase
