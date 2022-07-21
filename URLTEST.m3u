@@ -69,6 +69,11 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH9UkCp.png" group-title="",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfJsOa7m1zKMS9T2dvIljfQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC3ndD2cB161KQjeMbUXNbQg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (STK)
@@ -583,11 +588,6 @@ plugin://plugin.video.youtube/play/?channel_id=UC1UOne4B9wIrMe0KMwe-7_g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Eypwyg.jpg" group-title="",CTVN AKD PLUS (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1UOne4B9wIrMe0KMwe-7_g/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uLH3Eq.jpg" group-title="",Ch-15 Engineering Sciences and general subjects (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UC6NLcId3-pHAgbUZ52FPPXA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uLH3Eq.jpg" group-title="",Ch-15 Engineering Sciences and general subjects (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NLcId3-pHAgbUZ52FPPXA/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjESeDM.jpg" group-title="",América TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC6NVDkuzY2exMOVFw4i9oHw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjESeDM.jpg" group-title="",América TV (STK)
@@ -613,10 +613,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCncc1QMkFXnvoVtfANdpCRw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDQB77n.jpg" group-title="",IndyWrestling.us (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCncc1QMkFXnvoVtfANdpCRw/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCfJsOa7m1zKMS9T2dvIljfQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ/live
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qK46rbo.jpg" group-title="",Bondi Vet (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCRnSnAq44St3dzNdgPpfChA&live=1
@@ -730,6 +727,60 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNubbuubv4j6b
 plugin://plugin.video.youtube/play/?channel_id=UC6VJE6cD8ZPpe6ZOtVtlBTA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe6ZOtVtlBTA/live
+
+###
+
+# https://www.swayamprabha.gov.in/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p85aLSA.jpg" group-title="",CH_01: VAGEESH [ Language & Literature] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzPGKva-c-jbTX7S7uf2rqw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1By5VZN.jpg" group-title="",Ch-02: SANSKRITI [Arts, History - Philosophy] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDM4VNlbren5FD0FTY-SHIw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TDCGjE.jpg" group-title="",CH-03: PRABODH [Social Science-I] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_xInZYxCrHb1tBwIGStbCA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gggOr0E.jpg" group-title="",Ch 04: SAARASWAT [Social Science-II] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC63xMqSXzi1P2_r7LAzkn4A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLgEd3a.jpg" group-title="",Ch-05: PRABANDHAN [Social Science - III] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCivxnHxU07qcSc_F503fX6w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnSVA4S.jpg" group-title="",CH-06: VIDHIK [Social Science - IV] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRopqccVTguaY_TpvmFDIyg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qygMjYX.jpg" group-title="",CH-07: KAUTILYA [Economics - Commerce and Finance] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCu-8S5BIChP5_98d28AH_sQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OoXGHY.jpg" group-title="",CH-08:ARYABHATT [Mathematics - Physics - Chemistry] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBMvdXXJ7BcZcTKGPj9WxKg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viekZvx.jpg" group-title="",Ch-09 Life Sciences - Botany - Zoology - Bio-Science (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMstnunaIh21KcIpsOPtv_Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7PtfS5.jpg" group-title="",Ch-10 Applied Sc - Allied Physical and Chemical sc (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8tTI5rOD1os1xMoOjUkalQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMz6UUX.jpg" group-title="",Ch-11 Chemical Engg, Chemistry and others (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYOdGY_bgV6cgNdnHZNfEyw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNVf2xg.jpg" group-title="",Ch-12 Civil Engineering and related subjects (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXf8Oe5NimalmRbpO6hSsOA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z40IsDq.jpg" group-title="",Ch-13 Computer Science and Engineering (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0kHwbaDzMbdiIu1QGfEftQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WS4zubZ.jpg" group-title="",Ch-14 Electrical engg - Electronics and Comm. Engg (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGvzqAotKHZBHy0na_d4qbA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gT7dLbQ.jpg" group-title="",Ch-15 Engineering Sciences and general subjects (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NLcId3-pHAgbUZ52FPPXA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQ8f7x6.jpg" group-title="",Ch-16 Humanities - Social Sciences and Management (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5Mwfc56bllPWmDAoLAPtjQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xI1sgn4.jpg" group-title="",Ch-17 Liberal Arts and Humanities [IGNOU] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4MVa9QKnxot8Cq6WFSEFgg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejwKtXm.jpg" group-title="",Ch-18 Agriculture - Vocational and Allied Sciences (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCk6_e56rd2VzmA1IIsP0WHQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnGKG3E.jpg" group-title="",Ch-19 Culture [IGNOU] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC693SqhpcSXcBIoOBYiojhg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMyqlvL.jpg" group-title="",Ch-20 State Open Universities programs [IGNOU] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAtbZuuAV5oC_Qi_ayQXWdw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6UASX5.jpg" group-title="",Ch-22 Chemistry [ IIT-PAL] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3Zv0XxBjYlWMjbMv8ODE8Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lyk6lmb.jpg" group-title="",Ch-22 Physics [ IIT-PAL] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwNr8peMxn8-Nc2V_RZsRvg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWehv9A.jpg" group-title="",Ch-22 Biology [ IIT-PAL] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqiFTyCxFFMAN_lhAzIkdpA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZRG9QK.jpg" group-title="",Ch-22 Mathematics [ IIT-PAL] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfz4W0rG8HoyyrrK6qNc1rA/live
+
+####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
