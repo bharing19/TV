@@ -246,6 +246,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsFVB5EFAO4rR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MW2VzkQ.jpg" group-title="Music",Shuffle Radio (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLKWQY37ITxK3LSsrbsv05A/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIFxkNa.jpg" group-title="Music",Slavacademy (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvQnxwfwoE6m6RKMqOoca_A/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkp8q7r.jpg" group-title="Music",Slow Burn Records (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMpldtC-xZTDnMRZSGN3nQ/live
 
