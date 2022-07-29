@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 22/07/18
+#EXTINF:-1 ,update 22/07/29  cbc and added Commonwealth Games
 0.0.0.0
 
 
@@ -254,7 +254,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqOqU7B.png" group-title="News",CBC Winnipeg
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXSeERb.png" group-title="News",CBC Yellowknife
-https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master3.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 1 | Commonwealth Games
 https://cbcrclive-tor.akamaized.net/hls/live/2040298/geo_allow_ca/ES_SPORTS_11/master_3000.m3u8
