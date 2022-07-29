@@ -224,39 +224,57 @@ plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 plugin://script.module.7of9-live/play/613/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+https://cbcrclive-tor.akamaized.net/hls/live/2040350/geo_allow_global/ES_NEWS_13/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRqMY00.png" group-title="News",CBC **
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRqMY00.png" group-title="News",CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ww3rydk.png" group-title="News",CBC Charlottetown
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTaxwEt.png" group-title="News",CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwQUvmf.png" group-title="News",CBC Fredericton
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/voWE9BE.png" group-title="News",CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jsWFDJ.png" group-title="News",CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VQD9M5R.png" group-title="News",CBC Regina
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TEZwsNJ.png" group-title="News",CBC St. Johns
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RulfaHI.png" group-title="News",CBC Toronto
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSqpI4g.png" group-title="News",CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03c1GBQ.png" group-title="News",CBC Windsor
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqOqU7B.png" group-title="News",CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXSeERb.png" group-title="News",CBC Yellowknife
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 1 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040298/geo_allow_ca/ES_SPORTS_11/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 2 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040299/geo_allow_ca/ES_SPORTS_12/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 3 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040300/geo_allow_ca/ES_SPORTS_13/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 4 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040301/geo_allow_ca/ES_SPORTS_14/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 5 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040302/geo_allow_ca/ES_SPORTS_15/master_3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 6 | Commonwealth Games
+https://cbcrclive-tor.akamaized.net/hls/live/2040303/geo_allow_ca/ES_SPORTS_16/master_3000.m3u8
 
 # https://www.cbc.ca/player/play/1866224707562
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thAavMy.png" group-title="News",CBC The National (new stream at 9:00pm EDT)
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv35sbQ.jpg" group-title="News",CBC Here&Now
+https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_3000.m3u8
 
 # https://www.youtube.com/channel/UCKjU3KzdbJE1EFcHVqXC3_g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhGcMRr.png" group-title="News",CBC News: The National (YT) (c_id)
