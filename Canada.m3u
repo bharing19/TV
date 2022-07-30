@@ -237,7 +237,8 @@ plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 plugin://script.module.7of9-live/play/613/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
-https://cbcrclive-tor.akamaized.net/hls/live/2040350/geo_allow_global/ES_NEWS_13/master_3000.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+# https://cbcrclive-tor.akamaized.net/hls/live/2040350/geo_allow_global/ES_NEWS_13/master_3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRqMY00.png" group-title="News",CBC **
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRqMY00.png" group-title="News",CBC Calgary
