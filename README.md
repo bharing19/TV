@@ -119,6 +119,8 @@ https://livestream.com/accounts/IDHERE/events/IDHERE
 https://picarto.tv/CHANNELNAMEHERE
 
 https://d.tube/ -> https://player.d.tube/ ...............
+
+https://odysee.com/ -> pageUrl
 ################
 
 
