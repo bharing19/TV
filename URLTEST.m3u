@@ -12,12 +12,57 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 ,BBC 1
+http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
+#EXTINF:-1 ,BBC 2
+http://ott.riotelecomm.es:4512/m3u8/BBCTWO.m3u8
+#EXTINF:-1 ,CBBC
+http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
+#EXTINF:-1 ,ITV2
+http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
+#EXTINF:-1 ,ITV3
+http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
+#EXTINF:-1 ,ITV4
+http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
+#EXTINF:-1 ,5STAR
+http://ott.riotelecomm.es:4513/m3u8/5STARFIBRA.m3u8
+#EXTINF:-1 ,5USA
+http://ott.riotelecomm.es:4513/m3u8/5USAFIBRA.m3u8
+#EXTINF:-1 ,Antena 3
+http://ott.riotelecomm.es:4512/m3u8/ANTENA3HD.m3u8
+#EXTINF:-1 ,Telecinco
+http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
+#EXTINF:-1 ,La Sexta
+http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
+#EXTINF:-1 ,Bmad
+http://ott.riotelecomm.es:4512/m3u8/BEMADTVHD.m3u8
+#EXTINF:-1 ,Energy
+http://ott.riotelecomm.es:4512/m3u8/ENERGY.m3u8
+#EXTINF:-1 ,fdf
+http://ott.riotelecomm.es:4512/m3u8/FDF.m3u8
+#EXTINF:-1 ,Mega
+http://ott.riotelecomm.es:4512/m3u8/MEGA.m3u8
+#EXTINF:-1 ,Neox
+http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
+#EXTINF:-1 ,DKiss
+http://ott.riotelecomm.es:4512/m3u8/DKISS.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKdFJty.jpg" group-title="",English Speeches 3 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw&live=3
+
+# https://www.youtube.com/c/EVNautilus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EmGJkC.jpg" group-title="",EVNautilus 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EmGJkC.jpg" group-title="",EVNautilus 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EmGJkC.jpg" group-title="",EVNautilus 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EmGJkC.jpg" group-title="",EVNautilus 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YgpR09.jpg" group-title="",5-Minute DECOR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDTeCWl-l9_6HPwG5ryckkQ/live
