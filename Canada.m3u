@@ -207,10 +207,17 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Ham
 # https://cable14now.com/live-streams/video/?videoId=592
 EXTINF:-1 tvg-logo="https://i.imgur.com/zlQP1kz.png" group-title="",CABLE 14 Hamilton LIVE 2 (TK)
 
-
 # http://camptv.ca/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guKuGPh.png" group-title="",camptv (OFFLINE)
 https://vse-na-us-ne66.secdn.net/camptv3800-live/play/dmp_stream/playlist.m3u8?key=camptv38.5c1069819900f8.83050633&pass=R8niByb5QZ
+
+# https://www.youtube.com/c/CanadaBasketball
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRuaVM3.jpg" group-title="Sports",Canada Basketball 1 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCaKozgR_f_gpmzf3ntaI83Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRuaVM3.jpg" group-title="Sports",Canada Basketball 2 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCaKozgR_f_gpmzf3ntaI83Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRuaVM3.jpg" group-title="Sports",Canada Basketball 3 (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCaKozgR_f_gpmzf3ntaI83Q&live=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
