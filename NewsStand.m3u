@@ -73,7 +73,7 @@ https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC News - Canada
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRYQSbC.jpg" group-title="News",CBN News - USA
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
@@ -107,6 +107,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEXGDNclvmg6R
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXzK8nt.png" group-title="News",Cheddar News - USA
 https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGVWgA8.jpg" group-title="News",Cheddar News (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC04KsGq3npibMCE9Td3mVDg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XIz0iN.jpg" group-title="News",CNA - Malaysia
 https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/playlist.m3u8
@@ -166,6 +168,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaAUvDSYpreMi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1L2yCtt.jpg" group-title="News",EuroNews - France
 https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZckBY1e.jpg" group-title="News",EXTRA NEWS 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnffvnw-BlBCjGNLQQHGOUA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZckBY1e.jpg" group-title="News",EXTRA NEWS 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnffvnw-BlBCjGNLQQHGOUA&live=2
 
 # https://home.frankspeech.com/live-stream/lindell-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eq0ufqD.png" group-title="News",Frank Speech - Lindell TV - USA
