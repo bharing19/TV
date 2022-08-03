@@ -6,7 +6,8 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Odtlbc.jpg" group-title="Actualité",EBENE MEDIA TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOOYtGtUnGh5mZlqnB3QO7w/live
 
 # https://www.youtube.com/c/RelaxanteMusique
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGFs69q.jpg" group-title="Music",Musique Relaxante - Méditation : Dormir et Berceuse 1 (YT) (c_id)
