@@ -817,6 +817,30 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe
 
 ###
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 1 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 2 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 3 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 4 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 5 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 6 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 7 (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e6oHQfI.jpg" group-title="",Reality PC (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV7VEGmLB-iqSIVKXfJrhsQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DlcA0Ac.jpg" group-title="",YJU'S Exam Prep : GATE - ESE & PSU (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCDB1Hwlr5Bk-zO4eEcWNTQ/live
+
+####
+
 # https://www.swayamprabha.gov.in/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p85aLSA.jpg" group-title="",CH_01: VAGEESH [ Language & Literature] (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzPGKva-c-jbTX7S7uf2rqw/live
