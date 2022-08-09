@@ -6,6 +6,9 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hporCt5.png" group-title="Series",Columbo FR 24/7
+https://video1.getstreamhosting.com:1936/8158/8158/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Odtlbc.jpg" group-title="Actualité",EBENE MEDIA TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOOYtGtUnGh5mZlqnB3QO7w/live
 
