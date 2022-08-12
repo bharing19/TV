@@ -53,6 +53,13 @@ plugin://plugin.video.youtube/play/?channel_id=UC_Ch-3wys3clM24wr3zTSxQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yWNTb.jpg" group-title="Cam",La Matapédia 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIKqomzGxDAWPef6OsmEGzA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yWNTb.jpg" group-title="Cam",La Matapédia 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIKqomzGxDAWPef6OsmEGzA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yWNTb.jpg" group-title="Cam",La Matapédia 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIKqomzGxDAWPef6OsmEGzA&live=3
+
 # https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g https://meteochicoutimi.com/cameras-en-direct/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=1
