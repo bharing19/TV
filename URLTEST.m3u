@@ -168,6 +168,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwLtUyoh8cm3e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HApDLs.jpg" group-title="",Hidden True Crime (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBp03toXz-WZ6gSt7YtSdEg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/od8Yy1a.jpg" group-title="",A Haunting (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClBquUeMeLEhASVfz7GtlZw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC3ndD2cB161KQjeMbUXNbQg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (STK)
@@ -347,6 +350,29 @@ plugin://plugin.video.youtube/play/?channel_id=UCSHHmB8EAhkc8-ObJkzYM6g&live=8
 plugin://plugin.video.youtube/play/?channel_id=UCSHHmB8EAhkc8-ObJkzYM6g&live=9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stblB8n.jpg" group-title="",Best For Cats 10 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCSHHmB8EAhkc8-ObJkzYM6g&live=10
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mHFUP2.jpg" group-title="Pet",Parrot Town TV 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVtdo4OmU52nCGX9NcOesAw&live=11
 
 # https://www.kshb.com/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GLKE1aW.png" group-title="",KSHB 41 News Now
