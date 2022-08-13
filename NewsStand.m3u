@@ -324,6 +324,20 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJCUbMaY593_4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gof8oQV.jpg" group-title="News",Republic TV - India (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 1 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 2 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 3 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 4 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 5 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 6 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPPHhM.jpg" group-title="",Republic World 7 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwqusr8YDwM-3mEYTDeJHzw&live=7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WR8h4Uo.jpg" group-title="News",Reuters - UK
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -949,6 +963,30 @@ https://edge.realitatea.net/livestream/new/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6SGYPcC.jpg" group-title="News",Record News 24 (STK) - Brasil
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 1 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 2 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 3 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 4 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 5 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZbEs6A.jpg" group-title="",Republic Bangla 6 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCajVjEHDoVn_AHsunUZz_EQ&live=6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5yq0Gv.jpg" group-title="",Republic Bharat 1 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7wXt18f2iA3EDXeqAVuKng&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5yq0Gv.jpg" group-title="",Republic Bharat 2 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7wXt18f2iA3EDXeqAVuKng&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5yq0Gv.jpg" group-title="",Republic Bharat 3 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7wXt18f2iA3EDXeqAVuKng&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5yq0Gv.jpg" group-title="",Republic Bharat 4 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7wXt18f2iA3EDXeqAVuKng&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5yq0Gv.jpg" group-title="",Republic Bharat 5 - India (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7wXt18f2iA3EDXeqAVuKng&live=5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBfv2s4.png" group-title="News",ReTV - Latvia
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
