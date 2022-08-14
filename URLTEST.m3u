@@ -12,6 +12,9 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNfTarO.jpg" group-title="Movies",HBO TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC--et0HhrQABj19i4S09fQg/live
+
 #EXTINF:-1 ,BBC 1
 http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
 #EXTINF:-1 ,BBC 2
