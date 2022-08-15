@@ -5,6 +5,13 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NX4UZKK.jpg" group-title="",NTI BUSINESS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWBZu1Y5Hp4feQJnYkO7Ugg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xq6qsCt.jpg" group-title="QUIZ",Jeu de QUIZ 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7Wxui5ZMFq7LJmjiLeC6xg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xq6qsCt.jpg" group-title="QUIZ",Jeu de QUIZ 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7Wxui5ZMFq7LJmjiLeC6xg&live=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hporCt5.png" group-title="Series",Columbo FR 24/7
 https://video1.getstreamhosting.com:1936/8158/8158/playlist.m3u8
