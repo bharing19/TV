@@ -605,6 +605,13 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_toons2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6B7aeB.png" group-title="Kids",VigilantScout (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vigilantscout
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPujw6a.jpg" group-title="",WDW Today Channel - Resort TV - Walt Disney World 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1Sndj5-Ny-8iqzmpPkz26w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPujw6a.jpg" group-title="",WDW Today Channel - Resort TV - Walt Disney World 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1Sndj5-Ny-8iqzmpPkz26w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPujw6a.jpg" group-title="",WDW Today Channel - Resort TV - Walt Disney World 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1Sndj5-Ny-8iqzmpPkz26w&live=3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="Kids",Watch It Kid (486p)
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 
