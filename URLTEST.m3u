@@ -18,6 +18,22 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC--et0HhrQABj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pH6XYBI.jpg" group-title="Documentary",LionHeart FilmWorks (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5da4UST5wrBydwPoYx18bg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H7DIHUb.jpg" group-title="",Peep Show (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDxfG_jEwQjlV_3A6GgDn4w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gncW0Wb.jpg" group-title="QUIZ",PrécisPedia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NN7uay8GUyptBiafZN_Mw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68FFLa9.jpg" group-title="QUIZ",StreamSmart 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkHz201U8Gr_oxOHZiWBowQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68FFLa9.jpg" group-title="QUIZ",StreamSmart 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkHz201U8Gr_oxOHZiWBowQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68FFLa9.jpg" group-title="QUIZ",StreamSmart 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkHz201U8Gr_oxOHZiWBowQ&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOTo96c.jpg" group-title="QUIZ",Are You Smarter Than A 5th Grader? (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKdLSYFNMGZVrROBAjJBetQ/live
+
 #EXTINF:-1 ,BBC 1
 http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
 #EXTINF:-1 ,BBC 2
