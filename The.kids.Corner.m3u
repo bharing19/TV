@@ -19,6 +19,9 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7tcqmp
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Kids",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIynxvv.jpg" group-title="Kids",Antiks Cartoons (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzuQ_l5TMSd4TuOrWbHYodg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaeBBHp.jpg" group-title="Kids",Avenue Plus - Retro Cartoons 24/7 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCguNzeDjKCFDf4Z2VkBJ32g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaeBBHp.jpg" group-title="Kids",Avenue Plus - Retro Cartoons 24/7 (STK)
@@ -610,6 +613,9 @@ plugin://plugin.video.youtube/play/?channel_id=UC9trsD1jCTXXtN3xIOIU8gg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhRIJU3.jpg" group-title="Kids",WB Kids (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qz0NIDb.jpg" group-title="Kids",WB Kids International (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwKa3PzQeReoqMqNkDgG-8w/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7Z48lF.jpg" group-title="Kids",Wolfoo Channel (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCWGVQIspqW2j9M3-qLQ0HDg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7Z48lF.jpg" group-title="Kids",Wolfoo Channel (STK)
@@ -771,6 +777,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8jhmIE.jpg" group-title="Kids",TV para niños 3 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCuk_csKI_Y88lV0V51VpeuQ&live=3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8f3lSPw.jpg" group-title="Kids",WB Kids España (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyUTZTK.jpg" group-title="Kids",WB Kids Latino (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtW5GPO_DZon6zVAuinvwxA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytf3DtC.png" group-title="Kids",Xabarín TV
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
@@ -804,6 +816,16 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwQ-5RSINDVfz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebfc080.jpg" group-title="Kids",WB Kids Italiano (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSMrqS8IssKKIILuz48IGSA/live
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner Mixed★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffrrb5a.jpg" group-title="Kids",WB Kids Brasil (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faEnaW1.jpg" group-title="Kids",WB Kids Deutschland (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrev-dqCk0e1ig6HGZVB6Ow/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1dJLZS.jpg" group-title="Kids",WB Kids Français (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner Gaming★★★★★★★★★★
 0.0.0.0
