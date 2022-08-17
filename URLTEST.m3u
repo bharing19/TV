@@ -216,6 +216,10 @@ https://jr7yv948la4v-hls-live.5centscdn.com/Zliving/6b426a3f98b990e8bdc988d07336
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwHxTJD.png" group-title="",Military Home Life
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1482
 
+# https://www.classicreelstv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqozul7.png" group-title="",CRTV
+https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/m3u8/crt.m3u8
+
 # https://www.wsfltv.com/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
