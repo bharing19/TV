@@ -34,6 +34,17 @@ plugin://plugin.video.youtube/play/?channel_id=UCkHz201U8Gr_oxOHZiWBowQ&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOTo96c.jpg" group-title="QUIZ",Are You Smarter Than A 5th Grader? (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKdLSYFNMGZVrROBAjJBetQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/je3o35D.jpg" group-title="",Drawing Art Academy (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCc38ZagyazhZa6VQebkEUOQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4cYDs7.jpg" group-title="",Competitive Informative (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVH2FRT4G-CMYxN5ASt-16A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kk4XSOm.jpg" group-title="",Saha Computer Education Centre 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyQtJUJWTUTm8fpYXrU87zA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kk4XSOm.jpg" group-title="",Saha Computer Education Centre 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyQtJUJWTUTm8fpYXrU87zA&live=2
+
 #EXTINF:-1 ,BBC 1
 http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
 #EXTINF:-1 ,BBC 2
