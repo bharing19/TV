@@ -12,6 +12,27 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MP2OBOx.png" group-title="",PBMTV
+https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiLnUY3.jpg" group-title="",Veteran News Network (VNN) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaW28mX6gCpTuWYJyPfWd-Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzoAtv3.jpg" group-title="",NOW News
+http://51.210.227.146/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDM8orh.jpg" group-title="",Right Side Broadcasting Network
+https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9DsvYv.jpg" group-title="",ThatWeekinSNL (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/thatweekinsnl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5o5BnS.png" group-title="",WuxiaCentral (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/wuxiacentral
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XtOcSq.jpg" group-title="",National Geographic (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNfTarO.jpg" group-title="Movies",HBO TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC--et0HhrQABj19i4S09fQg/live
 
@@ -1176,6 +1197,31 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="",La Red
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OcZ2p6.jpg" group-title="",Biz Cinema
+https://st.biztv.uz/hls/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGWZTdF.jpg" group-title="",JOJ TV
+https://nn.geo.joj.sk/live/hls/joj-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGWZTdF.jpg" group-title="",JOJ Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGWZTdF.jpg" group-title="",JOJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7WcgzV.png" group-title="",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8d5YZjo.jpg" group-title="",TV100 Greece
+https://live.fm100.gr/hls/tv100/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dy37f7O.png" group-title="",Mir TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dy37f7O.png" group-title="",Mir TV 2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dy37f7O.png" group-title="",Mir TV 3
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
 
 #######
 
