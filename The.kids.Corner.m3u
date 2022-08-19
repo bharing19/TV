@@ -834,6 +834,13 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrev-dqCk0e1i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1dJLZS.jpg" group-title="Kids",WB Kids Français (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHih2Xe.jpg" group-title="Kids",Cartoon Network Türkiye (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCehmwSZGPod7JFbHJspmxzQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNOx8AN.jpg" group-title="Kids",Cartoon Network Brasil (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1toK6UDXwreacdepXYcyqA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRCr1C8.jpg" group-title="Kids",Cartoon Network LA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner Gaming★★★★★★★★★★
 0.0.0.0
 
