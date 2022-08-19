@@ -415,6 +415,9 @@ https://news.sechls01.visionip.tv/live/visiontvuk-news-times-now2-hsslive-25f-4x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYzsMaO.png" group-title="News",TRT World - Turkey
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTfeFeU.jpg" group-title="News",TrustTV News (STK) - Nigeria
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCTlqstA2Wrt4fimd_VWKr8g/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hM3ahZP.jpg" group-title="News",TVC News - Nigeria (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA/live
 
