@@ -810,6 +810,11 @@ plugin://plugin.video.youtube/play/?channel_id=UCS0_j9GJKzJ-DJwUw0soi7w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSk1rZv.jpg" group-title="Music",Kitspy's Dreamland 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCS0_j9GJKzJ-DJwUw0soi7w&live=2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czlUIuH.jpg" group-title="Music",kno Music (Disney Piano) 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVX_4LoUm4mdZBPdpMJkkSQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czlUIuH.jpg" group-title="Music",kno Music (Disney Piano) 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCVX_4LoUm4mdZBPdpMJkkSQ&live=2
+
 # https://www.youtube.com/channel/UCEAW_kmPVjxTC50vuLyKOQA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BFkrfG5.jpg" group-title="Music",Kral Müzik 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=1
