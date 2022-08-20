@@ -443,6 +443,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYku
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhXYpTJ.jpg" group-title="News",United States News Network (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQEUHl-43b4wi26i9KNi6bA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IxBJ2bX.png" group-title="News",Washington Post (STK) - USA (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHd62-u_v4DvJ8TCFtpi4GA/live
 
