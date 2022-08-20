@@ -308,6 +308,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCiKE6mqbKmGGlNAtccn04MA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yY7fV0A.jpg" group-title="News",CBC Vancouver News at 6 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiKE6mqbKmGGlNAtccn04MA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUhvLwX.jpg" group-title="Sports",CBC Sports (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOGxnF5dWQtoEz6E-msabZA/live
+
 # https://www.cbc.ca/sports/broadcast
 #EXTINF:-1 tvg-id="CBCSports1.ca" tvg-name="CBCSports1 CA" tvg-logo="https://i.imgur.com/1ov9HzY.jpg" group-title="Sports",CBC Sports 1 (Not 24/7)
 https://cbcsportshd1-f.akamaihd.net/i/cbcsports_1@31211/master.m3u8
@@ -648,6 +651,9 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UC_DweJsPH4mvcRU3aFwVtqg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio",Radio New Classical FM (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S09xfuk.jpg" group-title="",Retrontario (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCk3KewaoNL1E-2pjxwnrjgQ/live
 
 # https://www.rogerstv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" ,ROGERS TV ## New Brunswick Channel Could be Not 24/7 ##
