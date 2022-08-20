@@ -12,6 +12,48 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0VlAxh.jpg" group-title="",Horgan Bros. (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQBuvQJcGXH2nmbh__Xb8AQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5ybSS3.jpg" group-title="",Ringside Network Television (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKiLKfkkqwGopBzQPjK-fVw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdaxuDa.jpg" group-title="",Quest TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2hMKdWmTBVJ_PnD4Utubbw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UhihR0K.jpg" group-title="",TLC UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2vlpX8sNDBmPcY_1_QSGJg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnvkOKv.jpg" group-title="",Discovery UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9cGX5x0_EXkdfmWlvPbu3g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GtIZvs.jpg" group-title="",Wheeler Dealers (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrR8EaUgPzJnrie4w46rUAg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvs5ScQ.jpg" group-title="",Say Yes to the Dress (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6B64FzMdVOvtgo6ebdRCjA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFgGgv.jpg" group-title="",HGTV UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqLyJ_zXrdkCSInhthNo88g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujYMSpf.jpg" group-title="",Discovery Australia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsnsCFJMPIJaUSVP_hLVUCA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgIJiEA.jpg" group-title="",discovery plus Norge (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYM3pKj9tFQOXc2XcJmj8Vg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFbIhbk.jpg" group-title="",Swimwear & Underwear (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyNUmnz9m3hbXbVeH23FLDg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b06OSwy.jpg" group-title="",MODELING ROOM 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCca_MFE9KBfKI7QnBmnTZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b06OSwy.jpg" group-title="",MODELING ROOM 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCca_MFE9KBfKI7QnBmnTZA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b06OSwy.jpg" group-title="",MODELING ROOM 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCca_MFE9KBfKI7QnBmnTZA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b06OSwy.jpg" group-title="",MODELING ROOM 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCca_MFE9KBfKI7QnBmnTZA&live=4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MP2OBOx.png" group-title="",PBMTV
 https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/playlist.m3u8
 
