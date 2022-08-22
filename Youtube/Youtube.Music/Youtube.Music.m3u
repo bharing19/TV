@@ -737,6 +737,20 @@ plugin://plugin.video.youtube/play/?channel_id=UCiVAGG1Ull73fR_xp0909rA&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgSbko1.jpg" group-title="Music",Green Music BGM channel 3 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCiVAGG1Ull73fR_xp0909rA&live=3
 
+# https://www.youtube.com/c/HaaTaaClub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3OF8NU.jpg" group-title="Music",Haa Taa Club 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6oIYs1PSXnWsZIafkOmjFw&live=6
+
 # https://www.youtube.com/channel/UCXwZEtR4z7grN0nmGzwg6Ow
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l1Juhwy.jpg" group-title="Music",Hawaiian BGM channel 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCXwZEtR4z7grN0nmGzwg6Ow&live=1
@@ -853,6 +867,28 @@ plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=6
 plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 8 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=8
+
+# https://www.youtube.com/channel/UCk_gmZ_mD-zlacoAnNWO0SQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLneQvp.jpg" group-title="Music",Little love soul 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCk_gmZ_mD-zlacoAnNWO0SQ&live=10
 
 # https://www.youtube.com/c/LTBMusic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wt6RXW.jpg" group-title="Music",LTB Music 1 (YT) (c_id)
