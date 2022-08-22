@@ -767,6 +767,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfbQMQd.jpg" group-title="Movies",WEE5 Entertainment 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HFNrqpR.jpg" group-title="",BH Entertainment (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2KSpZnJqOmPJOu7St2e2hQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRLBGP7.jpg" group-title="",Studio Yuva Live (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
