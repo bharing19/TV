@@ -225,6 +225,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaUg9b9LplVo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PuSmp8e.jpg" group-title="Music",Nice Guys (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmt12UKW571UWtJAgWkWqg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjNOoLl.jpg" group-title="Music",NugsNet (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCs9tH6M6AW16i3s8WabzAfA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9qVSBY.jpg" group-title="Music",proteh (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCR2D48i5MCMYwVKbgYIAftQ/live
 
@@ -457,6 +460,8 @@ plugin://plugin.video.youtube/play/?channel_id=UC_a3QaX8FwHEgoCKvcOKukA&live=2
 plugin://plugin.video.youtube/play/?channel_id=UCha0QKR45iw7FCUQ3-1PnhQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukhEXzr.jpg" group-title="Music",Café del Mar (Official) 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCha0QKR45iw7FCUQ3-1PnhQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukhEXzr.jpg" group-title="Music",Café del Mar (Official) 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCha0QKR45iw7FCUQ3-1PnhQ&live=3
 
 # https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 1 (YT) (c_id)
@@ -1308,6 +1313,18 @@ plugin://plugin.video.youtube/play/?channel_id=UC4zMk7dbUqzTZieuIFzzSgg&live=8
 plugin://plugin.video.youtube/play/?channel_id=UC4zMk7dbUqzTZieuIFzzSgg&live=9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGSZh2k.jpg" group-title="Music",Relax Music BGM CHANNEL 10 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC4zMk7dbUqzTZieuIFzzSgg&live=10
+
+# https://www.youtube.com/c/DawilkTHR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdjLeXR.jpg" group-title="Music",Relaxing Nature In 4K 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJduEGukjOXzTW4jfkQ-ihw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdjLeXR.jpg" group-title="Music",Relaxing Nature In 4K 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJduEGukjOXzTW4jfkQ-ihw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdjLeXR.jpg" group-title="Music",Relaxing Nature In 4K 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJduEGukjOXzTW4jfkQ-ihw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdjLeXR.jpg" group-title="Music",Relaxing Nature In 4K 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJduEGukjOXzTW4jfkQ-ihw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdjLeXR.jpg" group-title="Music",Relaxing Nature In 4K 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJduEGukjOXzTW4jfkQ-ihw&live=5
 
 # https://www.youtube.com/channel/UC84ZBFAOplZfvi1Ht00lhjw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DavzCg2.jpg" group-title="Music",Relax with Nemo's Dreamscapes 1 (YT) (c_id)
