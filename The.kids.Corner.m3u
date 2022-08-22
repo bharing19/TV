@@ -811,6 +811,12 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClorPuke38isj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqxZH9q.jpg" group-title="Kids",HeyKids - Canzoni Per Bimbi (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCv1eHXj4h8gRX8DYfFz0Jxg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l3PxwM0.jpg" group-title="Kids",Kit e Kate - Italian (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQuc7O2QTk-Q5TPjII6ZeVw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zxS3Uzx.jpg" group-title="Kids",La streghetta Tatty (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0DhKve59wvtqkLg_ULfKDg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nMzFUsi.jpg" group-title="Kids",Om Nom Italiano (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCODGp9nMIuF7rW3mW76a8sQ/live
 
@@ -823,9 +829,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCd5bEFlK6Aweb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPYhoT1.jpg" group-title="Kids",POCOYO ITALIANO - Canale Ufficiale (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwQ-5RSINDVfzfxyTtQPSww/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo1xJnV.jpg" group-title="Kids",Simone Super Coniglio [Italiano] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm8eTdJzNxgZuv8mzVLTsbA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebfc080.jpg" group-title="Kids",WB Kids Italiano (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSMrqS8IssKKIILuz48IGSA/live
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner Mixed★★★★★★★★★★
 0.0.0.0
