@@ -838,6 +838,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSMrqS8IssKKI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" ,★★★★★★★★★★The Kids Corner Mixed★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yiHJ7ut.jpg" group-title="Kids",Lord Aizen (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyHzuI5sqmtfrV-2SzZz5HQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffrrb5a.jpg" group-title="Kids",WB Kids Brasil (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faEnaW1.jpg" group-title="Kids",WB Kids Deutschland (STK)
