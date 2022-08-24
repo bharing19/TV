@@ -32,24 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 
 # http://m.assnat.qc.ca/fr/index.html
 #EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat (360p)
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e_1_681984/chunklist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances de l'Assemblée 
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/76fda441/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/76fda441_1_1536000/chunklist.m3u8
-#http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 1 
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/71602009/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/71602009_1_1536000/chunklist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Conférence de presse
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/658a5e8d/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/658a5e8d_1_1536000/chunklist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 2
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/2602fd20/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/2602fd20_1_1536000/chunklist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 3
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324/playlist.m3u8
-https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324_1_1536000/chunklist.m3u8
+https://cdn3.wowza.com/5/UHh3aHM1bTBsY1Uw/diffusion/canal17/playlist.m3u8
 
 # https://www.youtube.com/user/bellahdjel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (c_id)
