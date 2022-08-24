@@ -111,8 +111,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
 
-#EXTINF:-1 tvg-id="GlobalNewsNational.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/z1gI2GM.jpg" group-title="News",Global News National (720p)
-https://cutt.ly/QJPABuA
+#EXTINF:-1 tvg-id="GlobalNewsMontreal.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/HM2cvBm.jpg" group-title="News",Global News Montreal (720p)
+https://cutt.ly/GJPAXT5
 
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Adaptative)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
