@@ -207,10 +207,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCj7mjJ8KYA7tLly9RUAb6XA&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj7mjJ8KYA7tLly9RUAb6XA/live
 
 # http://greektimes.ca/greektv/
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
-http://94.130.180.175:8081/live/greektv/chunks.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV
+http://live.greektv.ca/hls1/greektv.m3u8
+
 
 # https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (YT) (c_id) (Non 24/7)
