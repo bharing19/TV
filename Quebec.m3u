@@ -13,7 +13,7 @@ plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
 
 # https://gsc-culture.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0QFfDW.jpg" group-title="",Groove station canada Tv (GSC TV) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0QFfDW.jpg" group-title="",Groove station canada Tv (GSC TV) (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi82jQda34Gm2vHWK6h5alA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (YT) (c_id) (Non 24/7)
@@ -106,7 +106,7 @@ https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/03.m3u8
 https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
 
 # https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (c_id) (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
