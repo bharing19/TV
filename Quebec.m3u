@@ -235,6 +235,9 @@ https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
 https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA/live
+
 # https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (YT) (c_id) (non 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UC5juy2fbHq4kKmpUq3IkHoQ&live=1
@@ -360,15 +363,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOw
 # http://www.ctrb.tv/CTRB-en-direct.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJeNba.jpg" group-title="Communautaire",CTRB  (OFFLINE)
 http://unifi.fleetinfo.info:1935/CTRB/myStream/playlist.m3u8
-
-# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
-EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=kdei8o0LcJg
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=_6_7wGYj2E4
-EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
-plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
