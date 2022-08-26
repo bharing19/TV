@@ -1495,7 +1495,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCaEqMbRYYOmI3WrALMhxuIg&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaEqMbRYYOmI3WrALMhxuIg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0OhsPp.jpg" group-title="France",Stormcast Novelas TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 # https://www.studio20tv.corsica/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbd2JLq.jpg" group-title="",STUDIO 20 TV - La télé qui vous play en Corse !
