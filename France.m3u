@@ -23,17 +23,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE6LObtIIyUym
 #EXTINF:-1 tvg-logo="https://i.imgur.com/leeePzf.jpg" group-title="Anime",La Petite Sorcière Tanny (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1VGGT9RfunvCdvZf_gqVBg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nRkVpfO.jpg" group-title="Anime",My Little Pony (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDCcr_N3OsqbH7FItELttvw/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123EVuo.jpg" group-title="Anime",Baby Shark (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtncBbJxPQeqOgCl-U3UU3w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5W4NTPp.jpg" group-title="Anime",Dinosaure - Je Suis Un Dinosaure (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCProOppuazb9J-GhH0t7dEA/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jLyhvc.jpg" group-title="Anime",Barbie (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iilPyaD.jpg" group-title="Anime",IncrediTales (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgRU1S0M_TbYe0G0O1s4mqg/live
@@ -41,11 +35,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgRU1S0M_TbYe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJH8bWi.jpg" group-title="Anime",Cats Family  (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCil6uAMf2IXD1SkiwZq3xhw/live
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DfhwnP8.jpg" group-title="Anime",Rakuten TV Anime Digital Network
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Jc8Y5se.jpg" group-title="Anime",WB Kids (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvIdlrnd4DCcqp2DZwaZYw/live
@@ -1454,10 +1445,10 @@ plugin://script.module.7of9-live/play/601/play.pvr
 plugin://plugin.video.dailymotion_com/?url=x13p3qi&mode=playLiveVideo
 
 # https://francais.rt.com/en-direct
-EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
-https://rt-france-gd.secure2.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (Opt-2)
+https://cdn.odysee.live/content/a6a125c99ba2a6c068a8b502fb08dda603f6f03a/master.m3u8?cachebust=1
 # https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA
 EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCqEVwTnDzlzKOGYNFemqnYA&live=1
