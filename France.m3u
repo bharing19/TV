@@ -1064,6 +1064,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_CE5uL8tsIPs
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/kuImWCr.jpg" group-title="Religion",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJLPE6Z.png" group-title="",Krime
+https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8
+
 # https://www.sivu-fibre.com/chaine32 https://www.youtube.com/channel/UChl0zP89T7yZyEwQkCfmmnQ
 #EXTINF:-1 tvg-id="LaChaîne32.fr" tvg-name="LaChaîne32 FR" tvg-logo="https://i.imgur.com/0YjqHHj.jpg" group-title="régionale",la chaîne 32 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UChl0zP89T7yZyEwQkCfmmnQ&live=1
@@ -1134,7 +1137,7 @@ plugin://plugin.video.dailymotion_com/?url=x7x3gqy&mode=playLiveVideo
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/vxJd9Za.png" group-title="",LuckyJack.tv (OFFLINE)
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/9CHTk9q.png" group-title="France",Luxe TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHTk9q.png" group-title="France",Luxe TV
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 
 # https://www.dailymotion.com/LyonCapTV https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct/
@@ -1373,12 +1376,10 @@ https://rakuten-family-7-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Films Francais (720p)
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
-https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
-https://rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Romance 1
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbA56AG.png" group-title="",Rakuten Romance 2
+https://rakuten-romance-7-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Spotlight (720p)
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1395,7 +1396,14 @@ https://rakuten-thriller-7-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten Top Films (720p)
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWCYjP.png" group-title="",Rakuten Viki
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
+https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
+https://rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/fDWCYjP.png" group-title="",Rakuten Viki
 https://newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="Radio",Radio Melodie Story (TWITCH)
