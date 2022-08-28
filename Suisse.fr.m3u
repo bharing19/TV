@@ -15,9 +15,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCb3uedNKWKG7gGDYQJ1VsWg&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTAO7fb.png" group-title="",FEI TV 4 (YT) (c_id) (not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCb3uedNKWKG7gGDYQJ1VsWg&live=4
 
-# https://www.youtube.com/channel/UCzLB2h38nyHSIaALzwtPvfg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBfBtGk.jpg" group-title="",24/7 LIVE | Webcams (YT)
-plugin://plugin.video.youtube/play/?video_id=XfnADfPnyIE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBfBtGk.jpg" group-title="",24/7 LIVE | Webcams (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzLB2h38nyHSIaALzwtPvfg/live
 
 # 
 #EXTINF:-1 tvg-name="Beatz TV" tvg-logo="https://i.imgur.com/XViSr18.jpg" group-title="Radio",Beatz TV
@@ -116,7 +116,6 @@ https://edge21.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-2)
 https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
-
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-4)
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
