@@ -10,6 +10,11 @@ plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="",Addik TV (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309384716112&sourceUrl=ref%3Atva_6309384716112
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8z9I7DC.png" group-title="",Évasion (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309386882112&sourceUrl=ref%3Atva_6309386882112
 
 
 # https://gsc-culture.com/
