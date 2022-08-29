@@ -110,7 +110,7 @@ http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
 # https://www.tvm3.tv/
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p)
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-4)
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-2)
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
 # https://www.rougetv.ch/
@@ -129,14 +129,13 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ch/rougetv/get_liv
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (Adaptative)
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 
-
 #########
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 # https://www.alpen-welle.ch/live/
 #EXTINF:-1 tvg-id="Alpen-Welle.ch" tvg-name="alpen-welle" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lKofRLM.png" group-title="",Alpen-WelleTV
-https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
+https://edge20.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
 
 # https://www.blick.ch/video/
 #EXTINF:-1 tvg-id="Blick.ch" tvg-name="Blick CH" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9G37gn9.png" group-title="",Blic TV
@@ -166,8 +165,8 @@ https://edge17.vedge.infomaniak.com/livecast/ik:energytv/manifest.m3u8?spark=476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (TWITCH)
-plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/gametv_ch
 
 # https://www.handelsregister.tv/ https://www.youtube.com/channel/UC-LkziTVeh7uoG_PqjS015g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XimSsry.png" group-title="",Handelsregister TV (YT) (c_id)
@@ -185,11 +184,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7pVPkfQFqLa3
 
 # https://kanal9.ch/direct/
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (Adaptative)
-https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (1080p)
-https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w171766668_b3001080.m3u8
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (720p)
-https://edge7.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w171766668_b1800720.m3u8
+http://livevideo.infomaniak.com.infomaniak.com/livecast/livesd2/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://i.imgur.com/m0dYeno.png" group-title="Regionalsender",Kanal 9 (1080p) (OPT-2)
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 
@@ -198,8 +193,8 @@ https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 
 # https://www.musig24.tv/ https://livestream.com/accounts/16598383/events/8687407
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24 (UPD)
-http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/227667628.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/16598383/events/8687407/
 
 # https://www.radio24.ch/shows/radio-24-video-live-stream-131287047
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="Radio",Radio 24 102.8
@@ -269,8 +264,8 @@ https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
 
 # https://www.twitch.tv/telecasino/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MrhhcLy.png" group-title="",Telecasino (720p) (TWITCH)
-plugin://plugin.video.twitch/?channel_id=203720615&amp;mode=play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrhhcLy.png" group-title="",Telecasino (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/telecasino/
 
 # http://teleticino.ch/diretta
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="Tele Ticino CH" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",TeleTicino (Adaptative)
@@ -309,7 +304,7 @@ plugin://plugin.video.youtube/play/?video_id=TiSHn-4exgQ
 # https://www.alpen-welle.ch/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCUTDum.jpg" group-title="",Alpen-Welle
 https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
-https://edge17.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
+
 
 # https://sportalhd.com/all/live #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
