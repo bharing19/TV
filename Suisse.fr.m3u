@@ -88,30 +88,26 @@ https://pd-l-p.akamaized.net/pd/ngrp:SR-O_all/chunklist_b920576.m3u8
 # https://www.rfj.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wf94u&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7wf94u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgGbj2r.jpg" group-title="Radio",RFJ (Pour VLC)
 https://www.dailymotion.com/video/x7wf94u#tab_embed.m3u8
 
 # https://www.rjb.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (DM)
 plugin://plugin.video.dailymotion_com/?url=x7xygyv&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7xygyv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwJWQ3N.jpg" group-title="Radio",RJB (Pour VLC)
 https://www.dailymotion.com/video/x7xygyv#tab_embed.m3u8
 
 # https://www.rtn.ch/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wamzq&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7wamzq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="Radio",RTN (Pour VLC)
 https://www.dailymotion.com/video/x7wamzq#tab_embed.m3u8
-
-# https://www.telebielingue.ch/fr/live
-#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://i.imgur.com/CHAIi1i.png" group-title="régionale",Télébielingue (720p)
-http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-
-# https://www.tvm3.tv/
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p)
-http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-2)
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
 # https://www.rougetv.ch/
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://i.imgur.com/8XjMANX.jpg" group-title="généraliste",Rouge TV (720p)
@@ -128,6 +124,17 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/ch/rougetv/get_liv
 # https://www.rts.ch/play/tv/direct/couleur-3?tvLiveId=8841634
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-logo="https://i.imgur.com/oPSCSHS.png" group-title="Radio",RTS Couleur 3 (Adaptative)
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+
+# https://www.telebielingue.ch/fr/live
+#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://i.imgur.com/CHAIi1i.png" group-title="régionale",Télébielingue (720p)
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+
+# https://www.tvm3.tv/
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p)
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 CH" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p) (OPT-2)
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+
 
 #########
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse Autre Langue[/COLOR]★★★★★★★★★★
