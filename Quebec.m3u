@@ -299,7 +299,8 @@ EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjc
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2b)
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
-
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA  (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6224868479001&sourceUrl=ref%3Atva_6224868479001
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_url/?item_id=tva
 
