@@ -12,6 +12,12 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvXIYQB.jpg" group-title="Music",NRJ Hits (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUTGHke8ZAzb-atx8J08OhA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrfIZJn.jpg" group-title="",Just For Laughs Gags (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpsSadsgX_Qk9i6i_bJoUwQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d0VlAxh.jpg" group-title="",Horgan Bros. (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQBuvQJcGXH2nmbh__Xb8AQ/live
 
@@ -23,6 +29,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2hMKdWmTBVJ_
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhihR0K.jpg" group-title="",TLC UK (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2vlpX8sNDBmPcY_1_QSGJg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HdLUWK2.jpg" group-title="",Really UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm_dwtCx0j9M2_W47Ch4pnQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnvkOKv.jpg" group-title="",Discovery UK (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9cGX5x0_EXkdfmWlvPbu3g/live
