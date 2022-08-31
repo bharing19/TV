@@ -226,6 +226,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCm3eAbiTKAow
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",Noovo (Audio)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",Noovo (Addon Noovo)
+plugin://plugin.video.vtele/?url=direct&sourceUrl=direct
 
 # https://ocpm.qc.ca/fr/en-direct
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
