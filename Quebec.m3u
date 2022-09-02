@@ -99,13 +99,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCY3_KU8qXQeNnPQ_YHI00mw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eqBkf3j.jpg" group-title="Religion",Église de la Victoire (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live
 
-# https://emcitv.com/direct/
-#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
-#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (1080p)
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/04.m3u8
-#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (720p)
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/03.m3u8
+# https://emcitv.com/direct/montreal/ https://emcitv.com/direct/
+#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x8azdl4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Film",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
 https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
