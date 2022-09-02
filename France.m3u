@@ -1287,8 +1287,14 @@ plugin://script.module.7of9-live/play/322/play.pvr
 plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0pHdbHRCREJJQhGSUDH61g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0pHdbHRCREJJQhGSUDH61g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0pHdbHRCREJJQhGSUDH61g&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0pHdbHRCREJJQhGSUDH61g&live=4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="Anime",POCOYO FRANÇAIS (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g/live
 
