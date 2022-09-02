@@ -718,9 +718,12 @@ https://tv.everestcast.com:3170/live/eibizatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7O74Ax3.jpg" group-title="",Eibiza-tv Maxximixx
 https://tv.everestcast.com:3170/stream/play.m3u8
 
-# https://emcitv.com/direct/
-#EXTINF:-1 tvg-id="EmciTV.fr" tvg-name="EMCI TV FR" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="Religion",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+# https://emcitv.com/direct/kinshasa/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV — Afrique (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x8azdkm
+# https://emcitv.com/direct/paris/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV — Europe (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x8azdk1
 
 # https://eretv.fr/
 #EXTINF:-1 tvg-id="EreTV.fr" tvg-name="EreTV FR" tvg-logo="https://i.imgur.com/rO7jXOZ.png" group-title="Religion",Ere TV
