@@ -423,6 +423,18 @@ plugin://plugin.video.youtube/play/?channel_id=UC3cR_DttIClGcE5StsIbyXA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 
+# https://www.youtube.com/user/CurlingZone
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkkwwHu.jpg" group-title="Sports",CurlingZone 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX70Svg4Q4fmav-MXAZeUQQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkkwwHu.jpg" group-title="Sports",CurlingZone 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX70Svg4Q4fmav-MXAZeUQQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkkwwHu.jpg" group-title="Sports",CurlingZone 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX70Svg4Q4fmav-MXAZeUQQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkkwwHu.jpg" group-title="Sports",CurlingZone 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX70Svg4Q4fmav-MXAZeUQQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkkwwHu.jpg" group-title="Sports",CurlingZone 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX70Svg4Q4fmav-MXAZeUQQ&live=5
+
 # https://www.613tv.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXzioc.png" group-title="",DiversityInTheCapital (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/diversityinthecapital
