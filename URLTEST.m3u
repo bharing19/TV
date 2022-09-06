@@ -12,6 +12,8 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zGAZIe.jpg" group-title="",Nat Geo WILD (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGr65ah.jpg" group-title="Movies",Romance Channel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCcdihRgVRhuId2D5byp8YsQ/live
