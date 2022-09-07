@@ -12,6 +12,12 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYxgPz0.jpg" group-title="",WildEarth (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV6HJBZD_hZcIX9JVJ3dCXQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shP2dxp.jpg" group-title="",Ink Master (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzrh2s9Vu9wUBf2Y2iIYcgA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zGAZIe.jpg" group-title="",Nat Geo WILD (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA/live
 
