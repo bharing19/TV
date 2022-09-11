@@ -332,7 +332,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (t
 
 # https://www.cheknews.ca/live-news-british-columbia/
 #EXTINF:-1 tvg-id="Cheknews.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="News",Cheknews (1080p) [Not 24/7] (STK)
-plugin://plugin.video.sendtokodi/?https://player.zype.com/embed/61411256d7c8ae000168893f.html?api_key=wPVS5IQoMHNsQvfrGuKJ9spKSKCXxsjs0Bf1UVshCI5sUtrj&controls=true&da=true
+plugin://plugin.video.sendtokodi/?https://player.zype.com/embed/62ec07c17176280001fd6aa4.html?api_key=wPVS5IQoMHNsQvfrGuKJ9spKSKCXxsjs0Bf1UVshCI5sUtrj&controls=true&da=true
 
 # https://chco.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="Community",CHCO TV
