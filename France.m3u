@@ -1655,7 +1655,7 @@ plugin://plugin.video.dailymotion_com/?url=x5zaibr&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUBFzHx.png" group-title="",tv-pitchoun Musique (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x7ti51o&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUBFzHx.png" group-title="",tv-pitchoun
-https://live.tvradio-pitchoun.fr/hls/live360p.m3u8
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
 # https://www.youtube.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA
 #EXTINF:-1 tvg-id="TVPi.fr" tvg-name="TVPI FR" tvg-logo="https://i.imgur.com/2CStkJb.png" group-title="Locale",TVPI Bayonne (YT) (c_id)
@@ -1681,15 +1681,19 @@ plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5BRZBCjOqMO9BqWnubqtJA/live
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1
-https://cdn.mmsiptv.com/live/tf1/chunks.m3u8
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index_1.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/t1.php
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index_1.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tfs.php
 
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index_1.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch1/nt1.php
 
@@ -1698,6 +1702,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 #EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index_1.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tm.php
 
