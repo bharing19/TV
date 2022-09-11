@@ -1,7 +1,7 @@
 #EXTM3U
 
 ### Temps Depot ###
-
+### might not be 24/7 ###
 
 #EXTINF:-1 ,Noovo (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
@@ -11,6 +11,15 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/192000/manifest.m3u8
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErL1WuP.jpg" group-title="",DisneyD23 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1ofxPvkeZ178_jNcQhpGdw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7apnNz.jpg" group-title="",NASCAR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuN9hYw2RpoAW8rZ3VK3isA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVOo6WF.jpg" group-title="",Dron.tv (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwiGTG2eBJvBZwbcn2bwGPA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYxgPz0.jpg" group-title="",WildEarth (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV6HJBZD_hZcIX9JVJ3dCXQ/live
@@ -238,7 +247,6 @@ https://cutt.ly/8XyDCam
 https://cutt.ly/qXyDVmG
 #EXTINF:-1 tvg-logo="https://i.imgur.com/590upUl.png" group-title="",Circle
 https://cutt.ly/qXyD2m3
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kphh7HC.jpg" group-title="",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -515,7 +523,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztnXCgD.png" group-title="",WGGS TV
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 
-
 # https://www.cvtv.org/  https://www.cvtv.org/schedule
 #https://www.cvtv.org/livefeed/21 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",CVTV Channel 21
@@ -529,7 +536,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvJJ_dzjViJCo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br4AcLn.jpg" group-title="Sports",Pac-12 Networks International (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCx0IoH70qVp11Qkv1pa0phQ/live
-
 
 ## USA Education Channel
 
@@ -605,7 +611,6 @@ https://5caeec96c1972.streamlock.net/broadcast/knw/playlist.m3u8
 
 ####
 
-
 # https://watch.talk.tv/
 #EXTINF:-1 tvg-logo="https://watch.talk.tv/images/TalkTV-Logo.png" group-title="",Talk TV UK
 https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
@@ -618,7 +623,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCm0yTweyAa0PwEIp0l3N_gA&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm0yTweyAa0PwEIp0l3N_gA/live
 #EXTINF:-1 tvg-logo="https://beta.talk.tv/talktv/assets/talkradio-thumbnail.png" group-title="",Talk Radio  UK
 https://radio.talkradio.co.uk/stream
-
 
 #EXTINF:-1 ,CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
@@ -730,11 +734,7 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 
-
-
-
 #######
-
 
 # https://www.alaan.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/syJVuIe.png" group-title="",Al Aan TV (DM)
@@ -787,6 +787,27 @@ plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=4
 plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfbQMQd.jpg" group-title="Movies",WEE5 Entertainment 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99n1wKw.jpg" group-title="",Tamil Vintage 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC8KZm2-vDJoJouLdUE6dnjA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99n1wKw.jpg" group-title="",Tamil Vintage 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC8KZm2-vDJoJouLdUE6dnjA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99n1wKw.jpg" group-title="",Tamil Vintage 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC8KZm2-vDJoJouLdUE6dnjA&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcXjr7K.jpg" group-title="",Movie Platinum 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRpIYGnC9yrPXRcbGM3Bpeg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcXjr7K.jpg" group-title="",Movie Platinum 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRpIYGnC9yrPXRcbGM3Bpeg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcXjr7K.jpg" group-title="",Movie Platinum 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRpIYGnC9yrPXRcbGM3Bpeg&live=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BkgoKj2.jpg" group-title="",Movie King 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxlLmil_fhSFTMZotr3CmtQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BkgoKj2.jpg" group-title="",Movie King 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxlLmil_fhSFTMZotr3CmtQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BkgoKj2.jpg" group-title="",Movie King 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxlLmil_fhSFTMZotr3CmtQ&live=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HFNrqpR.jpg" group-title="",BH Entertainment (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2KSpZnJqOmPJOu7St2e2hQ/live
@@ -976,7 +997,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe
 
 ###
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 1 (YT) (c_id) (Not24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCvtT19MZW8dq5Wwfu6B0oxw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhfGrSQ.jpg" group-title="Programing",dotNET 2 (YT) (c_id) (Not24/7)
@@ -1139,7 +1159,6 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tropoja7v
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h78hAGo.jpg" group-title="",RADIO STUDIO 95 TV LIVE (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/studio95melitotv
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GsEk47e.jpg" group-title="",etb basque (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCOHCRQDAr9HC5d59XvziJFQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GsEk47e.jpg" group-title="",etb basque (STK)
@@ -1264,7 +1283,6 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="",La Red
 https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OcZ2p6.jpg" group-title="",Biz Cinema
 https://st.biztv.uz/hls/c.m3u8
 
@@ -1287,7 +1305,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dy37f7O.png" group-title="",Mir TV 3
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-
 
 #######
 
@@ -1544,8 +1561,6 @@ https://live3-slivertv.akamaized.net/hls/live/2016040/hls_streamer_us_east_0091/
 # https://www.theta.tv/saltywhitefolks
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W57O9VQ.jpg" group-title="",Saltywhitefolks
 https://live3-slivertv.akamaized.net/hls/live/2016020/hls_streamer_us_east_0071/playlist.m3u8
-
-
 
 # https://www.nimo.tv/live/1049395500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBo6u4q.jpg" group-title="",TheOtterFM
