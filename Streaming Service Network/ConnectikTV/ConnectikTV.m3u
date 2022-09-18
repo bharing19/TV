@@ -1,0 +1,62 @@
+#EXTM3U
+
+# http://www.connectiktv.com/live-tv/ Offline
+# http://connectiktv.ddns.me/tv/
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/logo.png" ,★★★★★★★★★★Connectik TV★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_61_bg_0.jpg" group-title="",MEDIA PRIME
+http://connectiktv.ddns.me:8080/live/620adc7d4a76a/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_22_bg_0.jpg" group-title="",REPENTANCE TV
+http://connectiktv.ddns.me:8080/live/61f63855ca21d-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/plugin/Live/view/OnAir.jpg" group-title="",M-CARRE
+http://connectiktv.ddns.me:8080/live/6218b708bb428/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_243_bg_0.jpg" group-title="",TOP MUSIC
+http://connectiktv.ddns.me:8080/live/63135cd255fe8/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_82_bg_0.jpg" group-title="",MyGOSPEL
+http://connectiktv.ddns.me:8080/live/62124c997430b/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_12_bg_0.jpg" group-title="",HOSANNA FM 97.7
+http://connectiktv.ddns.me:8080/live/61f1c0bdb3b82-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_17_bg_0.jpg" group-title="",AFROBIT
+http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_21_bg_0.jpg" group-title="",EXEL DISCOVERY
+http://connectiktv.ddns.me:8080/live/61f6352d2b4d5-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_2_bg_0.jpg" group-title="",MyTV CHANNEL
+http://connectiktv.ddns.me:8080/live/61f19254e3568-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_47_bg_0.jpg" group-title="",HTV
+http://connectiktv.ddns.me:8080/live/61fe0d83e5efe/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_107_bg_0.jpg" group-title="",BNEWS1
+http://connectiktv.ddns.me:8080/live/6227c96b7ee85/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_59_bg_0.jpg" group-title="",DBM
+http://connectiktv.ddns.me:8080/live/620ada073d5c5/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_72_bg_0.jpg" group-title="",CHATEAU TV
+http://connectiktv.ddns.me:8080/live/620e3a0d3d67c/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_4_bg_0.jpg" group-title="",PLAY TV
+http://connectiktv.ddns.me:8080/live/61f1afa16a100-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_169_bg_0.jpg" group-title="",AFRIQUE PLUS TV
+http://connectiktv.ddns.me:8080/live/6271a25735941/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_15_bg_0.jpg" group-title="",DREAM CHANNEL
+http://connectiktv.ddns.me:8080/live/61f1d6f4f2966-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_79_bg_0.jpg" group-title="",MyMUSIC
+http://connectiktv.ddns.me:8080/live/6212475092fb3/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_81_bg_0.jpg" group-title="",MyMOVIE-EN
+http://connectiktv.ddns.me:8080/live/62124b57a827d/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_131_bg_0.jpg" group-title="",VIBE TV
+http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_30_bg_0.jpg" group-title="",VSTV
+http://connectiktv.ddns.me:8080/live/61f65016ea2be-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_25_bg_0.jpg" group-title="",LEADER TV
+http://connectiktv.ddns.me:8080/live/61f63a6ba640d-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_247_bg_0.jpg" group-title="",LEADER SPORT
+http://connectiktv.ddns.me:8080/live/6314d8f229043/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_18_bg_0.jpg" group-title="",LOGOSCHANNEL
+http://connectiktv.ddns.me:8080/live/61f62f2b82e12-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_197_bg_0.jpg" group-title="",ZIK PROMO TV
+http://connectiktv.ddns.me:8080/live/62972a1599c67/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_232_bg_0.jpg" group-title="",OTHER CHANNEL
+http://connectiktv.ddns.me:8080/live/62f1671d2fced/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_244_bg_0.jpg" group-title="",BSERIE
+http://connectiktv.ddns.me:8080/live/63135ef003a9b/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_3_bg_0.jpg" group-title="",PLEX TV
+http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://connectiktv.ddns.me/tv/videos/userPhoto/Live/user_48_bg_0.jpg" group-title="",LIONS'TV +
+http://connectiktv.ddns.me:8080/live/61fe1f9101424/index.m3u8
