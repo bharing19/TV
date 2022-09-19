@@ -176,6 +176,9 @@ https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ykrhy7.jpg" group-title="News",APTN News (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCA-IcIBtmwCirNr1f-n_SRA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCeBMTyUFh2MYcfqjWb4G5Og&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (STK)
