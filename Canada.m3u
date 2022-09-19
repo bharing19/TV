@@ -278,6 +278,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXSeERb.png" group-title="News",CBC Yellowknife
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAzrxOp.jpg" group-title="Music",CBC Music (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAILl3AE11CoqiSVs6rBwBQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 1 | Commonwealth Games
 https://cbcrclive-tor.akamaized.net/hls/live/2040298/geo_allow_ca/ES_SPORTS_11/master_3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cve9tW3.jpg" group-title="Sports",Channel 2 | Commonwealth Games
