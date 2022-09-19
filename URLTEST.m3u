@@ -12,6 +12,16 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Knngz.jpg" group-title="Sports",MotorTrend Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsAegdhiYLEoaFGuJFVrqFQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTHAXwb.jpg" group-title="News",The Independent (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCshwRhftzkiov5wKR7M_LsQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9wy3j6.jpg" group-title="News",The Sun (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIzXayRP7-P0ANpq-nD-h5g/live
+
 # http://techgarage.ca:29056/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2WVFTZ.png" group-title="",TechGarage.ca ToonCast : Classic Cartoons
 http://techgarage.ca:29056/hls/stream.m3u8
