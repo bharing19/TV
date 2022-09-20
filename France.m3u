@@ -221,10 +221,6 @@ plugin://plugin.video.twitch/?channel_id=549946935&amp;mode=play
 EXTINF:-1 tvg-logo="https://i.imgur.com/7s5uHVF.jpg" group-title="Sport",chess24 en français (YT) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=ZOfk28yma2Y
 
-# https://www.youtube.com/channel/UCZ_3XN3kr6ShGxXmt6jwSsQ
-EXTINF:-1 tvg-logo="https://i.imgur.com/zCqGcZr.jpg" group-title="Anime",Coilbook France (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=GrJPuswCZhA
-
 # https://www.youtube.com/channel/UCtqh974Np62qGOcvs3aYDrg
 EXTINF:-1 tvg-logo="https://i.imgur.com/MGHXyvo.jpg" group-title="Anime",DC Kids - Teen Titans Go 2 (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=waycmsrD3Ok
@@ -653,6 +649,9 @@ https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClubbingTV.fr"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Musique",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCqGcZr.jpg" group-title="Anime",Coilbook France (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ_3XN3kr6ShGxXmt6jwSsQ/live
 
 # https://www.dailymotion.com/video/x7qp7mo
 #EXTINF:-1 tvg-id="France" tvg-name="Cokaïn.fr" tvg-logo="https://d1qq3upiyp649r.cloudfront.net/cokain/design/Logo.png" group-title="",Cokain (DM) (Offline)
