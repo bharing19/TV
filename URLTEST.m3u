@@ -12,6 +12,21 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuLg1x7.jpg" group-title="",Mayday : Air Disaster (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeRxxz9ByOqdd8A-0iF_Idg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhUceDM.jpg" group-title="",Curious? : Natural World (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYhGR14YM0SYYzzX84Q1zkA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOMnuOa.jpg" group-title="",Curious? : Science and Engineering 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9owVMQPACdP76wvosZ09Gw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOMnuOa.jpg" group-title="",Curious? : Science and Engineering 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9owVMQPACdP76wvosZ09Gw&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YtPZL8.jpg" group-title="",Curious? : True Heroes 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWXxMGM_wjZ0e3ko1a4hy0Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YtPZL8.jpg" group-title="",Curious? : True Heroes 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWXxMGM_wjZ0e3ko1a4hy0Q&live=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Knngz.jpg" group-title="Sports",MotorTrend Channel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsAegdhiYLEoaFGuJFVrqFQ/live
