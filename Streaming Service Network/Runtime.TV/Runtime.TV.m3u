@@ -1,0 +1,44 @@
+#EXTM3U
+# https://www.runtime.tv/linear/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BnWXNU.png" ,★★★★★★★★★★[COLOR yellow]Runtime.TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykzkIuz.png" group-title="",Runtime - Cine Y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDE0mrB.png" group-title="",Runtime - TV E Filmes - BR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUpyQ65.png" group-title="",Runtime - Cinema & Series - FR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csiTdMY.png" group-title="",Runtime - Movies & Series - US
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0mGrBb6.png" group-title="",Runtime - TV Y Peliculas Espanol 1 - ES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0mGrBb6.png" group-title="",Runtime - TV Y Peliculas Espanol 2 - ES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebKZ8sr.png" group-title="",Runtime - Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqfJKEs.png" group-title="",Runtime - Accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqfJKEs.png" group-title="",Runtime - Accion 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyNMWLw.png" group-title="",Runtime - Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88jOnyx.png" group-title="",Runtime Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ulwg53y.png" group-title="",Runtime - Comedia 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ulwg53y.png" group-title="",Runtime - Comedia 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ulwg53y.png" group-title="",Runtime - Comedia 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/trbe6iD.png" group-title="",Runtime - Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LM49Ea9.png" group-title="",Runtime - Curro Jimenez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hi3BNlx.png" group-title="",Runtime - Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U40r803.png" group-title="",Runtime - Series 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434&avod=1&coppa=0&is_lat=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sS6Ddyd.png" group-title="",Runtime - Thriller + Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054&avod=1&coppa=0&is_lat=0
