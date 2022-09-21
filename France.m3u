@@ -1515,6 +1515,9 @@ plugin://plugin.video.dailymotion_com/?url=x2tzzpj&mode=playLiveVideo
 #EXTINF:-1 tvg-id="rtl2.fr" tvg-name="RTL2 FR" tvg-logo="https://i.imgur.com/9DhdS62.png" group-title="Radio",RTL 2 (Pour VLC)
 https://www.dailymotion.com/video/x2tzzpj#tab_embed.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUpyQ65.png" group-title="",Runtime - France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+
 # https://www.dailymotion.com/rv1 https://www.facebook.com/RV1.TV/
 #EXTINF:-1 tvg-id="rv1-tv.fr" tvg-name="RV1 TV FR" tvg-logo="https://i.ibb.co/kS2Pdf2/RV1.png" group-title="régionale",RV1 (DM) (OFFLINE)
 plugin://plugin.video.dailymotion_com/?url=x6mw7oz&mode=playLiveVideo
