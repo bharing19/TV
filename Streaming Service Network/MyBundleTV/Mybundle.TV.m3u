@@ -1,0 +1,96 @@
+#EXTM3U
+
+# https://mybundle.tv/live-tv
+# * = Monitoring if Tokenized : (R.L) = Replacement link
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IOwwnO.png" ,★★★★★★★★★★[COLOR black]MyBundle TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAczvBI.png" group-title="Home & Travel",Hungry
+https://02a24a6fd1b9435aa0f4a07e16e29c6c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z04OBuA.png" group-title="Home & Travel",Taste Of Home *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/7dee88b4-9db2-48f8-9cd0-eed797b48fc1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFua8FQ.png" group-title="Home & Travel",Bob Vila *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/393332b1-bfe3-4e0f-a848-ae8abffcb33b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zPkggZ.png" group-title="Home & Travel",Todays Homeowner Media
+https://1daba2f7607143ab8d8d0c9cec290661.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_TodaysHomeowner/playlist.m3u8?ads.wurl_channel=1162&ads.wurl_name=TodaysHomeowner&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHvDJcG.png" group-title="Home & Travel",GoUSA
+https://8879048c6d004b9487166a48ca8e5306.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTzQZY0.png" group-title="Home & Travel",GoTraveler
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3355&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=d5d49f178908745f542c14ae151e579d&app_bundle=com.gotraveler&app_store_url=https%3A%2F%2Fvideo.gotraveler.com%2Fdevices&app_domain=gotraveler.com&app_name=gotraveler&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=gotraveler&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izTwNyA.png" group-title="Entertainment",Young Hollywood *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/5c26ac5e-4007-4d1d-9e6f-181db8dc3843.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Bzemt.png" group-title="Entertainment",Us Weekly *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/27e7a999-b092-40c9-a4be-d7fdad2676f6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMpWniH.png" group-title="Entertainment",Reader's Digest *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/27c896c0-f0b3-4f45-9ae3-219d5b5d35ce.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4zF5wT.png" group-title="Entertainment",Global Fashion Channel (R.L)
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2yGPN2.png" group-title="Entertainment",WatchMojo's
+https://a62990d71e364657b7594796cff35325.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_WatchMojo/playlist.m3u8?ads.wurl_channel=1109&ads.wurl_name=WatchMojo&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oq0WZY.png" group-title="Kids",Toon Goggles 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=toongoggles&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idkuXXb.png" group-title="Kids",Giggle Mug
+https://d26d5b0579ac43c2a2b346a1c6a89701.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_GiggleMug/playlist.m3u8?ads.wurl_channel=558&ads.wurl_name=GiggleMug&ads.coppa=1&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aZCRsW.png" group-title="Kids",Super Simple Songs
+https://72830da2e9ac47879ecb8d76a90f645a.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_SuperSimpleSongs/playlist.m3u8?ads.wurl_channel=559&ads.wurl_name=SuperSimpleSongs&ads.coppa=1&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKB6dvc.png" group-title="Kids",FamilyTime (N.A)
+https://ov-static.ottera.tv/placeholders/video_not_available/video_not_available.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg6bCIW.png" group-title="Kids",TG Junior
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=toongoggles&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7aEtGT.png" group-title="Sports",U.S. Sports *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/29e80d99-91f6-4e07-b49f-5814d753f020.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKo8PvK.png" group-title="Sports",U.S. College Sports *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/554323b9-659c-491d-83fd-591287f41359.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ui0Fol5.png" group-title="Sports",Carbon TV
+https://amg01570-carbontv-carbontvmybund-ono-oq14r.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRmQgPR.png" group-title="Sports",Adventure Sports Network *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/46ab92be-e0a7-4de5-92a3-61edb574ee01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPTz7xs.png" group-title="En Espanol",Meganoticias
+https://2d8a6fbf9156478a958c88551849b10c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925&ads.wurl_name=MegaNoticias&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqGerp2.png" group-title="En Espanol",La Corriente
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3340&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=d5d49f178908745f542c14ae151e579d&app_bundle=com.shoreline.ott&app_store_url=https%3A%2F%2Fprivate.ottera.tv%2Fdevices&app_domain=cmsapi-ott-ottpri-sl.ottera.tv&app_name=shoreline&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=shoreline&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmPEh0J.png" group-title="En Espanol",Intipacha
+https://2f09165b76a54c06b65783a38536d027.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3I1UCLH.png" group-title="En Espanol",Noticias de Espana *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/0ca9960d-77f7-4477-bb45-52216891c223.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kevtWBA.png" group-title="En Espanol",Noticias de Latinoamerica *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6a42fd31-8af0-40f3-8740-25a1d6fbd829.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoF1zuf.png" group-title="En Espanol",TG En Espanol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=toongoggles&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPz472M.png" group-title="TV & Movies",Electric Now (R.L)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbnt5xS.png" group-title="TV & Movies",Filmzie
+https://9d40e53fa8974ee18688435e01e8d238.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/MyBundleTV_Filmzie/playlist.m3u8?ads.wurl_channel=1097&ads.wurl_name=Filmzie&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yoe8v0k.png" group-title="TV & Movies",Vintage TV
+https://e5c3e974b0c04050b07549e007800be2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_VintageTV/playlist.m3u8?ads.wurl_channel=1255&ads.wurl_name=VintageTV&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZRmRi.png" group-title="TV & Movies",Action !!!
+https://cfcaff3209d34a4287baa61a4a3dcd2f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_ACTION/playlist.m3u8?ads.wurl_channel=1047&ads.wurl_name=ACTION&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxAdPg2.png" group-title="TV & Movies",Best TV Ever
+https://51dd2972081f409cbbb25fe4f816f0e9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_BestEver/playlist.m3u8?ads.wurl_channel=880&ads.wurl_name=BestEver&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/759X8X4.png" group-title="TV & Movies",The Grid
+https://f59219a7fa4346b381b8d3a56ac32c52.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_TheGrid/playlist.m3u8?ads.wurl_channel=878&ads.wurl_name=TheGrid&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uz2Yhub.png" group-title="TV & Movies",Insight TV *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/3c237cd8-9674-4413-8e2b-09a299abc7ce.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTywuFH.png" group-title="TV & Movies",Space Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3321&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=d5d49f178908745f542c14ae151e579d&app_bundle=com.space.channel&app_store_url=https%3A%2F%2Fwww.spacechannel.com%2Fdevices&app_domain=spacechannel.com&app_name=spacechannel&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=spacechannel&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kwmf1Nw.png" group-title="Automotive",Mav TV Select
+https://2c02817ac38342abbc1f9fd7f6f91271.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/MyBundleTV_MavTVSelect/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTVSelect&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4p7wR4.png" group-title="Automotive",MotorTrend *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/d0377925-d908-451e-8777-9d1c14e2de2f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JXXHcn0.png" group-title="Automotive",Volty
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3322&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=d5d49f178908745f542c14ae151e579d&app_bundle=com.volty.live&app_store_url=https%3A%2F%2Fwww.volty.tv%2Fdevices&app_domain=volty.tv&app_name=volty&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=volty&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ54bVc.png" group-title="Automotive",MotorVision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3319&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=d5d49f178908745f542c14ae151e579d&app_bundle=com.motorvision.ott&app_store_url=https%3A%2F%2Fwww.motorvision.tv%2Fdevices&app_domain=motorvision.tv&app_name=motorvision.tv&custom_targeting=html5&custom_4=mybundle&h=720&w=1280&content_channel=motorvision.tv&content_dist_name=mybundle&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=mybundle&custom_param_5=html5&custom_param_6=North%20America
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cnz1Ne.png" group-title="News",Benzinga *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/4e814f41-c63a-48f0-a9e1-3c14f01a7087.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pnfLiG5.png" group-title="News",The Morning Call *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e148df57-74ed-4999-b573-2110e2de8245.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajnZ3AX.png" group-title="Music",Fuse TV *
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e0aa2d3d-4ee0-4091-951e-b6322a2e1abd.m3u8
