@@ -4,6 +4,14 @@
 # https://www.radiorecord.ru/stations
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
 0.0.0.0
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/hype_image600_gray_outline.png" group-title="",Hype
+https://radiorecord.hostingradio.ru/hype96.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/2010_image600_gray_outline.png" group-title="",10's
+https://radiorecord.hostingradio.ru/201096.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/futurerave_image600_gray_outline.png" group-title="",Future Rave
+https://radiorecord.hostingradio.ru/futurerave96.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/latina_image600_gray_outline.png" group-title="",Latina Dance
+https://radiorecord.hostingradio.ru/latina96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/reggae_image600_gray_outline.png" group-title="",Reggae
 https://radiorecord.hostingradio.ru/reggae96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/summerlounge_image600_gray_outline.png" group-title="",Summer Lounge
