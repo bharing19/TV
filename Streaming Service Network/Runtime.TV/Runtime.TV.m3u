@@ -24,7 +24,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyNMWLw.png" group-title="",Runtime - Ana y los 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722&avod=1&coppa=0&is_lat=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88jOnyx.png" group-title="",Runtime Clasicos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88jOnyx.png" group-title="",Runtime - Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053&avod=1&coppa=0&is_lat=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ulwg53y.png" group-title="",Runtime - Comedia 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057&avod=1&coppa=0&is_lat=0
