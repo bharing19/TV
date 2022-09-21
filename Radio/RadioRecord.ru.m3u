@@ -4,7 +4,11 @@
 # https://www.radiorecord.ru/stations
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23DmJO2.png" group-title="",★★★★★★★★★★RadioRecord.ru★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/hype_image600_gray_outline.png" group-title="",Hype
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/mf_image600_gray_outline.png" group-title="",Ма­ят­ник Фуко
+https://radiorecord.hostingradio.ru/mf96.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/record00_image600_gray_outline.png" group-title="",Ре­корд 00's
+https://radiorecord.hostingradio.ru/200096.aacp
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/hype_image600_gray_outline.png" group-title="",На Хай­пе
 https://radiorecord.hostingradio.ru/hype96.aacp
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/2010_image600_gray_outline.png" group-title="",10's
 https://radiorecord.hostingradio.ru/201096.aacp
