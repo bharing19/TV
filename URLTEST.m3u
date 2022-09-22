@@ -12,6 +12,9 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MP5au3.jpg" group-title="",COURT TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo5E9pEhK_9kWG7-5HHcyRg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJKXmvb.jpg" group-title="",The Real Hustle (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyRrxDbRD8OKEvVDwx3JvsQ/live
 
