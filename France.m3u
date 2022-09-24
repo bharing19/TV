@@ -413,10 +413,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMkQQZsNdRVZ3
 
 # https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA
 # https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw
-#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UC0XkRJqxFGeZTta1OUqq3fw&live=1
 #EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw/live
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/astvstream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
