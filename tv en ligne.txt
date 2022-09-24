@@ -5,7 +5,6 @@ https://www.my80stv.com/
 https://www.my90stv.com/
 https://www.my00stv.com/
 
-https://streamfree.tv/watch/
 
 https://www.universenetwork.tv/channel/them-unknown-radio
 
@@ -56,9 +55,9 @@ https://www.filmon.com/
 
 http://www.tvweb360.tv/
 
-http://www.centraltv.fr/
-
 https://www.squidtv.net/
+
+http://photocall.tv/
 
 https://allfrtv.com/
 
@@ -86,13 +85,7 @@ https://tvflix.co/countries
 
 http://connectik.tv/
 
-https://www.youtube.com/results?search_query=live+tv&sp=EgJAAQ%253D%253D
-
-https://www.youtube.com/results?search_query=tv+en+direct&sp=EgJAAQ%253D%253D
-
 http://www.freeintertv.com/
-
-http://onhockey.tv/
 
 https://dlive.tv/
 
@@ -106,16 +99,99 @@ https://limehd.tv/
 
 http://oklivetv.com
 
-http://photocall.tv/
-
 https://www.stream4free.live/
+
+https://streamfree.tv/watch/
+
+https://www.watch.avo.tv/
+
+https://www.adultswim.com/streams/
+
+https://xpd.maz.tv/apps/2780/159887
+
+https://www.canela.tv/
+
+https://catcast.tv/
+
+https://www.cineverse.com/livetv
+
+https://www.freeli.tv/
+
+https://www.galxy.tv/
+
+https://www.glewed.tv/movie-genre/live-tv-news/
+
+https://play.herogotv.com/live-tv?title=TV
+
+https://www.jungoplus.com/?section=linearsection
+
+https://livestream.com/watch/popular/live
+
+https://localnow.com/
+
+https://www.malimar.tv/
+
+https://mybundle.tv/live-tv
+
+https://mytvtogo.net/
+
+https://video.premiumfree.tv/
+
+https://rad.live/live-tv
+
+https://www.runtime.tv/linear/
+
+https://watch.sportstribal.tv/
+
+https://www.televall.online/
+
+https://www.vidio.com/live
+
+https://www.visiontv.co.uk/
+
+https://www.vivalivetv.com/watch/live
+
+https://veely.tv/live/
+
+
+https://www.twitch.tv/directory/game/Always%20On
+https://www.twitch.tv/directory/game/Quality%20Television
+https://www.twitch.tv/directory/game/TV%20Station%20Manager
+https://www.twitch.tv/directory/game/Small%20Radios%20Big%20Televisions
+https://www.twitch.tv/directory/game/Radio%20Station
+
+TV And Radio Channel are Hidden because of wrong tag naming
+https://www.twitch.tv/directory/all/tags/tv
+
+https://www.twitch.tv/directory/game/Just%20Chatting?tl=radio
+
+TV And Radio Channel are Hidden because of wrong tag naming
+https://www.twitch.tv/directory/game/Talk%20Shows%20%26%20Podcasts
+
+https://www.twitch.tv/directory/game/Talk%20Shows%20%26%20Podcasts?tl=radio
+
+TV And Radio Channel are Hidden because of wrong tag naming
+https://www.twitch.tv/directory/game/Music
+
+https://www.youtube.com/results?search_query=news&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=television&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=sports&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=local&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=county&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=pbs&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=documentary&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=discovery&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=science&sp=EgJAAQ%253D%253D
+https://www.youtube.com/results?search_query=space&sp=EgJAAQ%253D%253D
+
+
+# Sport ---
+
+http://onhockey.tv/
 
 https://www.livesoccertv.com/fr/
 
 https://sportsbay.org/free-live-streams
-
-
-# Sport ---
 
 https://daddylive.me/24-hours-channels.php
 
