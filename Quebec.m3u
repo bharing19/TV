@@ -29,13 +29,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCMDYCpjxZa0wCfctGEFOM6Q&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMDYCpjxZa0wCfctGEFOM6Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT) (c_id) (Non 24/7)
-plugin://plugin.video.youtube/play/?channel_id=UCaTl6qRlv3LpC8jDlrpM4sQ&live=1
+plugin://plugin.video.youtube/play/?channel_id=UCFwHb97ovTJRco03JzANMZA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (STK) (Non 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ/live
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFwHb97ovTJRco03JzANMZA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
-
 
 # http://m.assnat.qc.ca/fr/index.html
 #EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat (360p)
@@ -205,7 +204,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj7mjJ8KYA7tL
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV
 http://live.greektv.ca/hls1/greektv.m3u8
-
 
 # https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (YT) (c_id) (Non 24/7)
