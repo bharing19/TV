@@ -5,6 +5,14 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIJZAU2.jpg" group-title="",Solary (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/solary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqgTU0y.jpg" group-title="",SolaryFortnite (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/solaryfortnite
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VcI5M1.jpg" group-title="",SolaryHS (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/solaryhs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8ch1lf.jpg" group-title="",SolaryEvent (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/solaryevent
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NX4UZKK.jpg" group-title="",NTI BUSINESS (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWBZu1Y5Hp4feQJnYkO7Ugg/live
