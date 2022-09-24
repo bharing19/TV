@@ -12,6 +12,9 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJCOrxo.jpg" group-title="",Th3Gazette (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/th3gazette
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqEyFrv.png" group-title="",channel_91 (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/channel_91
 
