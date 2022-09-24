@@ -3,19 +3,21 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/07/17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/09/24
 plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/T8H5O1ZBqGxQonsL1/x240" group-title="Sports",Glace 1 (DM)
+plugin://plugin.video.dailymotion_com/?url=x82yo9k&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/T8H5O1ZBqGxQonsL1/x240" group-title="Sports",Glace 1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x82yo9k
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="",Addik TV (En Débrouillage) (Addon TVA+)
-plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309384716112&sourceUrl=ref%3Atva_6309384716112
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8z9I7DC.png" group-title="",Évasion (En Débrouillage) (Addon TVA+)
-plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309386882112&sourceUrl=ref%3Atva_6309386882112
-
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/T9IvR1ZBqHD-cNRG7/x240" group-title="Sports",Glace 2 (DM)
+plugin://plugin.video.dailymotion_com/?url=x834g9n&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/T9IvR1ZBqHD-cNRG7/x240" group-title="Sports",Glace 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x834g9n
 
 # https://gsc-culture.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0QFfDW.jpg" group-title="",Groove station canada Tv (GSC TV) (STK) (Non 24/7)
@@ -476,6 +478,12 @@ https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zeste (OFFLINE)
 https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="",Addik TV (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309384716112&sourceUrl=ref%3Atva_6309384716112
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/8z9I7DC.png" group-title="",Évasion (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atva_6309386882112&sourceUrl=ref%3Atva_6309386882112
 
 ####
 
