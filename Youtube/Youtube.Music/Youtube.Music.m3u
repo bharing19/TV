@@ -168,9 +168,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgeu2xe0XRsca
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LWiAhPx.jpg" group-title="Music",Heaven Club (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChBFKBnVwvSSFFSEsSFWiaA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Hits Music (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWq5cLH.jpg" group-title="Music",Intricate Records (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-OvFbT6K1aY9nsnmkbsF_g/live
 
@@ -1207,6 +1204,22 @@ plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=5
 plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 7 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=7
+
+# https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music  5(YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Radio Hits Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0f4WJAjYdwl4XYHz-6FhyQ&live=7
 
 # https://www.youtube.com/c/RadioRecordRussia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 1 (YT) (c_id)
