@@ -1,0 +1,29 @@
+#EXTM3U
+
+# https://www.dancetv.net/ https://www.dancetv.net/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTxEYlE.png" group-title="",★★★★★★★★★★[COLOR orange]Dance TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/dt-logo.png" group-title="Music",MinimalTech District
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/dhd-logo.png" group-title="Music",Deephouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/tw-logo.png" group-title="Music",Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/th-logo.png" group-title="Music",Algorhytm
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/hf-logo.png" group-title="Music",House Floor
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/mnml-logo.png" group-title="Music",Deep Tech Minimal
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/msedm-logo.png" group-title="Music",Main Stage
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/caf-logo.png" group-title="Music",Chillaf
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/mt-logo.png" group-title="Music",Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
+# https://dj.worldcast.tv/
+EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/dhd-logo.png" group-title="",TV 1 (Offline)
+https://dj.worldcast.tv/djmarathonone/djmarathonone.m3u8
+EXTINF:-1 tvg-logo="https://dj.worldcast.tv/css/images/dt-logos/dt-logo.png" group-title="",TV 2 (Offline)
+https://dj.worldcast.tv/djmarathontwo/djmarathontwo.m3u8
