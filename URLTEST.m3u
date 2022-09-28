@@ -176,6 +176,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6B64FzMdVOvt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psFgGgv.jpg" group-title="",HGTV UK (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqLyJ_zXrdkCSInhthNo88g/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J39j2mU.jpg" group-title="",DMAX UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeKGf5LA2kl86fW4FnDN9cw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujYMSpf.jpg" group-title="",Discovery Australia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsnsCFJMPIJaUSVP_hLVUCA/live
 
@@ -1423,6 +1426,14 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
 #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYZ1kwC.jpg" group-title="",GEORGY KAVKAZ ENG 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCps7EfvHEBh_gcfexeGG4CQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYZ1kwC.jpg" group-title="",GEORGY KAVKAZ ENG 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCps7EfvHEBh_gcfexeGG4CQ&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH5fPLW.jpg" group-title="",Adams Outdoor Cooking (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNQwhV9i4FGQkhfrP6uKb8Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHLlcoF.png" group-title="Food",vcr_survival (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_survival
