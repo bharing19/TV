@@ -12,6 +12,54 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+# https://www.devotv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtDJyfg.png" group-title="",Devotv - TV Room Fantasy
+https://03db58eb646d462eb893775807d2ec00.mediatailor.us-west-2.amazonaws.com/v1/master/772fbc48377f7ae51d9edf3939a87998e6bd5ca3/Fantasy-Ad-Config/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtDJyfg.png" group-title="",Devotv - TV Room Horror
+https://7b0c876f384e4420839116be5fb37a26.mediatailor.us-west-2.amazonaws.com/v1/master/772fbc48377f7ae51d9edf3939a87998e6bd5ca3/Horror-Ad-Config/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtDJyfg.png" group-title="",Devotv - TV Room Sci-Fi
+https://58a21a0a7ccb4f3f8cef82607c5c4289.mediatailor.us-west-2.amazonaws.com/v1/master/772fbc48377f7ae51d9edf3939a87998e6bd5ca3/Sci-Fi-Ad-Config/index.m3u8
+
+# https://creamvisionz.com/watch-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thC9fDm.png" group-title="",Cream Visionz TV
+https://vse2-na-us-ne24.secdn.net/tvstartup12-channel/live/mp4:creamvisionzedge/playlist.m3u8
+
+# https://go.midsouth.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22Ji65s.png" group-title="",Mid-South TV (Not 24/7)
+https://2-fss-1.themediacdn.com/pl_122/202202-1915442-1/playlist.m3u8
+
+# https://go.natchez.tv/#live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5dDJ3kR.png" group-title="",Natchez TV
+https://2-fss-2.themediacdn.com/pl_138/amlst:202202-2719338/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5dDJ3kR.png" group-title="",Natchez TV Schedule
+https://2-fss-2.themediacdn.com/pl_120/202202-2708918-1/playlist.m3u8
+
+# https://cinelife.com/watch-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pl9h8iS.png" group-title="",CineLife
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+# https://streamstak.com/ 4 others are VOD Playlist
+#EXTINF:-1 tvg-logo="https://i.imgur.com/be2Z5it.jpg" group-title="",ACL Cornhole TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1289
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cET4oOg.jpg" group-title="",Billiard TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaSrG1H.png" group-title="",Boxing TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2375
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laB3AmR.jpg" group-title="",Broadway On Demand
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3254
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LP60XDI.jpg" group-title="",DNVR
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13n0eRL.jpg" group-title="",FTF Sports
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2928
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHCJWCh.png" group-title="",Jai-Alai TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMLirql.jpg" group-title="",LSN
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1132
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvmeQNY.jpg" group-title="",MotoAmerica TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFXOnj0.png" group-title="",Whistle TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2682
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJCOrxo.jpg" group-title="",Th3Gazette (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/th3gazette
 
