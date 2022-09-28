@@ -164,6 +164,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm_dwtCx0j9M2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnvkOKv.jpg" group-title="",Discovery UK (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9cGX5x0_EXkdfmWlvPbu3g/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XtOcSq.jpg" group-title="",National Geographic (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GtIZvs.jpg" group-title="",Wheeler Dealers (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrR8EaUgPzJnrie4w46rUAg/live
 
@@ -175,6 +178,15 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqLyJ_zXrdkCS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujYMSpf.jpg" group-title="",Discovery Australia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsnsCFJMPIJaUSVP_hLVUCA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxaxDv4.jpg" group-title="Food",All In The Kitchen (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC__rQXvDmpdlo16NIRiUp4g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jTUDLE.jpg" group-title="Food",Kitchen Nightmares (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUZzyuAlhHNP3oiuMjn7RfQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCRCGMG.jpg" group-title="Food",Food Network UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzYZk4bZ07yJeK7Zd_z37Cw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgIJiEA.jpg" group-title="",discovery plus Norge (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYM3pKj9tFQOXc2XcJmj8Vg/live
@@ -208,9 +220,6 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/thatweekinsnl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5o5BnS.png" group-title="",WuxiaCentral (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/wuxiacentral
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3XtOcSq.jpg" group-title="",National Geographic (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNfTarO.jpg" group-title="Movies",HBO TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC--et0HhrQABj19i4S09fQg/live
@@ -1414,15 +1423,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
 #######
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YxaxDv4.jpg" group-title="Food",All In The Kitchen (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC__rQXvDmpdlo16NIRiUp4g/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jTUDLE.jpg" group-title="Food",Kitchen Nightmares (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUZzyuAlhHNP3oiuMjn7RfQ/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FCRCGMG.jpg" group-title="Food",Food Network UK (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzYZk4bZ07yJeK7Zd_z37Cw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHLlcoF.png" group-title="Food",vcr_survival (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_survival
