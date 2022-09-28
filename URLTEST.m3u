@@ -327,6 +327,10 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC56_hOqEtBqHw
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWrgDnQgY5t2IhjpdKu-jg/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCB9aDQ.jpg" group-title="",5-Minute Crafts TOP (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQPgdCvUt5gG2M3koC5TY3w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNLvWHI.jpg" group-title="",5-MINUTE MAGIC (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnobTPLeBxWHurWHq8jzsnA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwcEGMf.jpg" group-title="",5-MINUTE REPAIR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuGS1iJpM_4ZYFp62mia2xQ/live
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/0nszivI.png" group-title="News",CNN GO
 https://cutt.ly/1LuF5CM
