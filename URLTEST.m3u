@@ -12,6 +12,9 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajBSOcu.jpg" group-title="",The Walking Dead (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWyesNAlftV3kJlFhD6q6w/live
+
 # https://www.devotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtDJyfg.png" group-title="",Devotv - TV Room Fantasy
 https://03db58eb646d462eb893775807d2ec00.mediatailor.us-west-2.amazonaws.com/v1/master/772fbc48377f7ae51d9edf3939a87998e6bd5ca3/Fantasy-Ad-Config/index.m3u8
