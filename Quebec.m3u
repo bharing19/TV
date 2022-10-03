@@ -9,6 +9,10 @@ plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="",TVA Sports 1 (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3ATBD-TVAS12345&sourceUrl=ref%3ATBD-TVAS12345
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="",TVA Sports 2 (En Débrouillage) (Addon TVA+)
+plugin://plugin.infologique.TVAgo/?url=ref%3Atvas_6000913314001&sourceUrl=ref%3Atvas_6000913314001
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
