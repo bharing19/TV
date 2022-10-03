@@ -39,3 +39,5 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/axp/linear_channel/logo/366x206/trueafrican.jpg" group-title="Premiumfree.tv",True African
 https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/axp/linear_channel/thumbnails/widescreen/366x206/crime_and_evidence_logo_w.jpg" group-title="Premiumfree.tv",Crime and Evidence
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
