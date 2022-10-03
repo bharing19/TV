@@ -405,6 +405,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCFZSV_So_OaXgXVzgu58tJQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",cpac (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFZSV_So_OaXgXVzgu58tJQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cheIall.png" group-title="",Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
 
@@ -504,6 +507,9 @@ https://cutt.ly/cJPA3li
 https://cutt.ly/fJPA4eI
 #EXTINF:-1 tvg-id="GlobalNewsWinnipeg.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/EyfpCkY.jpg" group-title="News",Global News Winnipeg (720p)
 https://cutt.ly/jJPA5e4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vl1b80p.jpg" group-title="",HeartLand
+https://d76toswjmqqzm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Heartland-prod/playlist.m3u8
 
 # https://www.jessfm.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUoz7bo.png" group-title="Radio",Jess TV (Lethbridge) (720p)
