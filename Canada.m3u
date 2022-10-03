@@ -684,53 +684,53 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCk3KewaoNL1E-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" ,ROGERS TV ## New Brunswick Channel Could be Not 24/7 ##
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Bathurst ENG/FR
-https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m21_card1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="Community",ROGERS TV Edmundston FR
-https://5e7c60955a878.streamlock.net/rtv_live/m28_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m28_card1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Miramichi
-https://5e7c60955a878.streamlock.net/rtv_live/m21_card3/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m21_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="Community",ROGERS TV Fredericton ENG/FR
-https://5e7c60955a878.streamlock.net/rtv_live/m21_card2/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m21_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Moncton
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m28_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="Community",ROGERS TV Moncton FR
-https://5e7c60955a878.streamlock.net/rtv_live/m21_card4/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m21_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Saint John
-https://5e7c60955a878.streamlock.net/rtv_live/m28_card3/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m28_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" ,ROGERS TV ## Newfoundland Channel Could be Not 24/7 ##
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Corner Brook
-https://5e7c60955a878.streamlock.net/rtv_live/m37_card4/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Gander
-https://5e7c60955a878.streamlock.net/rtv_live/m37_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Grand Falls - Windsor
-https://5e7c60955a878.streamlock.net/rtv_live/m37_card3/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV St. John's
-https://5e7c60955a878.streamlock.net/rtv_live/m37_card2/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" ,ROGERS TV ## Ontario Channel Could be Not 24/7 ##
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Barrie
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m32_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Borden/Alliston
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Bramtford
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Collingwood
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m24_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Dufferin-Caledon
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card4/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m24_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Durham Region
-https://5e7c60955a878.streamlock.net/rtv_live/m25_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Durham Region
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Georgina
-https://5e7c60955a878.streamlock.net/rtv_live/m26_card4/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m26_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Grey County
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m24_card1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Guelph
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Kincardine
-https://5e7c60955a878.streamlock.net/rtv_live/m19_card1/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m19_card1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Kitchener
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV London
@@ -740,9 +740,9 @@ plugin://plugin.video.youtube/play/?channel_id=UC22i7hNE51BtJRF7HnFN_Ag&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV London (STK) (Not24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC22i7hNE51BtJRF7HnFN_Ag/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Midland
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card2/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m30_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Orillia
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card4/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m30_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Ottawa
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="Community",ROGERS TV Ottawa FR
@@ -752,13 +752,13 @@ plugin://plugin.video.youtube/play/?channel_id=UC566jxF6reNzUNuES5Hk-sg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="Community",ROGERS TV Ottawa FR (STK) (Not24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC566jxF6reNzUNuES5Hk-sg/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Strathroy - Caradoc
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m20_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV St.Thomas
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m20_card3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Waterloo Region
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV WoodStock
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
+https://livedrm.akamaized.net/hls/live/1021686/rtv/m20_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="Community",ROGERS TV Uxbridge/Scugog
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
 
