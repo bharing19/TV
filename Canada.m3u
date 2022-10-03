@@ -332,9 +332,16 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_71.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
 
 # https://www.chch.com/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlmE2Xu.jpg" group-title="",CHCH
+plugin://plugin.video.tvone1112/play/1912/play.pvr
+# https://www.youtube.com/c/CHCHNewsHamilton
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlmE2Xu.jpg" group-title="News",CHCH News (Not 24/7) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjkETDTi-OBxrN4z5lvaL5A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlmE2Xu.jpg" group-title="News",CHCH News (Not 24/7) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjkETDTi-OBxrN4z5lvaL5A/live
 
 # https://www.cheknews.ca/live-news-british-columbia/
-#EXTINF:-1 tvg-id="Cheknews.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="News",Cheknews (1080p) [Not 24/7] (STK)
+#EXTINF:-1 tvg-id="Cheknews.ca" tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="News",Cheknews (1080p) [Not 24/7] (STK)
 plugin://plugin.video.sendtokodi/?https://player.zype.com/embed/62ec07c17176280001fd6aa4.html?api_key=wPVS5IQoMHNsQvfrGuKJ9spKSKCXxsjs0Bf1UVshCI5sUtrj&controls=true&da=true
 
 # https://chco.tv/
@@ -405,7 +412,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCFZSV_So_OaXgXVzgu58tJQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",cpac (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFZSV_So_OaXgXVzgu58tJQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cheIall.png" group-title="",Crime Time
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cheIall.png" group-title="Series;Documentary",Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
@@ -455,7 +462,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/ETCanadaOfficial/liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network
+#EXTINF:-1 tvg-id="FightNetwork.ca"  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 # https://www.youtube.com/user/FootballCanada1884
@@ -508,7 +515,7 @@ https://cutt.ly/fJPA4eI
 #EXTINF:-1 tvg-id="GlobalNewsWinnipeg.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/EyfpCkY.jpg" group-title="News",Global News Winnipeg (720p)
 https://cutt.ly/jJPA5e4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vl1b80p.jpg" group-title="",HeartLand
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vl1b80p.jpg" group-title="Series",HeartLand
 https://d76toswjmqqzm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Heartland-prod/playlist.m3u8
 
 # https://www.jessfm.ca/
@@ -669,7 +676,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgL9ryUpMGB7p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/civVGxa.png" group-title="Religious",Quo Vadis TV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 
 # https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio",Radio New Classical FM (c_id) (YT)
@@ -779,10 +785,7 @@ plugin://script.module.7of9-live/play/215/play.pvr
 http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 
 # https://www.tsc.ca/pages/watchuslive?ic=HP_WatchUsLive
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ach8VP4.jpg" group-title="",tsc.ca
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",tsc.ca The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Weather",The Weather Network (OPT-2)
@@ -799,9 +802,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCudbgOL5gua8MaaUXUpElSQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSDhPiR.png" group-title="Legislative",Toronto City Planning (STK) (Not24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/TorontoCityPlanning/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="",Toronto Transit Commission (YT) (c_id) (Not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="Legislative",Toronto Transit Commission (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCGO-x25PyOx0IDm9A1dC5Ag&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="",Toronto Transit Commission (STK) (Not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="Legislative",Toronto Transit Commission (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGO-x25PyOx0IDm9A1dC5Ag/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",TSN 1 (TT)
@@ -854,15 +857,15 @@ plugin://plugin.video.youtube/play/?channel_id=UCjKq-J6gMrDCPOdZdXOUuVA&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjKq-J6gMrDCPOdZdXOUuVA/live
 
 # https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="Weather",Winnipeg  Live Weather (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCijum8ufGvG9ydfByx1E8yg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="Weather",Winnipeg  Live Weather (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
 
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
-#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLXhtax.jpg" group-title="Radio",ZoomerRadio (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCon2a9opDXmI-i3Be6PYBQA&live=1
-#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLXhtax.jpg" group-title="Radio",ZoomerRadio (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA/live
 
 ##########
