@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/64P3H5D.jpg",★★★★★★★★★★[COLOR gold]Hi-Res Internet Radio[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# http://134.119.178.2:9000/
+#EXTINF:-1 tvg-logo="" group-title="HQ Radio",24Music Radio
+http://134.119.178.2:9000/live2
+
 # https://95bfm.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/er2X6hO.png" group-title="HQ Radio",95bFM
 http://streams.95bfm.com:80/stream112
@@ -90,6 +94,10 @@ https://maggie.torontocast.com:8076/flac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSubsw3.png" group-title="HQ Radio",Joyhits
 http://joyhits.online/joyhits.flac.ogg
 
+# https://www.lesonparisien.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tqqtYZ.png" group-title="HQ Radio",Le Son Parisien
+http://stream.lesonparisien.com:80/live.flac
+
 # http://luciferfm.nl/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9UqR6I.png" group-title="HQ Radio",Lucifer FM
 http://gnoenet.nl/radio/8000/luciferflac.mp3
@@ -132,6 +140,10 @@ http://stream.openbroadcast.org/openbroadcast.flac
 # https://www.pureclassix.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZInOnDU.png" group-title="HQ Radio",PureClassix
 http://mscp4.live-streams.nl:8140/flac.ogg
+
+# https://punkrockers-radio.de/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NM8vJmu.png" group-title="HQ Radio",Punkrockers Radio
+http://stream.punkrockers-radio.de:8000/prr.flac
 
 # https://www.radioduepuntozero.it/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q77n0GO.png" group-title="HQ Radio",Radio 2.0
@@ -225,10 +237,13 @@ http://thecheese.ddns.net:8004/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2d4HvXB.png" group-title="HQ Radio",Zap! FM
 https://zapstream.nl:8443/1
 
+# https://www.norbert.de/index.php?id=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9OqyTi.gif" group-title="HQ Radio",Zappa Stream Radio
+http://streams.norbert.de:8000/zappa.flac
+
 # https://www.zog.net.au/experimental-zog-internet-radio-station.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0MiwA.png" group-title="HQ Radio",Zog Radio
 http://icecast.zog.net.au:8000/source
-
 
 ###
 
@@ -241,4 +256,3 @@ https://webcam.440hz-radio.de/hls/440HzStudio.m3u8
 # https://www.xradio.nl/
 EXTINF:-1 tvg-logo="https://i.imgur.com/Xk23eMS.png" group-title="HQ Radio",XRadio (Offline)
 http://stream06.dotpoint.nl:8050/xradio.flac
-
