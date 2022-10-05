@@ -879,6 +879,11 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV (OPT-2)
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xa1B0pz.jpg" group-title="Religious",Adath Israel Toronto (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMvKftvQVuNZpoCkCuwM_Sw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xa1B0pz.jpg" group-title="Religious",Adath Israel Toronto (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMvKftvQVuNZpoCkCuwM_Sw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (YT) (c_id)(not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCm79XEl3myfkTROlWkwgYKQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (STK) (not 24/7)
@@ -1065,6 +1070,11 @@ http://cdn.samtv.ca/ptv24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pwhz4O0.jpg" group-title="Religious",Sikh Spiritual Centre Toronto (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuhoZotTiAf6lDVro6pUaEw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pwhz4O0.jpg" group-title="Religious",Sikh Spiritual Centre Toronto (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuhoZotTiAf6lDVro6pUaEw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnnjPJy.jpg" group-title="Religious",SMA - Jame Abu Bakr Siddique (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UClzlEx2pY5XBVnUDB9T8xlg&live=1
