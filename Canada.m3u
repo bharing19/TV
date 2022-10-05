@@ -170,15 +170,15 @@ https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada TV English[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ykrhy7.jpg" group-title="News",APTN News (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCA-IcIBtmwCirNr1f-n_SRA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="Religious",Basilica Cathedral of St.John NewFoundLand (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCeBMTyUFh2MYcfqjWb4G5Og&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="Religious",Basilica Cathedral of St.John NewFoundLand (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/brianwlake/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGnBg0p.jpg" group-title="",Bible Discovery TV (Monday, Wednesday, and Friday for Live Prayer right here at 3:00pm EST)
@@ -459,7 +459,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCKY5PiEq8Tl9r7f3qittXng&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4H8upO.jpg" group-title="",ET Canada (STK) (Not24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/ETCanadaOfficial/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Religious",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
 #EXTINF:-1 tvg-id="FightNetwork.ca"  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network
@@ -884,10 +884,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCm79XEl3myfkTROlWkwgYKQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6614Bj.jpg" group-title="",AHORA CANADA (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm79XEl3myfkTROlWkwgYKQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV
-http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV
 http://ca1.buximedia.com:8080/coa/assyriantv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oQ89xZt.jpg" group-title="",ATV Canada Inc (YT) (c_id)
@@ -941,6 +939,11 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_199680_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZpRvFq.jpg" group-title="Religious",Dashmesh Culture Centre Calgary (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5Ls0yJbNABQn8HeARivOSQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZpRvFq.jpg" group-title="Religious",Dashmesh Culture Centre Calgary (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5Ls0yJbNABQn8HeARivOSQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXvU87l.png" group-title="Canada",Deshe Bideshe TV
 https://db71.livebox.co.in/deshebideshehls/tv.m3u8
 
@@ -972,13 +975,15 @@ http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
 #EXTINF:-1 tvg-logo="https://globalpunjabtv.com/wp-content/uploads/2019/08/logo-2.png" group-title="",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 
-# https://www.youtube.com/channel/UCNYMuETXWtm6Nh1R4wGESIQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSvS1rp.png" group-title="",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT)
-plugin://plugin.video.youtube/play/?video_id=R97f8Ay-aZ8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PtwueE.jpg" group-title="Religious",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNYMuETXWtm6Nh1R4wGESIQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PtwueE.jpg" group-title="Religious",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNYMuETXWtm6Nh1R4wGESIQ/live
 
-# https://www.youtube.com/channel/UC5Ls0yJbNABQn8HeARivOSQ
-#EXTINF:-1 tvg-logo="EWx4xALxqr0" group-title="",Gurdwara Sahib - DCC Calgary (YT)
-plugin://plugin.video.youtube/play/?video_id=hHVlXaBxL-o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9Gd27h.jpg" group-title="Religious",Gurmat Meditation LIVE (formerly Canada GMC) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCYnm0mdVKOqnCrxQf9gOl_A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9Gd27h.jpg" group-title="Religious",Gurmat Meditation LIVE (formerly Canada GMC) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYnm0mdVKOqnCrxQf9gOl_A/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
@@ -987,9 +992,9 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 http://cdn.samtv.ca/hamdard/index.m3u8
 
 # https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (c_id) (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="Religious",Hindu Temple Society Of Canada (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UCGGJSYbYXtyy6T1oN-MU9bQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="",Hindu Temple Society Of Canada (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9PXbmD.png" group-title="Religious",Hindu Temple Society Of Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGGJSYbYXtyy6T1oN-MU9bQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",Hyder TV
@@ -1041,6 +1046,11 @@ https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nHCiUac.png" group-title="Canada",NTD TV Canada
 https://live.ntdimg.com/mllive860/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilaqg2L.jpg" group-title="Religious",Ontario Khalsa Darbar Official (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqlz5xjRN29s51_Jddjo1Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilaqg2L.jpg" group-title="Religious",Ontario Khalsa Darbar Official (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMqlz5xjRN29s51_Jddjo1Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
@@ -1055,6 +1065,11 @@ http://cdn.samtv.ca/ptv24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnnjPJy.jpg" group-title="Religious",SMA - Jame Abu Bakr Siddique (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClzlEx2pY5XBVnUDB9T8xlg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnnjPJy.jpg" group-title="Religious",SMA - Jame Abu Bakr Siddique (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClzlEx2pY5XBVnUDB9T8xlg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
