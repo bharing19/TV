@@ -1,7 +1,7 @@
 #EXTM3U
 
 # https://www.cineverse.com/livetv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ttgWWug.png" ,★★★★★★★★★★[COLOR blue]Cineverse[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttgWWug.png" ,★★★★★★★★★★[COLOR blue]Cineverse By Cinedigm.[/COLOR]★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E401FPs.png" group-title="cineverse.com",Cineverse Selects
 https://e71eb0b8d45d49f880b29094336954a0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/ONO_Cinehouse/playlist.m3u8?ads.wurl_channel=492&ads.wurl_name=Cinehouse&ads.us_privacy=0&ads.psid=0&ads.targetopt=0&ads.app_bundle=__JTV__APP__BUNDLE__&ads.app_name=Cineverse&ads.app_store_url=__JTV__STORE__URL__&ads.gdpr=0&ads.consent=0
