@@ -39,6 +39,11 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Vx2Hkq.jpg" group-title="Religious",Christ Church Cathedral Montreal (YT) (c_id) (Non 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC_848K2Cs600aXnMoS-94cA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Vx2Hkq.jpg" group-title="Religious",Christ Church Cathedral Montreal (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_848K2Cs600aXnMoS-94cA/live
+
 # http://cnv.ca/cnv.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azFxS50.jpg" group-title="Radio",CNV
 https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
