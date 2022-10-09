@@ -1,0 +1,24 @@
+#EXTM3U
+
+# https://www.shoutfactorytv.com/live-channels
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJjbAeO.png" ,ShoutFactory TV
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54WQeNJ.jpg" group-title="",★★★★★★★★★★[COLOR red]Shout! Factory TV[/COLOR]★★★★★★★★★★
+https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Iux4sN.jpg" group-title="",Farscape
+https://a8d3367c658948afb1901efdd9babe5b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_Farscape/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jybp9OO.jpg" group-title="",ALF
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRn2m14.jpg" group-title="",Scream Factory TV
+https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaDYmUU.jpg" group-title="",Shout! Cult
+https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ShoutCult/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcdiPHx.jpg" group-title="",MST3K
+https://mst3k-ts-zype.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-ts-zype/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2fPhCN.jpg" group-title="",The Carol Burnett Show
+https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ11tgW.jpg" group-title="",Johnny Carson TV
+https://johnnycarson-zype.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vz4wVCl.jpg" group-title="",TokuSHOUTsu
+https://tokushoutsu-zype.amagi.tv/playlist.m3u8

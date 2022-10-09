@@ -1,0 +1,21 @@
+#EXTM3U
+
+# https://www.screambox.com/livetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxQ8FvS.png" ,★★★★★★★★★★[COLOR red]Screambox By Cinedigm.[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQoHodP.png" group-title="Screambox",Bloody Disgusting TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKrJVRu.png" group-title="Screambox",Midnight Pulp
+https://a1f7a9bbbdd543fdae29ddf130ec0667.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/ONO_MidnightPulp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PD9cxTV.png" group-title="Screambox",Crime Hunters
+https://54328708dc7046d394652cd42745cbbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_CrimeHunters/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GoWAB8.png" group-title="Screambox",RetroCrush
+https://192e29da899c428bbeb322147e6caba2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/ONO_RetroCrush/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCA4AOg.png" group-title="Screambox",El Rey Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ2uoDu.png" group-title="Screambox",Shout Factory TV
+https://amg00163-shoutfactory-shoutfactory-dmr-maeqc.amagi.tv/playlist/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8e4Tco.png" group-title="Screambox",Mystery Science Theater 3000 (MST3K)
+https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxRveNQ.png" group-title="Screambox",Con TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-contv-cineverse/playlist.m3u8
