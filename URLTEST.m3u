@@ -339,6 +339,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWrgDnQgY5t2
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQPgdCvUt5gG2M3koC5TY3w/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNLvWHI.jpg" group-title="",5-MINUTE MAGIC (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnobTPLeBxWHurWHq8jzsnA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y968r5L.jpg" group-title="",5-Minute Crafts Recycle (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCLVg6BI7NxDIp6GFKfFGFw/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwcEGMf.jpg" group-title="",5-MINUTE REPAIR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuGS1iJpM_4ZYFp62mia2xQ/live
 
