@@ -319,30 +319,6 @@ plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0EmGJkC.jpg" group-title="",EVNautilus 4 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC1KOOWHthbQVXH2kZue3_xA&live=4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YgpR09.jpg" group-title="",5-Minute DECOR (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDTeCWl-l9_6HPwG5ryckkQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88lyyM8.jpg" group-title="",5-Minute Crafts FAMILY (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC63mNFJR8EAb8wAIJwoCmTA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2ODFb3.jpg" group-title="",5-Minute Crafts LIKE (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzTWHWnJ6VIcbkpqyv7_FaQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fasah2D.jpg" group-title="",5-Minute Recipes (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkqaQoGJ2rAHhWk7gzsb9Aw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyzf1Ej.jpg" group-title="",5-Minute Crafts (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qcbbi0q.jpg" group-title="",5-Minute Crafts Tech (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXFeIOYbhWHrXCIqerycvNQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yo9FpJm.jpg" group-title="",5-Minute Crafts VS (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC56_hOqEtBqHwnVNBzOWj-A/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qH1q0Cd.jpg" group-title="",5-Minute Crafts SHORTS (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmWrgDnQgY5t2IhjpdKu-jg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UCB9aDQ.jpg" group-title="",5-Minute Crafts TOP (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQPgdCvUt5gG2M3koC5TY3w/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNLvWHI.jpg" group-title="",5-MINUTE MAGIC (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnobTPLeBxWHurWHq8jzsnA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y968r5L.jpg" group-title="",5-Minute Crafts Recycle (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCLVg6BI7NxDIp6GFKfFGFw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwcEGMf.jpg" group-title="",5-MINUTE REPAIR (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuGS1iJpM_4ZYFp62mia2xQ/live
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/0nszivI.png" group-title="News",CNN GO
 https://cutt.ly/1LuF5CM
