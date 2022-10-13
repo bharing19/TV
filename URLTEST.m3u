@@ -546,6 +546,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCIYVU7fPs_n6gJIBso3ryeg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIYVU7fPs_n6gJIBso3ryeg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSAZ5hA.jpg" group-title="",PBS NewsHour (STK)  (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UClfc1_I5AVnnRAvIRpwLXBQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (STK)
