@@ -9,6 +9,9 @@ plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ar8TEhV.jpg" group-title="Sports",Patinage de vitesse Canada (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMZiT0umFpHmKxJfvLKh_TA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="",TVA Sports 1 (En Débrouillage) (Addon TVA+)
 plugin://plugin.infologique.TVAgo/?url=ref%3ATBD-TVAS12345&sourceUrl=ref%3ATBD-TVAS12345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5rroKn.png" group-title="",TVA Sports 2 (En Débrouillage) (Addon TVA+)
