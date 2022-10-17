@@ -3,6 +3,8 @@
 # https://www.0nradio.com/
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/logo.png" ,★★★★★★★★★★[COLOR yellow]0nradio[/COLOR]★★★★★★★★★★
 0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/stationen/thumb1/0-n-radio-80-1.jpg" group-title="",0N Radio
+https://0n-radio.radionetz.de/0n-radio.mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/stationen/thumb1/0-n-50s-69-1.jpg" group-title="",50s
 https://0n-50s.radionetz.de/0n-50s.mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/stationen/thumb1/0-n-60s-33-1.jpg" group-title="",60s
