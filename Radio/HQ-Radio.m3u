@@ -228,6 +228,8 @@ http://198.204.228.202:8030/flac
 http://198.204.228.202:8643/flac5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRYH4VU.jpg" group-title="HQ Radio",SuperStereo 6 Instrumental Music
 http://198.204.228.202:8157/flac6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tw1hfes.png" group-title="HQ Radio",SuperStereo 7 Jazz
+http://198.204.228.202:8030/flac7
 
 # https://thecheese.co.nz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/McBs2xj.jpg" group-title="HQ Radio",The Cheese
@@ -252,6 +254,10 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/0yxApy3.png" group-title="HQ Radio",440H
 https://stream.440hz-radio.de/440hz.flac.ogg
 EXTINF:-1 tvg-logo="https://i.imgur.com/0yxApy3.png" group-title="",440Hz Radio Studio Cam (Offline)
 https://webcam.440hz-radio.de/hls/440HzStudio.m3u8
+
+# tsuiokuyo.ddns.net:8763/js_flat.html
+EXTINF:-1 tvg-logo="https://i.imgur.com/A6cC6OO.png" group-title="HQ Radio",Tsuiokuyo’s Anime Music (Offline)
+http://tsuiokuyo.ddns.net:8764/stream.ogg
 
 # https://www.xradio.nl/
 EXTINF:-1 tvg-logo="https://i.imgur.com/Xk23eMS.png" group-title="HQ Radio",XRadio (Offline)
