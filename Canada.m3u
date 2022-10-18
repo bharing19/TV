@@ -652,13 +652,13 @@ http://ntv.ca/weather/animations/FUTURECAST_WEB.mp4
 http://s7.voscast.com:10876/OZFM#.mp3
 
 # https://saultonline.com/onntv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario (OFFLINE)
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 # https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (YT) (c_id) (not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCr7gh2Z4NzcMlRdwqavYcgw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (STK) (not 24/7)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5aMCtN.png" group-title="",Ottawa Art Gallery (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UC9-smUCSJkjfDcral3_cRuA&live=1
