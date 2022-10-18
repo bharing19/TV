@@ -12,6 +12,15 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",CRTV-Sinclair
+http://crtvnoc.com/hls/master-CRTV-Sinclair.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Select-tv-main
+http://crtvnoc.com/hls/select-tv-main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CRTV-Sinclair-vod
+http://crtvnoc.com/hls/master-CRTV-Sinclair-vod.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Select-tv-main-vod
+http://crtvnoc.com/hls/select-tv-main-vod.m3u8
+
 # https://24flix.tv/watch/35204519
 #EXTINF:-1 tvg-logo="https://cdn.marschannels.com/files/channel_settings/web/img/1659009930837.png" group-title="",24 Flix TV
 https://edge-fast.evrideo.tv/0e2f98df-2eb5-4702-89fe-bfeb62d665f8_0_HLS/manifest.m3u8
