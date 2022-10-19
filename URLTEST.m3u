@@ -12,6 +12,39 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhhyV24.jpg" group-title="",PartypokerTV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhhyV24.jpg" group-title="",PartypokerTV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKZS1rt.jpg" group-title="",World Poker Tour (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEUGxpG2rkyJlCvr46PBr6g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN6Dogd.jpg" group-title="",Poker Night in America (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGssMuyIO3KNSFFqmBoY8jQ/live
+
+# https://www.wonnewyork.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXRn5sX.png" group-title="",WWON-TV Channel 48
+https://vse2-na-us-ne4.secdn.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IY62aRa.png" group-title="Radio",920 WON: The Apple | WON New York
+https://26383.live.streamtheworld.com/SAM03AAC349.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YU7GZy.png" group-title="Radio",940 WHN: The Liberty | WON New York
+https://17563.live.streamtheworld.com/SP_R4092793.aac
+
+# https://www.bronxnet.org/watch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet BX OMNI
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet BX ARTS
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet BX Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet BX Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJyUzGu.png" group-title="",Bronxnet NYXT NYC
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",CRTV-Sinclair
 http://crtvnoc.com/hls/master-CRTV-Sinclair.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Select-tv-main
