@@ -28,6 +28,79 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-chno="692" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Explore",Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5leQn4d.png" ,★★★★★★★★★★Roku Channel Canada★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agPnaTk.png" group-title="",Asian Crush
+https://dmr-asiancrush-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IZbMs0.png" group-title="",Bein Xtra
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-bein-beinxtra-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfkVulg.jpg" group-title="",Caught in Providence
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-caughtinprovi-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JViGeAX.jpg" group-title="",Cinevault 70's
+https://gsn-cinevault-70s-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYvbgcD.jpg" group-title="",Cinevault 80's
+https://gsn-cinevault-80s-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ez9eY9K.jpg" group-title="",Cinevault Classics
+https://gsn-cinevault-classics-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7yIREBq.jpg" group-title="",Cinevault Westerns
+https://gsn-cinevault-westerns-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qt10qW7.jpg" group-title="",COPS
+https://langley-productions-cops-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0nqmpOH.png" group-title="",Crimetime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamcanada-crimetime-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpQuO7P.png" group-title="",Demand Africa
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachannel-demandafrica-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EsylpZ1.png" group-title="",FigTree TV
+https://canyonproductions-figtreetv-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcnPJog.jpg" group-title="",FTF sports
+https://elevensports-samsunguk-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APAcmmE.jpg" group-title="",Haunt TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamcanada-haunttv-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKlZc4e.jpg" group-title="",Homeful
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulcanada-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USk6cC0.png" group-title="",Iheart 80's
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USk6cC0.png" group-title="",Iheart 80's
+https://b442abec7ffe4df7b62981d982456ad9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeart80s_zc9010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ey4ZcIP.png" group-title="",Iheart 90's
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ey4ZcIP.png" group-title="",Iheart 90's
+https://4e95c2e65c884706a761459ac4dfb167.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeart90s_zc8996/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJKBMqD.png" group-title="",Iheart Alternative
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJKBMqD.png" group-title="",Iheart Alternative
+https://2e46ff2398314db988ca73251518f2fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AltRadio_zc9011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7UuDo4.png" group-title="",Iheart Classic Rock
+https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7UuDo4.png" group-title="",Iheart Classic Rock
+https://d73b4f067ead4cbbac116b10530474df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ClassicRockChannel_zc9012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfpPkR2.png" group-title="",Iheart Country
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfpPkR2.png" group-title="",Iheart Country
+https://094e541bbcc641c58e50f91cfffb88c1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeartCountry_zc9006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zilvpQW.png" group-title="",IHeart Latino Hits
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zilvpQW.png" group-title="",IHeart Latino Hits
+https://49e1d975e823469a8b94288557c577a0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_LatinoHits_zc9007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnTsTvW.png" group-title="",IHeart The Beat
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnTsTvW.png" group-title="",IHeart The Beat
+https://01fe7f3f042345afb048e5a6e8868bc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_TheBeat_zc9014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPKNmUe.jpg" group-title="",MagellanTV Now
+https://magellantv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yc6TQ0S.jpg" group-title="",NewK Movies
+https://newidco-newkmovies-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgdPEbi.png" group-title="",So Yummy !
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummyintl-rokuca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjKs3zn.jpg" group-title="",Spark TV
+https://candlelightmedia-sparklightlove-5-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTwBLob.png" group-title="",The Design Network
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbf1uMf.png" group-title="",The Red Green show
+https://answermedia-theredgreenshow-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjJohEX.jpg" group-title="",True Crime now
+https://alliantcontent-truecrimenow-1-ca.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Samsung TV+ Canada[/COLOR]★★★★★★★★★★
 0.0.0.0
 
