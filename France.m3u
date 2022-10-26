@@ -777,6 +777,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCW2QcKZiU8aUG
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="actualités",Euronews ჯორჯია (GE)
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+# https://www.euronews.rs/tv-uzivo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="actualités",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 
 #  https://www.europe1.fr/direct-video  https://www.youtube.com/c/Europe1/live ; non 24/7
 #EXTINF:-1 tvg-id="Europe1.fr" tvg-name="Europe1 FR" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="Radio",europe1 (DM)
