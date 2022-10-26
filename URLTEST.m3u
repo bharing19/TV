@@ -12,6 +12,26 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+# https://foxd.network/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DYEIAAz.png" group-title="",Flavors of NY
+https://app.viloud.tv/hls/channel/3c17eee2a48b3cbd9c9dd98b83631dc8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7PWGxH.png" group-title="",FOXD Channel
+https://app.viloud.tv/hls/channel/9c30f29876622d667d9cd31ecf01ec08.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzVrzgO.png" group-title="",Sarlat Rugby
+https://app.viloud.tv/hls/channel/1ef72aba9d468e5f6c50e6aca3411837.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ydumd74.png" group-title="",Before the Fame
+https://app.viloud.tv/hls/channel/efa01ab416ea4fd41113156466200f25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFMaQAG.jpg" group-title="",Crypto Crow
+https://app.viloud.tv/hls/channel/7fd6c21bb06f4a885270699fab371c64.m3u8
+
+# https://viva-rtv.es/viva-tv.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/reYoRgx.jpg" group-title="",VIVA RTV España
+https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
+
+# https://lachilena.tutv.cl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ju7MCS7.png" group-title="",La Chilena TV
+https://vdochile.com:3134/stream/play.m3u8
+
 # https://www.mainstreamnetwork.com/watch/viewer.asp?station=folk-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WexfeZN.jpg" group-title="",FOLK TV
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
