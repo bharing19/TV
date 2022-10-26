@@ -64,8 +64,10 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEUGxpG2rkyJl
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGssMuyIO3KNSFFqmBoY8jQ/live
 
 # https://www.wonnewyork.net/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXRn5sX.png" group-title="",WWON-TV Channel 48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXRn5sX.png" group-title="",WWON-TV Channel 48 (Not 24/7)
 https://vse2-na-us-ne4.secdn.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXRn5sX.png" group-title="",WWON-TV Channel 48 (Not 24/7)
+https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IY62aRa.png" group-title="Radio",920 WON: The Apple | WON New York
 https://26383.live.streamtheworld.com/SAM03AAC349.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YU7GZy.png" group-title="Radio",940 WHN: The Liberty | WON New York
