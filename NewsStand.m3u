@@ -725,6 +725,8 @@ https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews ჯორჯია (GE)
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Serbia (RS)
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPMaV2Y.jpg" group-title="News",eXtra news (STK) - Egypt
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
