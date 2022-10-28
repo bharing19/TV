@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]WebCam Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE  ont le dernier stream dispo ### M.A.J 21/11/03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE  ont le dernier stream dispo ### M.A.J 22/10/27
 0.0.0.0
 
 # https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg https://www.portquebec.ca/a-propos-du-port/webcam/vue-sur-le-fleuve
@@ -250,6 +250,22 @@ http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 # https://www.youtube.com/channel/UCjBAKoKan7DGOHCjIdt99_w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5EyyVyU.jpg" group-title="cam",Zoo de Granby (YT) (UPD)  (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=7YfRIkHTThQ
+
+# https://zoosauvage.org/
+# https://www.youtube.com/user/zoosauvage
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien - Habitat des Ours Blancs (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=R3KWyxaCQxQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien - Habitat des macaques japonais (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=9EhmpVYYK7w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien - Habitat des géladas (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=Ei88vNwy18k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUQ0XE_qQxB1ZnfLts8dkBA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUQ0XE_qQxB1ZnfLts8dkBA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KN02Hhx.jpg" group-title="Cam",Zoo sauvage de Saint-Félicien 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUQ0XE_qQxB1ZnfLts8dkBA&live=3
 
 # https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM (YT) (c_id)
