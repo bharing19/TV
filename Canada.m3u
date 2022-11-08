@@ -1129,6 +1129,10 @@ plugin://plugin.video.youtube/play/?channel_id=UCMqlz5xjRN29s51_Jddjo1Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilaqg2L.jpg" group-title="Religious",Ontario Khalsa Darbar Official (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMqlz5xjRN29s51_Jddjo1Q/live
 
+# http://www.pamirtv.com/#firstPage
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QuWl7H.png" group-title="",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
@@ -1140,6 +1144,10 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW235cX.png" group-title="Canada",PTN 24
 http://cdn.samtv.ca/ptv24/tracks-v1a1/mono.m3u8
+
+# https://www.ranglapunjab.com/#iptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4frJTMR.png" group-title="",Rangla Punjab Radio CJMR 1320 AM Toronto
+http://playout.rptv.online/ranglapunjab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
