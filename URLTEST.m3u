@@ -12,6 +12,14 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+# https://www.necatnetwork.org/watch-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEDdeOc.png" group-title="PEG",Music City Arts
+https://pegstudio.dyndns.tv/live-11/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elzdT7f.png" group-title="PEG",iQtv Education
+https://pegstudio.dyndns.tv/live-12/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLwoNFQ.png" group-title="PEG",Access Nashville
+https://pegstudio.dyndns.tv/live-13/live/live.m3u8
+
 # https://foxd.network/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYEIAAz.png" group-title="",Flavors of NY
 https://app.viloud.tv/hls/channel/3c17eee2a48b3cbd9c9dd98b83631dc8.m3u8
@@ -607,10 +615,11 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+# https://americanhorrors.net/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
 https://5f12bfd029e37.streamlock.net/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BziWJPA.jpg" group-title="Movies",American Horrors Classic
+https://5d0cf65a7cc81.streamlock.net/live/Stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIHvNMs.png" group-title="Nosey",Divorce Court
 https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
