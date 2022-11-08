@@ -12,13 +12,13 @@ all Playlist work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as 
 - https://github.com/Sphinxroot/Kodi-Addons-AIOP/raw/main/Video/plugin.video.playlistloader-1.0.3%2Bmatrix.zip
 
 # All List in A AIO playlist Holder Addon Leia 18.9 -
-- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/blob/master/plugin.video.IPTV.Matele.Direct-1.0.0.zip
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Directs/raw/main/plugin.video.IPTV.Matele.Directs-1.0.0.zip
 
 # Depend Needed
-- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/tree/master/Depend
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Directs/tree/master/Depend
 
 # Note : StreamLinkTester (SLT) Install it in Order 1 to 6
-- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/tree/master/Depend/StreamLinkTester%20(SLT)
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Directs/tree/main/Depend/StreamLinkTester%20(SLT)
 
 ################
 
