@@ -153,6 +153,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoJhK5kMc4LjB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IsveuyM.jpg" group-title="",REAL TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1guGvX.jpg" group-title="",Cold Case Detective (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdjslyNQupPSFxK_mSPcG-g/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ths1o84.jpg" group-title="",Top5s (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCX51Dixddr5HuwLVBH9ykeQ/live
 
